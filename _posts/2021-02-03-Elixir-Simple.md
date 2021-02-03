@@ -1,44 +1,56 @@
-# Simplifier l’assurance santé, c’est notre truc #
-Elixir est une offre d’assurance santé 100% en ligne, simple à comprendre, souscrire et utiliser.  
+---
+layout: post
+current: post
+cover: assets/images/jeu-d-enfant.jpg
+navigation: True
+title: Simplifier l’assurance santé, c’est notre truc
+excerpt: La description qui va dans la page d'accueil (si on ne met rien, il prend le début du contenu)
+date: 2021-02-01 10:00:00
+tags: ["Pourquoi Elixir?"]
+class: post-template
+subclass: 'post'
+author: elixir
+---
+
+Elixir est une offre d’assurance santé 100% en ligne, simple à comprendre, souscrire et utiliser.
+
 La réglementation évoluant régulièrement, les garanties sont de plus en plus encadrées et les différences entre les contrats sont moins flagrantes. L’enjeu est désormais plus de bien rembourser ce qui est important, pris en charge par l’assurance maladie obligatoire (la sécu) ou pas, et d’être présent sur votre parcours de santé.  
+
 Nous, on a fait un choix un peu radical de ne vous proposer qu’un seul niveau de garanties en fonction de votre profil.   
-Pour chacun d’entre vous, nous avons conçu le meilleur compromis entre couverture et budget.  
-Et c’est cadeau, nos garanties sont exprimées de façon simple et transparente.   
-### Publié le   01/02/2021 par la Team Elixir – Mis à jour le   01/02/2021  
-Lecture : 4 minutes ###
+Pour chacun d’entre vous, nous avons conçu le meilleur compromis entre couverture et budget. 
 
-![Un jeu d’enfant](https://live.staticflickr.com/7401/11785998173_455da0657b.jpg)
+Et c’est cadeau, nos garanties sont exprimées de façon simple et transparente.
 
-## Elixir ou l’art du compromis ##
+## Elixir ou l’art du compromis
 
 Une assurance santé, d’après nous, ça doit d’abord vous garantir contre les coups durs, les frais occasionnés par un accident ou une maladie. 
 Votre assurance doit ensuite vous accompagner sur les dépenses de santé courantes, en tenant compte de vos besoins.
 Enfin, nous pensons que couvrir simplement des dépenses médicales ou paramédicales n’est pas suffisant. Chez Elixir nous pensons que c’est Vous qu’il faut couvrir, votre santé étant bien plus que des remboursements.
 
-### Un maximum de couverture : ###
+### Un maximum de couverture :
 
 **Quand vous êtes hospitalisé**, que vous devez accéder à un chirurgien, Elixir vous protège au mieux de ce qui est autorisé par la loi [voir contrats responsables].   
 Vous n’avez pas à vous préoccuper de savoir s’il faut aller en hôpital public ou en clinique privée. Vous choisissez l’établissement et les spécialistes qui conviennent à votre situation et Elixir s’occupe de la prise en charge et de régler directement l’hôpital.  
 Dans la majorité des cas, ça ne vous coûtera rien. Mais le système étant complexe, il y aura toujours quelques cas où vous aurez du reste à charge.   
 
-	**Notre promesse, c’est de faire au mieux de ce que la loi permet sur vos frais de séjours et dépassements d’honoraires. **
+**Notre promesse, c’est de faire au mieux de ce que la loi permet sur vos frais de séjours et dépassements d’honoraires.**
 
-**Pour vos accès aux médecins, généralistes et spécialistes**, là aussi, Elixir vous garantit au maximum de ce qui est possible de faire [voir optam].  
-Et comme il est très difficile de s’y retrouver dans les honoraires, Elixir vous met à disposition [**un simulateur de remboursements. **](https://elixir-sante.fr/simulateur)  
+**Pour vos accès aux médecins, généralistes et spécialistes** ,là aussi, Elixir vous garantit au maximum de ce qui est possible de faire [voir optam].  
+Et comme il est très difficile de s’y retrouver dans les honoraires, Elixir vous met à disposition [un simulateur de remboursements](https://elixir-sante.fr/simulateur).
 
 Vous choisissez le nom de médecin qui vous intéresse, un type de consultation et faites simplement varier le curseur des honoraires ;   
 
-**Elixir vous dit comment vous serez remboursé à l’avance. **
+**Elixir vous dit comment vous serez remboursé à l’avance.**
 
 Dans la majorité des cas, une consultation ne vous coûtera rien. Attention cependant à bien avoir déclaré un médecin traitant pour ne pas être pénalisé financièrement. (FAQ – médecin traitant]. 
 
 Quand votre médecin vous a prescrit **des médicaments, de la kiné, des soins infirmiers ou un appareillage**, là encore, tout est pris en charge. Sous réserve de quelques exceptions plutôt rares.  
 
-Souvent, vous avez recours à **l’autre médecine** pour retrouver votre équilibre de vie. Un français sur 4 a recours à un ostéopathe et un sur dix à un psychologue.  
+Souvent, vous avez recours à ** l’autre médecine** pour retrouver votre équilibre de vie. Un français sur 4 a recours à un ostéopathe et un sur dix à un psychologue.  
 Ces soins que l’assurance maladie obligatoire ne couvre pas, Elixir vous y donne accès avec de généreux forfaits.  
 Et comme ce n’est parfois pas suffisant, qu’il faut vous accompagner dans la durée, Elixir met à votre disposition un **conseiller** pour répondre à vos questions et **vous donner un coup de pouce** sur tout ce qui peut perturber votre quotidien : finances, handicap, aide de vos proches dépendants, rupture dans votre parcours.
 
-### Un compromis nécessaire pour votre budget : ###
+### Un compromis nécessaire pour votre budget :
 
 Si Elixir couvre au maximum la plupart des actes, il reste trois sujets délicats à garantir complètement :  l’optique, le dentaire et les audioprothèses.
 
