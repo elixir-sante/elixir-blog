@@ -1,5 +1,6 @@
 ---
 layout: post
+url: COUCOU
 current: post
 cover: assets/images/jeu-d-enfant.jpg
 navigation: True

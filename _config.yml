@@ -11,7 +11,7 @@ baseurl: /
 # Website info
 title: Elixir | le blog
 description: Elixir rajeunit l'assurance santé. Simple et transparente. Facile à comprendre, à souscrire et à utiliser.
-cover: assets/images/blog-cover.png
+cover: assets/images/blog-coverX.png
 logo: assets/images/blog-icon.png
 logo_hero: assets/images/blog-icon-color.png
 logo_dark: assets/images/favicon.png
