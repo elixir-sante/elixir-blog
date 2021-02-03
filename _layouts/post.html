@@ -55,9 +55,9 @@ into the {body} of the default.hbs template -->
             <!-- Email subscribe form at the bottom of the page -->
             {% if site.subscribers %}
                 <section class="subscribe-form">
-                    <h3 class="subscribe-form-title">Subscribe to {{ site.title }}</h3>
-                    <p>Get the latest posts delivered right to your inbox</p>
-                    {% include subscribe-form.html placeholder="youremail@example.com" %}
+                    <h3 class="subscribe-form-title">S'inscrire au blog Elixir</h3>
+                    <p>Être informé des nouveaux articles par mail</p>
+                    {% include subscribe-form.html placeholder="votremail@exemple.fr" %}
                 </section>
             {% endif %}
 
@@ -75,12 +75,12 @@ into the {body} of the default.hbs template -->
                                 {% if author[1].bio %}
                                     <p>{{ author[1].bio }}</p>
                                 {% else %}
-                                    <p>Read <a href="{{ site.baseurl }}author/{{ page.author }}">more posts</a> by this author.</p>
+                                    <p>Lire <a href="{{ site.baseurl }}author/{{ page.author }}">d'autres articles</a> de cet auteur.</p>
                                 {% endif %}
                             </section>
                         </section>
                         <div class="post-full-footer-right">
-                            <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.author }}">Read More</a>
+                            <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.author }}">Voir plus</a>
                         </div>
                     {% endif %}
                 {% endfor %}
@@ -162,11 +162,11 @@ into the {body} of the default.hbs template -->
                         <footer class="read-next-card-footer">
                             <a href="{{ site.baseurl }}tag/{{ primary | slugify: "latin" }}/">
                                 {% if related_posts > 1 %}
-                                    See all {{ related_posts | minus: 1 }} posts  →
+                                    Voir les {{ related_posts | minus: 1 }} articles  →
                                 {% elsif related_posts == 1 %}
-                                    {{ related_posts }} post  →
+                                    {{ related_posts }} article  →
                                 {% else %}
-                                    No posts.
+                                    Pas d'article.
                                 {% endif %}
                             </a>
                         </footer>
