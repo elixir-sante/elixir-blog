@@ -42,7 +42,7 @@ Vos cotisations deviennent des projets qui créent des services utiles pour tous
 Pour nous, faire le choix d’une assurance santé n’est pas anodin et doit servir l’intérêt général. 
 
 
-## Lire aussi : ## ✅ Une assurance santé 100% en ligne 
+## Lire aussi : ## ✅ Une assurance santé 100% en ligne  
 Notre dossier complet : **Pourquoi Elixir ?**
 
 - ✅ Une assurance santé 100% en ligne 
