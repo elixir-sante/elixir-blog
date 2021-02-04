@@ -1,10 +1,10 @@
 pourquoi-elixir:
   name: pourquoi-elixir
-  description: Description XXX
+  description: une nouvelle façon de voir l'assurance santé
   cover: False
 
-fables:
-  name: fables
+Comprendre-l-assurance-sante:
+  name: Comprendre-l-assurance-sante
   description: A series of short stories that make you think.
   cover: assets/images/fables.jpg
 
