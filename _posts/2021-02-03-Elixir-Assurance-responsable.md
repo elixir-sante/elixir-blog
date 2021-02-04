@@ -1,28 +1,32 @@
 ---
+
 layout: post
-url: current: post
+current: post
 cover: assets/images/healthcare.jpg
 navigation: True
 title: Votre contrat mutuelle santé, responsable ou pas ? 👀
 excerpt: 
 date: 2021-02-01 10:00:00
-tags: ["Comprendre l'assurance santé"]
+tags: ["Comprendre l' assurance santé"]
 class: post-template
 subclass: 'post'
 author: elixir
+
 ---
 
-Sur les plaquettes commerciales des mutuelles ou sur votre tableau de garanties de votre mutuelle santé, vous voyez souvent la mention **« contrat responsable et solidaire ».**  
+Sur les plaquettes commerciales des mutuelles ou sur votre tableau de garanties de votre mutuelle santé, vous voyez souvent la mention « **contrat responsable et solidaire** ».
+
 Prendre un contrat responsable et solidaire, c’est respecter des règles en contrepartie d’une taxation de votre cotisation mutuelle à 13,27% au lieu de 20,27%.  
 Parti d’une double intention d’encadrer les dépenses de santé et de permettre à tous de bénéficier d’une couverture santé, le système s’est vite complexifié au détriment de ses objectifs initiaux.
 
 ![Analyses médicales]( https://live.staticflickr.com/7920/32971070788_ceff09976f_b.jpg)
  
-## Les objectifs initiaux 
-Au fil du temps, deux notions importantes se sont dégagées pour encadrer les contrats de complémentaires santé :  
--	** La solidarité : ** vous pouvez souscrire une mutuelle quel que soit votre âge ou votre état de santé. Votre mutuelle ne peut pas non plus vous exclure ou individualiser votre cotisation lorsque vous « consommez trop ».
+## Les objectifs initiaux
 
--	** La responsabilité : **  pour encadrer les dépenses de santé, la loi a introduit plusieurs règles pour les professionnels de santé, les assurés et les mutuelles.
+Au fil du temps, deux notions importantes se sont dégagées pour encadrer les contrats de complémentaires santé :  
+- **La solidarité** : vous pouvez souscrire une mutuelle quel que soit votre âge ou votre état de santé. Votre mutuelle ne peut pas non plus vous exclure ou individualiser votre cotisation lorsque vous « consommez trop ».
+
+- ** La responsabilité** : pour encadrer les dépenses de santé, la loi a introduit plusieurs règles pour les professionnels de santé, les assurés et les mutuelles.
 
 |  |Assurés|Mutuelles|Professionnels de santé|
 |------|------|------|------|
@@ -37,7 +41,7 @@ Au fil du temps, deux notions importantes se sont dégagées pour encadrer les c
 
 La Loi a du bon quand elle change les comportements. Pour les professionnels et les mutuelles, le contenu des contrats responsables a amélioré la couverture des français et permis d’éviter des discriminations d’âge ou d’état de santé. **Nous sommes solidaires, c’est la Loi !**
 
-En revanche, du côté ** responsabilisation**, le système est vite devenu incompréhensible et les différentes franchises et pénalités n’ont eu comme effet que d’augmenter le reste à charge des plus modestes.  
+En revanche, du côté **responsabilisation**, le système est vite devenu incompréhensible et les différentes franchises et pénalités n’ont eu comme effet que d’augmenter le reste à charge des plus modestes.  
 
 Le dispositif emblématique du parcours de soins autour du médecin traitant est un exemple fort de cette dérive.   
 
@@ -56,12 +60,15 @@ Plutôt que de légiférer, contraindre assurés, mutuelles et professionnels de
 
 Elixir s’est construit autour de cette idée que la santé est un équilibre de vie, fait d’interactions sociales, de protections et de physiologie.
 
+
 **Rejoignez le mouvement et construisez avec nous les solutions du futur.**
 
-Lire aussi notre dossier complet : Comprendre l’assurance santé
-- ✅Votre contrat mutuelle santé est-il responsable ?
-- ✅Votre médecin est-il OPTAM secteur 2 conventionné ? 
-- ✅ La résiliation à la carte
-- ✅La transparence sur les dépenses des complémentaires santé
+---
 
+##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-l-assurance-sante)
+
+✅ [Votre contrat mutuelle santé est-il responsable ?]({% post_url 2021-02-03-Elixir-Assurance-responsable %})  
+✅ [Votre médecin est-il OPTAM secteur 2 conventionné ?]({% post_url 2021-02-03-Elixir-assurance-optam %})  
+✅ [La résiliation à la carte]({% post_url 2021-02-03-Elixir-assurance-sante-resiliation %})  
+✅ [La transparence sur les dépenses des mutuelles]({% post_url 2021-02-04-Elixir-Assurance-Transparence %})  
 

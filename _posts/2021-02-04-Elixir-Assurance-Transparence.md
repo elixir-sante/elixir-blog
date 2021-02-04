@@ -1,12 +1,12 @@
 ---
 layout: post
-url: current: post
+current: post
 cover: assets/images/frozen-bubble.jpg
 navigation: True
 title: La transparence sur les dépenses des complémentaires santé ? 👀
 excerpt: 
 date: 2021-02-01 10:00:00
-tags: ["Comprendre l'assurance santé"]
+tags: ["Comprendre l' assurance santé"]
 class: post-template
 subclass: 'post'
 author: elixir
@@ -56,11 +56,11 @@ Ces frais de gestion recouvrent l’ensemble des sommes engagées pour concevoir
 **Vous recherchez une bonne mutuelle, simple, efficace et transparente ?**
 Rendez-vous sur [Elixr Santé](https://elixir-sante.fr) pour nous tester.
 
-Lire notre dossier complet : Comprendre l’assurance santé
--	✅Votre contrat mutuelle santé est-il responsable ?
--	✅Votre médecin est-il OPTAM secteur 2 conventionné ? 
--	✅ La résiliation à la carte
--	✅La transparence sur les dépenses des complémentaires santé
+---
 
+##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-l-assurance-sante)
 
-
+✅ [Votre contrat mutuelle santé est-il responsable ?]({% post_url 2021-02-03-Elixir-Assurance-responsable %})  
+✅ [Votre médecin est-il OPTAM secteur 2 conventionné ?]({% post_url 2021-02-03-Elixir-assurance-optam %})  
+✅ [La résiliation à la carte]({% post_url 2021-02-03-Elixir-assurance-sante-resiliation %})  
+✅ [La transparence sur les dépenses des mutuelles]({% post_url 2021-02-04-Elixir-Assurance-Transparence %})  

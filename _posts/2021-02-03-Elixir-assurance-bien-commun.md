@@ -1,6 +1,6 @@
 ---
+
 layout: post
-url:  
 current: post
 cover: assets/images/equilibre.jpg
 navigation: True
@@ -11,6 +11,7 @@ tags: ["Pourquoi Elixir?"]
 class: post-template
 subclass: 'post'
 author: elixir
+
 ---
 
 Chez Elixir, on pense que la santé, c’est un équilibre global.  
@@ -26,7 +27,8 @@ Avec ces fonds, nous coconstruisons avec nos adhérents, des startups et des ass
 
 ![construisons l'avenir](https://live.staticflickr.com/8163/7590363962_97820fc76d.jpg)
 
-##Un peu plus qu'une bonne assurance
+## Un peu plus qu'une bonne assurance
+
 Une assurance santé représente une ligne importante de votre budget. En fonction de vos besoins particuliers, vous devez arbitrer entre couverture et cotisation. Elixir souhaite répondre à ce premier enjeu avec son offre simple et efficace, au bon prix.
 
 
@@ -55,10 +57,11 @@ Vos cotisations deviennent des projets qui créent des services utiles pour tous
 
 Pour nous, faire le choix d’une assurance santé n’est pas anodin et doit servir l’intérêt général. 
 
+---
 
-Lire notre dossier complet : **Pourquoi Elixir ?**
+##### Lire notre dossier complet : [Pourquoi Elixir ?]({{ site.baseurl }}tag/pourquoi-elixir)
 
-- ✅ Une assurance santé 100% en ligne 
-- ✅ Une offre d’assurance santé simplifiée 
-- ✅ Le secret de la construction de nos garanties
-- ✅ L’assurance santé comme bien commun
+✅ [Une assurance santé 100% en ligne]({% post_url 2021-02-03-Elixir-assurance-digitale %})  
+✅ [Une offre d’assurance santé simplifiée]({% post_url 2021-02-03-Elixir-Simplifier-l-assurance-sante %})  
+✅ [Le secret de la construction de nos garanties]({% post_url 2021-02-03-Elixir-La-potion %})  
+✅ [L’assurance santé comme bien commun]({% post_url 2021-02-03-Elixir-assurance-bien-commun %})  

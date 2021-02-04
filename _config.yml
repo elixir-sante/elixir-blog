@@ -11,7 +11,7 @@ baseurl: /
 # Website info
 title: Elixir | le blog
 description: Elixir rajeunit l'assurance santé. Simple et transparente. Facile à comprendre, à souscrire et à utiliser.
-cover: assets/images/blog-coverX.png
+cover: False
 logo: assets/images/blog-icon.png
 logo_hero: assets/images/blog-icon-color.png
 logo_dark: assets/images/favicon.png
@@ -20,7 +20,7 @@ CNAME: #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 instagram: lateamelixir
@@ -29,7 +29,7 @@ linkedin: elixirsante
 
 # Disqus
 disqus: False
-disqus_shortname: jekyller # replace with your disqus username
+disqus_shortname: elixir-sante
 
 # Google Analytics
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier

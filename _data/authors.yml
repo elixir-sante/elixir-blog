@@ -3,33 +3,34 @@ elixir:
   name: L'équipe Elixir
   url_full: https://elixir-sante.fr
   url: elixir-sante.fr
-  bio: Une belle biographie
+  bio: Elixir rajeunit l'assurance santé. Simple et transparente. Facile à comprendre, à souscrire et à utiliser.
   picture: assets/images/team-elixir-icon.png
   facebook: lateamelixir
-  linkedin: elixirsante
+  linkedin: company/elixirsante
   instagram: lateamelixir
   cover: False
 
 jn:
   username: jeannoelguignard
-  name: Jean-Noë Guignard
+  name: Co-fondateur d'Elixir
   location: L'Isle-Adam, France
-  url_full: http://hannah.wf/
-  url: hannah.wf
-  bio: Une belle biographie
-  picture: assets/images/hannah.jpg
+  url_full: False
+  url: False
+  bio: "Après de nombreuses années au coeur de l'assurance santé, Jean-Noël se consacre maintenant à développer des projets stratégiques autour des questions de santé et de transformation de la protection sociale. Le vieillissement de la population pose notamment des problématiques fortes autour de la santé au travail, l'aide aux aidants, l'organisation des territoires de santé. La révolution numérique bouleverse les modèles et oblige à repenser la façon de travailler et d'interagir avec ses clients. Sa recette : un peu de design thinking, un peu de lean management et beaucoup d'envie de faire 'quelque chose'."
+  picture: assets/images/team-elixir-icon.png
   facebook: False
   twitter: erisds
-  cover: assets/images/hannah-cover.jpg
+  cover: False
 
 gael:
   username: gaelbarbier
   name: Gaël D. Barbier
   location: Sitting On The Dock Of The Bay
-  url_full: http://john.onolan.org/
-  url: john.onolan.org
-  bio: Une belle biographie
-  picture: assets/images/john.jpg
+  url_full: False
+  url: False
+  bio: CTO et co-fondateur d'Elixir
+  picture: assets/images/team-elixir-icon.png
   facebook: False
-  twitter: False
+  twitter: gaeldb
+  linkedin: in/gael-barbier
   cover: False

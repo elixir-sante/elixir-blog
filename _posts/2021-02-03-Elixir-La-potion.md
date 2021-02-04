@@ -1,6 +1,5 @@
 ---
 layout: post
-url: 
 current: post
 cover: assets/images/potion-magique.jpg
 navigation: True
@@ -64,11 +63,13 @@ Notre promesse, c’est :
 
 Et comme on est toujours en quête de solutions efficaces pour vous, on vous prépare un vrai programme pour gérer votre santé au quotidien et prendre appui quand c’est nécessaire sur nos thérapeutes en ligne.
 
-**Être membre d’Elixir, c’est prendre en main sa santé et également participer à un mouvement général d’amélioration de l’accès à la santé pour tous. **
+**Être membre d’Elixir, c’est prendre en main sa santé et également participer à un mouvement général d’amélioration de l’accès à la santé pour tous.**
 
+---
 
-Lire notre dossier complet : Pourquoi Elixir ?  
-- ✅ Une assurance santé 100% en ligne   
-- ✅ Une offre d’assurance santé simplifiée   
-- ✅ Le secret de la potion   
-- ✅ L’assurance santé comme bien commun  
+##### Lire notre dossier complet : [Pourquoi Elixir ?]({{ site.baseurl }}tag/pourquoi-elixir)
+
+✅ [Une assurance santé 100% en ligne]({% post_url 2021-02-03-Elixir-assurance-digitale %})  
+✅ [Une offre d’assurance santé simplifiée]({% post_url 2021-02-03-Elixir-Simplifier-l-assurance-sante %})  
+✅ [Le secret de la construction de nos garanties]({% post_url 2021-02-03-Elixir-La-potion %})  
+✅ [L’assurance santé comme bien commun]({% post_url 2021-02-03-Elixir-assurance-bien-commun %})  

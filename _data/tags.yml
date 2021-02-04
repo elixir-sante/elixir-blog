@@ -3,12 +3,7 @@ pourquoi-elixir:
   description: une nouvelle façon de voir l'assurance santé
   cover: False
 
-Comprendre-l-assurance-sante:
-  name: Comprendre-l-assurance-sante
-  description: qui a dit que l'assurance était compliquée?
-  cover: assets/images/fables.jpg
-
-getting-started:
-  name: getting-started
-  description: False
+comprendre-l-assurance-sante:
+  name: comprendre-l-assurance-sante
+  description: Qui a dit que l'assurance était compliquée ?
   cover: False

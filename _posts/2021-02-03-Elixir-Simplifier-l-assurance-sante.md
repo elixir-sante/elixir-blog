@@ -1,6 +1,5 @@
 ---
 layout: post
-url: COUCOU
 current: post
 cover: assets/images/jeu-d-enfant.jpg
 navigation: True
@@ -73,15 +72,18 @@ Sur les prémolaires, on trouve des tarifs encadrés. Restent désormais les mol
 
 Comme pour l’optique, sauf à avoir des soucis dentaires importants et récurrents, qui nécessitent une complémentaire santé renforcée en dentaire, la faible fréquence de pose de couronnes fait qu’il n’est pas judicieux de vouloir tout rembourser aux frais réels.  
 
-Un cas particulier cependant : **les traitements orthodontiques pour les enfants **sont aujourd’hui très efficaces mais souvent coûteux. En général, un semestre de soins est facturé entre trois et quatre fois le tarif fixé par l’assurance maladie obligatoire.  
+Un cas particulier cependant : **les traitements orthodontiques pour les enfants** sont aujourd’hui très efficaces mais souvent coûteux. En général, un semestre de soins est facturé entre trois et quatre fois le tarif fixé par l’assurance maladie obligatoire.  
 Chez Elixir, on est attentif à la dentition de nos enfants et notre prise en charge est très élevée.
 
-**Que dire des audioprothèses ? ** Aujourd’hui encore, nombreux sont ceux qui renoncent à s’équiper, pour une question de prix élevé et aussi parce qu’un appareil de base est très visible et peu esthétique.   
+**Que dire des audioprothèses ?** Aujourd’hui encore, nombreux sont ceux qui renoncent à s’équiper, pour une question de prix élevé et aussi parce qu’un appareil de base est très visible et peu esthétique.   
 
 Depuis janvier 2021, les choses évoluent et une partie des équipements audio est prise en charge intégralement. Les professionnels ont également l’obligation de limiter leurs tarifs. Chez Elixir, nous prenons fortement en charge les audioprothèses de ceux qui en ont le plus besoin, les enfants et les plus âgés. 
 	
-## Lire aussi notre dossier complet : Pourquoi Elixir ?  
-✅ Une assurance santé 100% en ligne  
-✅ Une offre d’assurance santé simplifiée   
-✅ Le secret de la construction de nos garanties  
-✅ L’assurance santé comme bien commun
+---
+
+##### Lire notre dossier complet : [Pourquoi Elixir ?]({{ site.baseurl }}tag/pourquoi-elixir)
+
+✅ [Une assurance santé 100% en ligne]({% post_url 2021-02-03-Elixir-assurance-digitale %})  
+✅ [Une offre d’assurance santé simplifiée]({% post_url 2021-02-03-Elixir-Simplifier-l-assurance-sante %})  
+✅ [Le secret de la construction de nos garanties]({% post_url 2021-02-03-Elixir-La-potion %})  
+✅ [L’assurance santé comme bien commun]({% post_url 2021-02-03-Elixir-assurance-bien-commun %})  
