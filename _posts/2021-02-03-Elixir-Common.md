@@ -40,13 +40,13 @@ Ces quelques cas montrent qu’il y a un vrai enjeu à favoriser un meilleur acc
 Et les identifier c’est se donner la possibilité de les corriger, d’imaginer de nouvelles solutions et finalement, d’améliorer l’accès à la santé de tous.   
 
 
-**L’ADN d’Elixir est de s’appuyer sur sa communauté de membres adhérents à l’assurance santé et ses partenaires, professionnels de santé, associations, organismes publics locaux, pour identifier et corriger vos points de difficulté.   
+**L’ADN d’Elixir est de s’appuyer sur sa communauté de membres adhérents à l’assurance santé et ses partenaires, professionnels de santé, associations, organismes publics locaux, pour identifier et corriger vos points de difficulté.**
 
 
 Comment on s’y prend ? On mutualise l’ensemble des cotisations et remboursements de nos membres et à la fin de chaque année, s’il reste des cotisations après remboursements, elles viennent alimenter un fonds de projets santé.  
 
 -	Ensemble, nous sélectionnons les sujets de santé à prioriser
--	Nous recherchons des solutions aux problèmes rencontrés
+-	Nous recherchons des solutions aux problèmes rencontrés dans l'accès à la santé
 -	Nous concevons quand c’est nécessaire des applications ou nouveaux services.  
 
 
