@@ -80,8 +80,7 @@ Chez Elixir, on est attentif à la dentition de nos enfants et notre prise en ch
 
 Depuis janvier 2021, les choses évoluent et une partie des équipements audio est prise en charge intégralement. Les professionnels ont également l’obligation de limiter leurs tarifs. Chez Elixir, nous prenons fortement en charge les audioprothèses de ceux qui en ont le plus besoin, les enfants et les plus âgés. 
 	
-## Lire aussi : ##✅ Une assurance santé 100% en ligne  
-Notre dossier complet : Pourquoi Elixir ?  
+## Lire aussi notre dossier complet : Pourquoi Elixir ?  
 ✅ Une assurance santé 100% en ligne  
 ✅ Une offre d’assurance santé simplifiée   
 ✅ Le secret de la construction de nos garanties  
