@@ -16,7 +16,7 @@ Derrière cette drôle de question, nous retrouvons toute la complexité des rè
 Nous allons essayer de vous expliquer comment tout cela fonctionne. Ça peut vous aider à comprendre pourquoi vous n'êtes pas toujours remboursé de la même façon de vos consultations médicales.
 
  
-[allo docteur](https://live.staticflickr.com/274/19178829096_1305f8b634_b.jpg)
+![allo docteur](https://live.staticflickr.com/274/19178829096_1305f8b634_b.jpg)
 
 ## Commençons par ranger nos médecins par secteurs d'activité
 
