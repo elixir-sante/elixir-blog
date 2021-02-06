@@ -13,7 +13,6 @@ author: elixir
 ---
 
 Elixir est une offre d’assurance santé 100% en ligne, simple à comprendre, souscrire et utiliser. 
-
 L’assurance **c’est bien** quand c’est rapide et compréhensible.   
 **C’est même très bien** quand on retrouve instantanément tous les services utiles dans son téléphone.
 
