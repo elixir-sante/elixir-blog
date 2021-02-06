@@ -34,7 +34,7 @@ Au fil du temps, deux notions importantes se sont dégagées pour encadrer les c
 | Limitation des dépassements d’honoraires des médecins|Limitation des remboursements des honoraires des médecins qui n’ont pas signé d’accord de modération avec l’assurance maladie| 
 |100% Santé|Remboursement intégral des paniers optique, dentaire et auditif dits « 100% Santé » |
 | Minimum de remboursements | Les consultations et prescriptions, au moins jusqu’au tarif fixé par l’assurance maladie, le forfait journalier en hospitalisation|
-| Plafonds de remboursements |  | Plafonds en optique, dentaire, auditif, en euros et en nombre de remboursements|
+| Plafonds de remboursements | Plafonds en optique, dentaire, auditif, en euros et en nombre de remboursements|
 | Les franchises|Interdiction de rembourser les franchises des assurés :  1€ par consultation, 0,5€ par boîte de médicament et actes paramédicaux, 2€ par transport sanitaire|
 
 ## Quel résultat obtenu ? 
