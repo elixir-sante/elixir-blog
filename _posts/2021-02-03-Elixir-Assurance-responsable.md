@@ -26,16 +26,17 @@ Parti d’une double intention d’encadrer les dépenses de santé et de permet
 Au fil du temps, deux notions importantes se sont dégagées pour encadrer les contrats de complémentaires santé :  
 - **La solidarité** : vous pouvez souscrire une mutuelle quel que soit votre âge ou votre état de santé. Votre mutuelle ne peut pas non plus vous exclure ou individualiser votre cotisation lorsque vous « consommez trop ».
 
-- **La responsabilité** : pour encadrer les dépenses de santé, la loi a introduit plusieurs règles pour les professionnels de santé, les assurés et les mutuelles.
+- **La responsabilité** : pour encadrer les dépenses de santé, la loi a introduit plusieurs règles pour les mutuelles.
 
-|  |Assurances santé|
-|------|------|
-| Médecin traitant |Interdiction de rembourser les pénalités en l’absence de médecin traitant| |
-| Limitation des dépassements d’honoraires des médecins|Limitation des remboursements des honoraires des médecins qui n’ont pas signé d’accord de modération avec l’assurance maladie| 
-|100% Santé|Remboursement intégral des paniers optique, dentaire et auditif dits « 100% Santé » |
-| Minimum de remboursements | Les consultations et prescriptions, au moins jusqu’au tarif fixé par l’assurance maladie, le forfait journalier en hospitalisation|
-| Plafonds de remboursements | Plafonds en optique, dentaire, auditif, en euros et en nombre de remboursements|
-| Les franchises|Interdiction de rembourser les franchises des assurés :  1€ par consultation, 0,5€ par boîte de médicament et actes paramédicaux, 2€ par transport sanitaire|
+- Médecin traitant : nterdiction de rembourser les pénalités en l’absence de médecin traitant ; toute personne de plus de 16 ans doit déclarer un médecin traitant
+- Limitation des dépassements d’honoraires des médecins : quand un médecin n'a pas signé d'accord de modération de ses tarifs avec l'assurance maaladie, le remboursemebt de ses dépassements d'honoraires par les mutuelles est limité à 2 x le tarif de base de la consultation.
+- 100% Santé : Remboursement intégral des paniers optique, dentaire et auditif dits « 100% Santé » 
+- Minimum de remboursements : Les mutuelles doivent au minimum rembourser Les consultations et prescriptions, au moins jusqu’au tarif fixé par l’assurance maladie, le forfait journalier en hospitalisation
+- Plafonds de remboursements : la loi fixe des plafonds de remboursement en optique (exemple : le remboursement de la monture ne peut dépasser 100€), dentaire, auditif, en euros et en nombre de remboursements.
+- Les franchises : Interdiction de rembourser les franchises des assurés fixées par la loi
+   - 1€ par consultation, 
+   - 0,5€ par boîte de médicament et actes paramédicaux, 
+   - 2€ par transport sanitaire
 
 ## Quel résultat obtenu ? 
 
