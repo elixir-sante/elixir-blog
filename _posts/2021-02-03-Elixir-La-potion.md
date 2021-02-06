@@ -46,7 +46,7 @@ Le monde de l’assurance santé et du médical étant plutôt complexe et rempl
 On peut encore faire mieux, il vous suffit de nous dire sur quoi vous voulez que l’on avance en priorité. Il y a bien quelques sujets dans les tiroirs, comme prendre des rendez-vous médicaux pour vous, vous aider à trouver un médecin traitant...
 
 ## Vos besoins d’accès à la santé
-***« La santé est un état complet de bien-être physique, mental et social et ne consiste pas seulement en une absence de maladie ou d’infirmité » *** (OMS-1946)
+***« La santé est un état complet de bien-être physique, mental et social et ne consiste pas seulement en une absence de maladie ou d’infirmité »*** (OMS-1946)
 
 Notre vision habituelle de la santé, et de son assurance liée, tient dans la réparation des accidents et maladies auxquelles nous sommes confrontés. Si soigner est évidemment essentiel, ce n’est pas suffisant.  
 
