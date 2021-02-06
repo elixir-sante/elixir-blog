@@ -21,9 +21,9 @@ Nous allons essayer de vous expliquer comment tout cela fonctionne. Ça peut vou
 ## Commençons par ranger nos médecins par secteurs d'activité
 
 Les médecins généralistes et spécialistes qui exercent en libéral sont répartis en 3 catégories.  
-- Les "Secteur 1" : ces médecins respectent les tarifs conventionnels fixés par l'assurance maladie. En dehors des pénalités, vous êtes totalement remboursés si vous avez une mutuelle.
-- Les "Secteur 2 et secteur 1 avec droit à dépassement " : ces médecins prennent des dépassements d'honoraires. Leur base de remboursement est plus faible que celle des secteurs 1. 
-- Les "non conventionnés" : ces médecins, qui représentent moins de 1% de l'offre de soins, n'ont pas signé de convention avec l'assurance maladie. Ils fixent leurs prix librement. La base de remboursement de leurs actes est de 0,61 € pour une consultation de médecine générale, 1,22 € pour une consultation chez un spécialiste.
+- Les **"Secteur 1"** : ces médecins respectent les tarifs conventionnels fixés par l'assurance maladie. En dehors des pénalités, vous êtes totalement remboursés si vous avez une mutuelle.
+- Les **"Secteur 2 et secteur 1 avec droit à dépassement "** : ces médecins prennent des dépassements d'honoraires. Leur base de remboursement est plus faible que celle des secteurs 1. 
+- Les **"non conventionnés"** : ces médecins, qui représentent moins de 1% de l'offre de soins, n'ont pas signé de convention avec l'assurance maladie. Ils fixent leurs prix librement. La base de remboursement de leurs actes est de 0,61 € pour une consultation de médecine générale, 1,22 € pour une consultation chez un spécialiste.
 
 ## Rajoutons la maîtrise des dépassements  d'honoraires
 
@@ -51,17 +51,27 @@ Quand vous consultez en direct un médecin, sauf pour les ophtalmologues, les de
 
 **Si vous n’avez pas déclaré de médecin traitant, l’assurance maladie vous pénalise aussi.**
 
-| | Avec un médecin traitant | Sans médecin traitant |
-|------------------|---------------|-----------------| 
-| Remboursement de l’assurance maladie | 70 % de la base de remboursement | 30 % de la base de remboursement |
-| Prise en charge par les mutuelles | 30% minimum et jusqu’à la consultation complète totale | 30% minimum et jusqu’à 8€ de dépassements  Interdiction de prendre en charge les 40% de pénalité de l’assurance maladie |
-| Hypothèse d’une consultation à 40 €, avec une base de remboursement de l’assurance maladie à 25 €    Supposons que la mutuelle rembourse habituellement tous les dépassements | **Remboursement total = 40€**  (moins la participation forfaitaire de 1€ par consultation)| **Remboursement total = 23€**  (moins la participation forfaitaire de 1€ par consultation)|
+### Avec un médecin traitant :
+- Remboursement de la caisse de sécurité sociale : 70% du tarif conventionné
+- Prise en charge par les mutuelles : 30% du tarif et jusqu'à l'intégralité de la consultation (si dépassements d'honoraires)
 
-**Moralité :  
+### Sans médecin traitant : 
+- Remboursement de la caisse de sécurité sociale : **30% du tarif conventionné**
+- Prise en charge par les mutuelles : 30% du tarif et jusqu'à 8€ des éventuels dépassements d'honoraires, et interdiction de prendre en charge la pénalité de 40% de l'assurance maladie obligatoire
+
+Prenons l'hypothèse d’une consultation à 40 €, avec une base de remboursement de l’assurance maladie à 25 €.
+Et supposons que la mutuelle rembourse habituellement tous les dépassements 
+
+Avec Médecin traitant : **Remboursement total = 40€**  
+Sans médecin traitant : **Remboursement total = 23€**  
+
+(moins la participation forfaitaire de 1€ par consultation)
+
+###Moralité :  
 Selon que votre médecin soit secteur 1, 2 ou 3,  
 Selon qu’il soit OPTAM,  
 Selon que vous sortiez du parcours de soin,  
-Différemment vous serez remboursé.**
+Différemment vous serez remboursé###
 
 Tout ce mécanisme est très complexe, alors... essayez notre [outil de simulation](https://elixir-sante.fr/simulateur) et vous y verrez plus clair.
  
