@@ -13,6 +13,7 @@ author: elixir
 ---
 
 On a construit nos offres en fonction de 3 critères : votre budget, votre temps et bien sûr vos besoins d’accès à la santé.  
+
 C’est vrai qu’avec une seule garantie pour nos membres retraités, agents publics ou travailleurs indépendants, il est essentiel de concevoir un bon dosage entre garanties et services, cotisations et parcours adhérent.  
 
 Elixir vous ouvre les portes de son laboratoire...  
