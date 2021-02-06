@@ -20,10 +20,10 @@ Elixir vous ouvre les portes de son laboratoire...
 ## Votre budget mérite toute notre attention
 Une assurance santé représente une ligne importante de votre budget. En fonction de vos besoins particuliers, vous devez arbitrer entre couverture et cotisation. Elixir souhaite répondre à ce premier enjeu avec son offre simple et efficace, au bon prix.
 
-**De l’optimisation :** On utilise votre cotisation pour vos besoins et bien couvrir vos dépenses de santé. Les frais de gestion sont bien entendu nécessaires mais on les a limités au strict minimum. N’oublions pas que dans le meilleur des cas, entre les taxes (13%) et les frais (20%), c’est 1/3 de votre cotisation qui n’est pas directement utile pour vos remboursements.  
-**De la justice :** Nos tarifs sont établis par âge pour les adultes et en forfait pour « tous » vos enfants. Les évolutions annuelles sont plus douces pour chacun et concernant les enfants, c’est gratuit après le premier. 
-**Des arbitrages :** Sur certains postes de remboursement, optique, dentaire et audioprothèses, on a choisi de ne pas toujours tout rembourser. C’est coûteux sur votre cotisation et parfois... les professionnels de santé ont tendance à ajuster leurs tarifs en fonction de vos garanties.  
-**De la rapidité :** Dans 9 cas sur 10, vos remboursements sont ultra rapides. Il reste quelques cas, par exemple sur des dépenses d’ostéopathie, où ça peut prendre un peu plus de temps. Avec notre appli, vous pouvez nous transmettre votre facture dès la sortie de votre consultation et être remboursé dans les 48 heures.  
+- **De l’optimisation :** On utilise votre cotisation pour vos besoins et bien couvrir vos dépenses de santé. Les frais de gestion sont bien entendu nécessaires mais on les a limités au strict minimum. N’oublions pas que dans le meilleur des cas, entre les taxes (13%) et les frais (20%), c’est 1/3 de votre cotisation qui n’est pas directement utile pour vos remboursements.  
+- **De la justice :** Nos tarifs sont établis par âge pour les adultes et en forfait pour « tous » vos enfants. Les évolutions annuelles sont plus douces pour chacun et concernant les enfants, c’est gratuit après le premier. 
+- **Des arbitrages :** Sur certains postes de remboursement, optique, dentaire et audioprothèses, on a choisi de ne pas toujours tout rembourser. C’est coûteux sur votre cotisation et parfois... les professionnels de santé ont tendance à ajuster leurs tarifs en fonction de vos garanties.  
+- **De la rapidité :** Dans 9 cas sur 10, vos remboursements sont ultra rapides. Il reste quelques cas, par exemple sur des dépenses d’ostéopathie, où ça peut prendre un peu plus de temps. Avec notre appli, vous pouvez nous transmettre votre facture dès la sortie de votre consultation et être remboursé dans les 48 heures.  
 
 Elixir peut ainsi vous proposer des garanties de haut niveau là où c’est indispensable, en respectant votre budget et l’équité entre les membres.   
 
