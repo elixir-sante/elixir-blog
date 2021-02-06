@@ -41,8 +41,10 @@ Chez Elixir, nous pensons que l’argent que vous nous confiez doit d’abord pe
 Nos frais de gestion sont parmi les plus faibles du marché. La recette tient en deux ingrédients :
 - **Automatisation :** tout ce qui peut l’être est automatisé et simplifié. Vous êtes autonome pour gérer votre contrat santé. Et nous réservons du temps pour vous quand vous en avez vraiment besoin.
 
-| 90% des demandes de remboursement traitées automatiquement |Transmission immédiate des factures « papier » via l’appli |
-|Toutes vos demandes dans une seule appli |	80% de notre temps conservé pour vous apporter les meilleures solutions santé |
+| 90% des demandes de remboursement traitées automatiquement |
+|Transmission immédiate des factures « papier » via l’appli |
+|Toutes vos demandes dans une seule appli |	
+|80% de notre temps pour vous apporter les meilleures solutions santé |
 
 - **Commercialisation :** nous nous développons et nous faisons connaître via les réseaux sociaux et par la recommandation de nos membres adhérents et partenaires associatifs.
 
