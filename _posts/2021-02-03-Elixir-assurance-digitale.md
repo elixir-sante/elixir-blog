@@ -4,7 +4,7 @@ current: post
 cover: assets/images/assurance-digitale.jpg
 navigation: True
 title: Elixir, une assurance santé 100% digitalisée 👀
-excerpt: La description qui va dans la page d'accueil (si on ne met rien, il prend le début du contenu)
+excerpt:
 date: 2021-02-01 10:00:00
 tags: ["Pourquoi Elixir?"]
 class: post-template
