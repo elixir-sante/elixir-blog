@@ -32,7 +32,7 @@ disqus: False
 disqus_shortname: elixir-sante
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: G-BY8ZZT6CJ1
 
 # Permalinks
 permalink: /:title/
