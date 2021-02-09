@@ -726,6 +726,25 @@ The first (most recent) post in the list is styled to be bigger than the others 
     text-decoration: none;
 }
 
+.post-full-content .btn-elixir {
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 5px;
+    transition: 0.5s;
+    color: #ffffff;
+    background: #7700B3;
+    box-shadow: none;
+    text-align: center;
+}
+
+.post-full-content .btn-elixir:hover {
+    background: #FF00FF;
+    color: #ffffff;
+}
+
 .post-full-content strong,
 .post-full-content em {
     color: color(var(--darkgrey) l(-5%));
@@ -782,7 +801,6 @@ Usage (In Ghost editor):
     margin-bottom: 1.5em;
 }
 
-
 .post-full-content iframe {
     margin: 0 auto;
 }
@@ -790,7 +808,7 @@ Usage (In Ghost editor):
 .post-full-content blockquote {
     margin: 0 0 1.5em;
     padding: 0 1.5em;
-    border-left: #3eb0ef 3px solid;
+    border-left: #aa00ff 3px solid;
 }
 
 .post-full-content blockquote p {
@@ -1132,7 +1150,7 @@ Usage (In Ghost editor):
 
 .subscribe-form button:active,
 .subscribe-form button:focus {
-    background: color(var(--blue) lightness(-9%) saturation(-10%));
+    background: #aa00ff;
 }
 
 @media (max-width: 650px) {
@@ -1156,6 +1174,73 @@ Usage (In Ghost editor):
         width: 100%;
     }
 }
+
+
+
+/* 7.1. CTA hero block
+/* ---------------------------------------------------------- */
+
+.cta-hero {
+    margin: 1.5em 0;
+    padding: 4vw 4vw 4vw;
+    border: color(var(--whitegrey) l(+2%)) 1px solid;
+    text-align: center;
+    background: color(var(--whitegrey) l(+4%));
+    border-radius: 7px;
+}
+
+.cta-hero-title {
+    margin: 0 0 12px 0;
+    padding: 0;
+    color: var(--darkgrey);
+    font-size: 3rem;
+    line-height: 1;
+    font-weight: 700;
+}
+
+.cta-hero p {
+    margin-bottom: 1em;
+    color: var(--midgrey);
+    font-size: 2rem;
+    line-height: 1.55em;
+    letter-spacing: 0.2px;
+}
+
+.cta-hero a {
+    display: inline-block;
+    margin: 0 0 0 10px;
+    padding: 0 20px;
+    height: 41px;
+    outline: none;
+    color: #fff;
+    font-size: 1.75rem;
+    line-height: 37px;
+    font-weight: 500;
+    text-align: center;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.1);
+    background: #ff00ff;
+    border-radius: 5px;
+    box-shadow: 0 0 0 1px inset rgba(0,0,0,0.14);
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+
+.cta-hero a:hover,
+.cta-hero a:active,
+.cta-hero a:focus {
+    background: #aa00ff;
+    text-decoration: none;
+}
+
+@media (max-width: 650px) {
+    .cta-hero-title {
+        font-size: 2.4rem;
+    }
+    .cta-hero p {
+        font-size: 1.6rem;
+    }
+}
+
+
 
 
 /* 7.2. Post Footer

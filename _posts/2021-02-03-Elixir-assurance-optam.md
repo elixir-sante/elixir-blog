@@ -68,13 +68,15 @@ Sans médecin traitant : **Remboursement total = 23€**
 (moins la participation forfaitaire de 1€ par consultation)
 
 ### Moralité :  
-### Selon que votre médecin soit secteur 1, 2 ou 3,  
-### Selon qu’il soit OPTAM,  
-### Selon que vous sortiez du parcours de soin,  
-### Différemment vous serez remboursé 
+> Selon que votre médecin soit secteur 1, 2 ou 3,  
+> Selon qu’il soit OPTAM,  
+> Selon que vous sortiez du parcours de soin,  
+> ###### Différemment vous serez remboursé 
 
-Tout ce mécanisme est très complexe, alors... essayez notre [outil de simulation](https://elixir-sante.fr/simulateur) et vous y verrez plus clair.
- 
+Tout ce mécanisme est très complexe, alors... essayez notre [outil de simulation](https://elixir-sante.fr/simulateur) et vous y verrez plus clair :
+
+[Combien je serai remboursé avec mon médecin ?](https://elixir-sante.fr/simulateur){: .btn-elixir}
+
 ---
 
 ##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-l-assurance-sante)
