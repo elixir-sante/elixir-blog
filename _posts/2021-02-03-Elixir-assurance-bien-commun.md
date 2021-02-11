@@ -58,7 +58,7 @@ Vos cotisations deviennent des projets qui créent des services utiles pour tous
 
 Pour nous, faire le choix d’une assurance santé n’est pas anodin et doit servir l’intérêt général. 
 
-[**Rendez vos cotisations d'assurance utiles**](https://elixir-sante.fr){: .btn-elixir}
+[Rendez utiles vos cotisations d'assurance](https://elixir-sante.fr){: .btn-elixir}
 
 ---
 
