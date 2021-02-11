@@ -4,7 +4,7 @@ layout: post
 current: post
 cover: assets/images/equilibre.jpg
 navigation: True
-title: L’assurance santé comme bien commun
+title: L’assurance santé comme bien commun 🌍
 excerpt:  
 date: 2021-02-01 10:00:00
 tags: ["Pourquoi Elixir?"]
