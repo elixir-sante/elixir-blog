@@ -50,7 +50,7 @@ Nos frais de gestion sont parmi les plus faibles du marché. La recette tient en
 **Pourquoi on nous recommande ?** Notre mission principale est d’améliorer les conditions d’accès à la santé de tous. Plus le nombre de membres qui adhèrent à notre assurance est important, plus nous alimentons un fonds de projets, plus nous concevons avec les membres et les partenaires, des nouvelles solutions qui règlent des problèmes pratiques d’accès à la santé :  trouver un médecin, aider les aidants à gérer le quotidien, éliminer le reste à charge sur les soins coûteux...   
 
 
-[Que fait Elixir pour vous ? Elixir](https://elixir-sante.fr/#recette){: .btn-elixir}
+[Que fait Elixir pour vous ?](https://elixir-sante.fr/#recette){: .btn-elixir}
 
 ---
   
