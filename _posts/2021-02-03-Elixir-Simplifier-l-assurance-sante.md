@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/jeu-d-enfant.jpg
 navigation: True
-title: Simplifier l’assurance santé, c’est notre truc
+title: Simplifier l’assurance santé, c’est notre truc 🤗
 excerpt:
 date: 2021-02-01 10:00:00
 tags: ["Pourquoi Elixir?"]
