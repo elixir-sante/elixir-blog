@@ -14,7 +14,7 @@ author: elixir
 
 Depuis le 1er décembre 2020, vous pouvez résilier, sans frais et à tout moment après la première année de souscription, vos contrats de complémentaire santé.
 
-Cette nouvelle loi vous donne le choix de votre assurance santé.
+Cette nouvelle loi vous donne le choix de votre assurance santé quand vous le souhaitez.
 
 ![Dur de choisir]( https://live.staticflickr.com/5220/5497762688_1590cb1de7_b.jpg)
 
