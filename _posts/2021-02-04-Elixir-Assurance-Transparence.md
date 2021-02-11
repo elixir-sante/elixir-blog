@@ -66,10 +66,11 @@ Cela signifie que pour 1 € versé, 97 cents sont reversés au titre des rembou
 
 Par exemple : « les frais de gestion représentent 20% des cotisations. »
 
-=
+
 Chez Elixir, nous avons choisi la transparence et des frais réduits. Notre but est de construire avec vous l'assurance santé du futur, pas de nous assurer une rente.
 
 **Vous recherchez une bonne mutuelle, simple, efficace et transparente ?**
+
 Rendez-vous sur [Elixr Santé](https://elixir-sante.fr) pour nous tester.
 
 ---
