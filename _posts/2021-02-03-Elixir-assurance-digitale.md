@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/assurance-digitale.jpg
 navigation: True
-title: Elixir, une assurance santé 100% digitalisée 👀
+title: Elixir, une assurance santé 100% digitalisée 📲
 excerpt:
 date: 2021-02-01 10:00:00
 tags: ["Pourquoi Elixir?"]
