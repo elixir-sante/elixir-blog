@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/frozen-bubble.jpg
 navigation: True
-title: La transparence sur les dépenses des complémentaires santé ? 👀
+title: La transparence sur les dépenses des complémentaires santé 🕵️
 excerpt: 
 date: 2021-02-01 10:00:00
 tags: ["Comprendre l' assurance santé"]
