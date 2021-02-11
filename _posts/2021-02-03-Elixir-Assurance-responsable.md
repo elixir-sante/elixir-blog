@@ -61,7 +61,7 @@ Plutôt que de légiférer, contraindre assurés, mutuelles et professionnels de
 Elixir s’est construit autour de cette idée que la santé est un équilibre de vie, fait d’interactions sociales, de protections et de santé personnelle.
 
 
-![**Rejoignez le mouvement et construisez avec nous les solutions du futur.**](https://elixir-sante.fr)
+[🚎**Rejoignez le mouvement et construisez avec nous les solutions du futur.**](https://elixir-sante.fr)
 
 ---
 
