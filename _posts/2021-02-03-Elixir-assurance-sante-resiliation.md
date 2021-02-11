@@ -23,7 +23,8 @@ Cette nouvelle loi vous donne le choix de votre assurance santé.
 ### Vous ne voulez plus de mutuelle ?
 
 Ce n'est pas conseillé, mais c'est à vous de voir.  
-Vous pouvez résilier par lettre simple ou tout autre support durable comme un email (le recommandé reste obligatoire dans les situations exposées à des risques de contentieux).  
+Vous pouvez résilier par lettre simple ou tout autre support durable comme un email (le recommandé reste obligatoire dans les situations exposées à des risques de contentieux.  
+**Votre résiliation interviendra 30 jours après la date d'envoi du courrier de résiliation.**
 
 ### Vous changez de mutuelle ?
 
@@ -31,6 +32,20 @@ Dès que vous avez dépassé 12 mois d’assurance, vous pouvez changer de mutue
 -	Vous choisissez votre nouvelle complémentaire santé
 -	Le nouvel assureur fait la démarche pour vous
 -	Les cotisations payées d'avance doivent vous être remboursées sous un délai d'un mois.
+- La résiliation est effective 30  jours minimum après la date d'envoi du courrier à l'ancien assureur
+- L'adhésion à une nouvelle mutuelle intervient le lendemain de la date de résiliation effective de l'ancien assureur
+- Les cotisations payées d'avance couvrant la période postérieure à la date effective de la résiliation doivent être remboursées sous un délai d'un mois 
+
+#### Un exemple  ?
+
+Nous sommes le 11 février. 
+Vous souhaitez souscrire à Elixir santé 
+
+1. Vous nous adressez votre demande de résiliation 
+2. Elixir écrit en recommandé à l'ancienne mutuelle : le 12 février
+3. Le 12 février sera la date retenue pour démarrer le décompte des 30 jours
+4. Votre résiliation sera effective le 13 mars au soir. 
+5. Votre adhésion à Elixir prendra effet le lendemain de la résiliation : le 14 mars 
 
 ## Est-ce une bonne chose pour vous ?
 
@@ -47,6 +62,8 @@ Cette loi facilite vos démarches mais ne vous fera pas forcément gagner d'arge
 
 Nous croyons surtout que l'assurance santé n'est pas une assurance comme les autres et qu’elle ne mérite toute votre attention. Vous avez désormais le pouvoir de choisir votre mutuelle selon vos critères : transparence, rapport entre le tarif et le service rendu, accompagnement de votre parcours de santé.
 
+
+Pour tout savoir : <a href= "https://www.service-public.fr/particuliers/vosdroits/F20314">Service public : Résiliation à tout moment de sa complémentaire santé </a>
 ---
  
 ##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-l-assurance-sante)
