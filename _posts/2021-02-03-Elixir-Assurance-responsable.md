@@ -33,9 +33,9 @@ Au fil du temps, deux notions importantes se sont dégagées pour encadrer les c
     - Minimum de remboursements : Les mutuelles doivent au minimum rembourser Les consultations et prescriptions, au moins jusqu’au tarif fixé par l’assurance maladie, le forfait journalier en hospitalisation
     - Plafonds de remboursements : la loi fixe des plafonds de remboursement en optique (exemple : le remboursement de la monture ne peut dépasser 100€), dentaire, auditif, en euros et en nombre de remboursements.
     - Les franchises : Interdiction de rembourser les franchises des assurés fixées par la loi
-           - 1€ par consultation, 
-           - 0,5€ par boîte de médicament et actes paramédicaux, 
-           - 2€ par transport sanitaire
+         - 1€ par consultation, 
+         - 0,5€ par boîte de médicament et actes paramédicaux, 
+         - 2€ par transport sanitaire
 
 ## Quel résultat obtenu ? 
 
@@ -61,7 +61,7 @@ Plutôt que de légiférer, contraindre assurés, mutuelles et professionnels de
 Elixir s’est construit autour de cette idée que la santé est un équilibre de vie, fait d’interactions sociales, de protections et de santé personnelle.
 
 
-**Rejoignez le mouvement et construisez avec nous les solutions du futur.**
+![**Rejoignez le mouvement et construisez avec nous les solutions du futur.**](https://elixir-sante.fr)
 
 ---
 
