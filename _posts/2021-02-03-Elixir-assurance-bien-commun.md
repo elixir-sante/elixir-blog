@@ -20,8 +20,9 @@ Dans le parcours de santé de chacun, on trouve des petits rien du quotidien qui
 
 Nous avons bâti une bonne assurance santé qui répond bien aux premiers besoins, notamment la prise en charge financière des frais médicaux. Elle est encore loin d’être suffisante pour bien vous accompagner sur votre parcours de santé.  
 
-Chaque année, l'argent qui n'a pas été utilisé pour rembourser des frais de santé des membres adhérents à l’assurance santé Elixir est versé sur notre fonds de projets santé.  
-**C'est le Giveback Elixir.**
+Chaque année, l'argent qui n'a pas été utilisé pour rembourser des frais de santé des membres adhérents à l’assurance santé Elixir est versé sur notre fonds de projets santé. 
+
+[**C'est le Giveback Elixir.**](https://elixir-sante.fr/giveback/)
 
 Avec ces fonds, nous coconstruisons avec nos adhérents, des startups et des associations de nouveaux services, améliorons les garanties de notre assurance. 
 
@@ -56,6 +57,8 @@ Vos cotisations deviennent des projets qui créent des services utiles pour tous
 
 
 Pour nous, faire le choix d’une assurance santé n’est pas anodin et doit servir l’intérêt général. 
+
+[**Rendez vos cotisations d'assurance utiles**](https://elixir-sante.fr)
 
 ---
 
