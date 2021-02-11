@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/boulier.jpg
 navigation: True
-title: Votre médecin est-il OPTAM secteur 2 conventionné ? 👀
+title: Votre médecin est-il OPTAM secteur 2 conventionné ? 🤕
 excerpt: 
 date: 2021-02-01 10:00:00
 tags: ["Comprendre l' assurance santé"]
