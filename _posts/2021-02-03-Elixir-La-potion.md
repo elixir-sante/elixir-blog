@@ -38,7 +38,7 @@ Le monde de l’assurance santé et du médical étant plutôt complexe et rempl
 -	Et comme parfois, vous avez juste besoin d’un petit « recalage », on vous donne accès aux ostéopathes, psychologues et autres professionnels de l’autre médecine (vous savez, celle que l’assurance maladie a du mal à reconnaître à sa vraie valeur 😉)
 
 ### L’assurance :
--	Attention au scoop ! L’assurance santé, c’est compliqué... à comprendre, à comparer, à utiliser. Pour vous Elixir a tout rendu simple :  
+Attention au scoop ! L’assurance santé, c’est compliqué... à comprendre, à comparer, à utiliser. Pour vous Elixir a tout rendu simple :  
 -	Un seul niveau de garanties, au top  
 -	Devis et souscription faciles, en 2 minutes  
 -	Une rédaction simple et compréhensible de ce que nous couvrons  
@@ -47,6 +47,7 @@ Le monde de l’assurance santé et du médical étant plutôt complexe et rempl
 On peut encore faire mieux, il vous suffit de nous dire sur quoi vous voulez que l’on avance en priorité. Il y a bien quelques sujets dans les tiroirs, comme prendre des rendez-vous médicaux pour vous, vous aider à trouver un médecin traitant...
 
 ## Vos besoins d’accès à la santé
+
 ***« La santé est un état complet de bien-être physique, mental et social et ne consiste pas seulement en une absence de maladie ou d’infirmité »*** (OMS-1946)
 
 Notre vision habituelle de la santé, et de son assurance liée, tient dans la réparation des accidents et maladies auxquelles nous sommes confrontés. Si soigner est évidemment essentiel, ce n’est pas suffisant.  
@@ -65,6 +66,9 @@ Notre promesse, c’est :
 Et comme on est toujours en quête de solutions efficaces pour vous, on vous prépare un vrai programme pour gérer votre santé au quotidien et prendre appui quand c’est nécessaire sur nos thérapeutes en ligne.
 
 **Être membre d’Elixir, c’est prendre en main sa santé et également participer à un mouvement général d’amélioration de l’accès à la santé pour tous.**
+
+[Rejoignez le mouvement Elixir](https://elixir-sante.fr/){: .btn-elixir}
+
 
 ---
 
