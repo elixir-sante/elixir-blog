@@ -63,7 +63,9 @@ Cette loi facilite vos démarches mais ne vous fera pas forcément gagner d'arge
 Nous croyons surtout que l'assurance santé n'est pas une assurance comme les autres et qu’elle ne mérite toute votre attention. Vous avez désormais le pouvoir de choisir votre mutuelle selon vos critères : transparence, rapport entre le tarif et le service rendu, accompagnement de votre parcours de santé.
 
 
-Pour aller plus loin : <a href= "https://www.service-public.fr/particuliers/vosdroits/F20314">Service public - Résiliation à tout moment </a>
+Pour aller plus loin : 
+
+<a href= "https://www.service-public.fr/particuliers/vosdroits/F20314">Service public - Résiliation à tout moment </a>
 ---
  
 ##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-l-assurance-sante)
