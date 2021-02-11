@@ -79,7 +79,9 @@ Chez Elixir, on est attentif à la dentition de nos enfants et notre prise en ch
 **Que dire des audioprothèses ?** Aujourd’hui encore, nombreux sont ceux qui renoncent à s’équiper, pour une question de prix élevé et aussi parce qu’un appareil de base est très visible et peu esthétique.   
 
 Depuis janvier 2021, les choses évoluent et une partie des équipements audio est prise en charge intégralement. Les professionnels ont également l’obligation de limiter leurs tarifs. Chez Elixir, nous prenons fortement en charge les audioprothèses de ceux qui en ont le plus besoin, les enfants et les plus âgés. 
-	
+
+[Découvrir mes garanties Elixir](https://elixir-sante.fr//garanties/){: .btn-elixir}
+
 ---
 
 ##### Lire notre dossier complet : [Pourquoi Elixir ?]({{ site.baseurl }}tag/pourquoi-elixir)
