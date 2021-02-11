@@ -4,7 +4,7 @@ layout: post
 current: post
 cover: assets/images/healthcare.jpg
 navigation: True
-title: Votre contrat mutuelle santé, responsable ou pas ? 👀
+title: Votre contrat mutuelle santé, responsable ou pas ? 🧐
 excerpt: 
 date: 2021-02-01 10:00:00
 tags: ["Comprendre l' assurance santé"]
