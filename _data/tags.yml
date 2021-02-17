@@ -7,3 +7,8 @@ comprendre-l-assurance-sante:
   name: comprendre-l-assurance-sante
   description: Qui a dit que l'assurance était compliquée ?
   cover: False
+
+Bien-Etre:
+  name: Bien ëtre
+  description: La bonne santé en pratique
+  cover: False
