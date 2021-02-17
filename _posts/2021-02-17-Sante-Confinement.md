@@ -110,4 +110,4 @@ Une fois que le processus a commencé, il n'est généralement pas aussi effraya
 
 [Rejoignez le mouvement Elixir](https://elixir-sante.fr/){: .btn-elixir}
 
-👍 Merci au professeur Nicolas Franck, à la psychiatre Elisabeth Pakin et à l’équipe Qookka pour la rédaction de cet article.
+👍 Merci au professeur Nicolas Franck, à la psychiatre Elisabeth Pakin et à l’équipe Qookka pour leur aide à la rédaction de cet article.
