@@ -7,7 +7,7 @@ navigation: True
 title: Votre contrat mutuelle santé, responsable ou pas ? 🧐
 excerpt: 
 date: 2021-02-01 10:00:00
-tags: ["Comprendre l' assurance santé"]
+tags: ["Comprendre l'assurance santé"]
 class: post-template
 subclass: 'post'
 author: elixir
