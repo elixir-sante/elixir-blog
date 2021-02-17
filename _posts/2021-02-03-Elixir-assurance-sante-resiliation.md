@@ -6,7 +6,7 @@ navigation: True
 title: Résiliation à la carte de votre complémentaire santé 🔓
 excerpt: 
 date: 2021-02-01 10:00:00
-tags: ["Comprendre l' assurance santé"]
+tags: ["Comprendre l'assurance santé"]
 class: post-template
 subclass: 'post'
 author: elixir
