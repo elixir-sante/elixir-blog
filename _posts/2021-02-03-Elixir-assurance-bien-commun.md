@@ -24,8 +24,6 @@ Nous avons bâti une bonne assurance santé qui répond bien aux premiers besoin
 
 Chaque année, l’argent qui n’a pas été utilisé pour rembourser des frais de santé des membres adhérents à l’assurance santé Elixir est versé dans un pot commun solidaire : **on appelle ça le Giveback Elixir**. 
 
-[Giveback Elixir](giveback.png)
-
 Avec ces fonds, nous coconstruisons avec nos adhérents, des startups et des associations de nouveaux services, améliorons les garanties de notre assurance et contribuons à rendre le monde meilleur.
 
 
