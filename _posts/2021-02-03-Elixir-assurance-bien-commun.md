@@ -22,7 +22,7 @@ Dans le parcours de santé de chacun, on trouve des petits rien du quotidien qui
 
 Nous avons bâti une bonne assurance santé qui répond bien aux premiers besoins, notamment la prise en charge financière des frais médicaux. Elle est encore loin d’être suffisante pour bien vous accompagner sur votre parcours de santé.  
 
-Chaque année, l’argent qui n’a pas été utilisé pour rembourser des frais de santé des membres adhérents à l’assurance santé Elixir est versé dans un pot commun solidaire: on appelle ça le Giveback Elixir.
+Chaque année, l’argent qui n’a pas été utilisé pour rembourser des frais de santé des membres adhérents à l’assurance santé Elixir est versé dans un pot commun solidaire: on appelle ça le Giveback Elixir. 
 
 ![Giveback Elixir](https://github.com/elixir-sante/elixir-blog/blob/master/assets/images/giveback-3.jpg)
 
