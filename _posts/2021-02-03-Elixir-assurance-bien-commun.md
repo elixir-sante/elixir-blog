@@ -24,9 +24,11 @@ Nous avons bâti une bonne assurance santé qui répond bien aux premiers besoin
 
 Chaque année, l’argent qui n’a pas été utilisé pour rembourser des frais de santé des membres adhérents à l’assurance santé Elixir est versé dans un pot commun solidaire: on appelle ça le Giveback Elixir.
 
+![Giveback Elixir](https://github.com/elixir-sante/elixir-blog/blob/master/assets/images/giveback-3.jpg)
+
 Avec ces fonds, nous coconstruisons avec nos adhérents, des startups et des associations de nouveaux services, améliorons les garanties de notre assurance et contribuons à rendre le monde meilleur.
 
-![Giveback](assets/images/giveback.png)
+
 
 ## Un peu plus qu'une bonne assurance
 
@@ -53,7 +55,7 @@ Comment on s’y prend ? On mutualise l’ensemble des cotisations et remboursem
 - Ensemble, nous sélectionnons les **sujets de santé** sur lesquels travailler : les déserts médicaux, le reste à charge, l'aide aux aidants, les avances de dépenses de santé...
 - Nous recherchons des **solutions aux problèmes rencontrés par nos membres et leurs proches** : le financement d'une opération exceptionnelle, l'aménagement d'un domicile pour l'adapter à une mobilité réduite, le placement temporaire d'un proche aidé pour laisser souffler son aidant...
 - Nous concevons quand c’est nécessaire des **applications ou nouveaux services** : une app de gestion des médicaments, une aide pratique à la fonction d'aidant, une carte de paiement des dépenses de santé...
-- 
+
 Vos cotisations deviennent des projets qui créent des services utiles pour tous les membres. Et comme on améliore l’accès à la santé, notre assurance santé devient chaque fois plus complète, plus efficace. Finalement, on recrute de plus en plus de membres dans un modèle vertueux.
 
 ### Pour nous, faire le choix d’une assurance santé n’est pas anodin et peut servir l’intérêt général.
