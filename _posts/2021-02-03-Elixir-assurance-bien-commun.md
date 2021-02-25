@@ -26,7 +26,7 @@ Chaque année, l’argent qui n’a pas été utilisé pour rembourser des frais
 
 Avec ces fonds, nous coconstruisons avec nos adhérents, des startups et des associations de nouveaux services, améliorons les garanties de notre assurance et contribuons à rendre le monde meilleur.
 
-
+![Giveback](assets/images/Giveback.png)
 
 ## Un peu plus qu'une bonne assurance
 
