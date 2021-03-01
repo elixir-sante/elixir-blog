@@ -71,11 +71,11 @@ Nous avons développé une application qui vous accompagne dans votre parcours d
 
 🧞 Nous assemblons des services de E-santé autour de vos besoins, quand vous en avez besoin. 
 
-**Vous avez mal ? 
+**Vous avez mal ?**
 
 Un médecin ou un psychologue sont disponibles en ligne pour vous écouter et vous proposer des solutions.
 
-**Vous avez besoin de souffler un peu ? 
+**Vous avez besoin de souffler un peu ?**
 
 Notre service d’écoute vous attend en toute confidentialité. Et si vous avez besoin de plus, nos conseillers spécialisés dans la gestion des fragilités sont à votre service.
 
@@ -97,13 +97,13 @@ Nous sommes désormais dans le temps de la confrontation avec nos utilisateurs. 
 
 nous de vous convaincre qu’on peut rendre l’assurance santé utile, pour vous, votre santé bien sûr, mais aussi pour celle de tous.
 
-**Comment allons-nous nous y prendre ? 
+**Comment allons-nous nous y prendre ?**
 
 En communiquant sur notre modèle, en rencontrant les personnes et associations qui tous les jours, œuvrent pour corriger les trous dans le système de santé.
 
 Nous avons besoin de vous, de vos suggestions et besoins. 
 
-Et pour permettre au mouvement Elixir de prendre de l’ampleur, **vous pouvez commencer par cotiser utile. 😉
+Et pour permettre au mouvement Elixir de prendre de l’ampleur, **vous pouvez commencer par cotiser utile.** 😉
 
 Le mieux c’est encore de nous rendre visite sur https://elixir-sante.fr et vous faire votre idée.
 
