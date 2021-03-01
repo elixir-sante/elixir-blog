@@ -12,3 +12,9 @@ Bien-Etre:
   name: bien-etre
   description: La bonne santé en pratique
   cover: False
+  
+L-histoire-elixir:
+  name: L'histoire Elixir:
+  description: Notre story
+  cover: False
+
