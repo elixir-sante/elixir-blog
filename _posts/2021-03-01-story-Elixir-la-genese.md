@@ -14,7 +14,7 @@ author: jn
 
 ---
 
-Nous sommes une startup E-santé née en 2020 dans le Val d’Oise... en plein confinement🌱 cultivée par ses deux fondateurs, Gaël et Jean-Noël
+Nous sommes une startup E-santé née en 2020 dans le Val d’Oise... en plein confinement🌱 cultivée par ses deux fondateurs, Gaël et Jean-Noël.
 Notre proposition est de vous aider à gérer plus facilement votre parcours de santé en commençant par vous proposer une nouvelle expérience autour de l’assurance santé.
 
 # La story Elixir ou pourquoi se lancer dans la e-santé 
@@ -34,7 +34,8 @@ Elixir prend en compte tous les aspects de votre santé et notamment votre équi
 ❤️ **Notre principe de redistribution** des cotisations d’assurance nous donne les moyens de développer et intégrer de plus en plus de services en concertation avec les membres de la communauté Elixir.
 
 🔎 **Notre offre simplifiée d’assurance santé** est le socle de notre démarche Elle apporte de la transparence et les garanties véritablement utiles. C’est le point de passage de votre parcours de santé à partir duquel nous pouvons vous accompagner.
-Pourquoi nous avons construit une nouvelle forme d’assurance santé
+
+# Pourquoi nous avons construit une nouvelle forme d’assurance santé
 
 **Nous avons identifié l’assurance santé comme un point naturel de passage sur votre parcours de santé.** 
 
@@ -56,7 +57,7 @@ Bientôt, nous couvrirons également les petites entreprises et les associations
 >-	Une seule offre par population couverte, de très bon niveau, incluant pour tous des services de prévention réellement utiles.
 >-	Une offre digitalisée et simplifiée permet de bénéficier d’une très bonne couverture d’assurance à un prix ajusté.
 
->-	Un giveback : lorsqu’il reste des cotisations non consommées à la fin de l’année, elles viennent alimenter un pot commun. Ces fonds permettent de mener des actions au service de la santé de tous.
+>-	**Un giveback** : lorsqu’il reste des cotisations non consommées à la fin de l’année, elles viennent alimenter un pot commun. Ces fonds permettent de mener des actions au service de la santé de tous.
 
 Pour faire vivre notre assurance, nous sommes alliés à une mutuelle santé qui couvre le risque d’assurance et partage notre ambition du bien commun.
 
@@ -74,7 +75,7 @@ Nous avons développé une application qui vous accompagne dans votre parcours d
 
 **Vous avez mal ?**
 
-Un médecin ou un psychologue sont disponibles en ligne pour vous écouter et vous proposer des solutions.
+Un médecin ou un psychologue disponible en ligne pour vous écouter et vous proposer des solutions.
 
 **Vous avez besoin de souffler un peu ?**
 
@@ -98,7 +99,7 @@ Nous sommes désormais dans le temps de la confrontation avec nos utilisateurs.
 
 A nous de vous convaincre qu’on peut rendre l’assurance santé utile, pour vous, votre santé bien sûr, mais aussi pour celle de tous.
 
-**Comment allons-nous nous y prendre ?**
+**Comment procédons-nous ?**
 
 En communiquant sur notre modèle, en rencontrant les personnes et associations qui tous les jours, œuvrent pour corriger les trous dans le système de santé.
 
