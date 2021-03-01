@@ -10,7 +10,7 @@ date: 2021-02-01 10:00:00
 tags: ["L'histoire d'Elixir"]
 class: post-template
 subclass: 'post'
-author: Jean-Noël
+author: jn
 
 ---
 
