@@ -14,7 +14,7 @@ author: jn
 
 ---
 
-Nous sommes une startup E-santé née en 2020 dans le Val d’Oise... en plein confinement😊 cultivée par ses deux fondateurs, Gaël et Jean-Noël
+Nous sommes une startup E-santé née en 2020 dans le Val d’Oise... en plein confinement🌱 cultivée par ses deux fondateurs, Gaël et Jean-Noël
 Notre proposition est de vous aider à gérer plus facilement votre parcours de santé en commençant par vous proposer une nouvelle expérience autour de l’assurance santé.
 
 # La story Elixir ou pourquoi se lancer dans la e-santé 
@@ -27,8 +27,8 @@ Que se passe t’il après une opération ? Entre deux séjours à l’hôpital 
 Elixir prend en compte tous les aspects de votre santé et notamment votre équilibre de vie au quotidien. Il peut être fragilisé par un accident, une rupture, ou simplement par des charges supplémentaires à assumer. Nous pensons qu’il est important d’être à vos côtés pour maintenir cet équilibre.
 
 ♾️ Note technologie vous donne les outils pour mieux gérer votre parcours de santé : 
-•	Nous bâtissons un écosystème de services E-santé interconnectés répondant à vos besoins.
-•	Nos outils apprennent au fur et à mesure à mieux vous servir et à détecter les fragilités.
+- Nous bâtissons un écosystème de services E-santé interconnectés répondant à vos besoins.
+- Nos outils apprennent au fur et à mesure à mieux vous servir et à détecter les fragilités.
 
 ❤️ Notre principe de redistribution des cotisations d’assurance nous donne les moyens de développer et intégrer de plus en plus de services en concertation avec les membres de la communauté Elixir.
 
@@ -40,7 +40,7 @@ La santé passe en grande partie par les interactions avec le monde médical et 
 Nous avons donc commencé par travailler une offre simplifiée d’assurance, proposant un bon compromis entre cotisations et garanties au top. Cette offre 100% digitale est organisée autour de vous, tient compte de chaque information pour vous accompagner au mieux. 
 Pour commencer, nous avons choisi de nous intéresser aux fonctionnaires, retraités et travailleurs indépendants. Si vous faites partie de l’une de ces catégories, vous savez que vous avez (encore) le droit de choisir votre mutuelle 😊. Bientôt, nous couvrirons également les petites entreprises et les associations. 
 
- ## Notre premier défi est relevé 👏##  
+ ## Notre premier défi est relevé 👏
 
 Notre offre est disponible en ligne. Simple à comprendre, à souscrire, elle est au bon prix, sans charges inutiles.
 
@@ -58,12 +58,18 @@ Après avoir créé notre offre d’assurance, **notre challenge suivant a été
 
 Nous avons développé une application qui vous accompagne dans votre parcours de santé. Notre priorité est de vous apporter les bons services au bon moment.
 
-[L'app Elixir](https://elixir-sante.fr/static/elixir/img/phone-home.jpg)
+![L'app Elixir](https://elixir-sante.fr/static/elixir/img/phone-home.jpg)
 
 
 🧞 Nous assemblons des services de E-santé autour de vos besoins, quand vous en avez besoin. 
-Vous avez mal ? un médecin ou un psychologue sont disponibles en ligne pour vous écouter et vous proposer des solutions.
-Vous avez besoin de souffler un peu ? notre service d’écoute vous attend en toute confidentialité. Et si vous avez besoin de plus, nos conseillers spécialisés dans la gestion des fragilités sont à votre service.
+
+Vous avez mal ? 
+Un médecin ou un psychologue sont disponibles en ligne pour vous écouter et vous proposer des solutions.
+
+Vous avez besoin de souffler un peu ? 
+
+Notre service d’écoute vous attend en toute confidentialité. Et si vous avez besoin de plus, nos conseillers spécialisés dans la gestion des fragilités sont à votre service.
+
 Ce ne sont que quelques exemples des services apportés par Elixir. Notre écosystème de services E-santé grandit régulièrement pour mieux s’adapter à vos enjeux personnels.
 
 🧞 🧞 La technologie Elixir permet de traiter beaucoup d’informations. Vos informations de santé et de gestion sont croisées avec les data publiques pour mieux cerner votre profil. Notre enjeu est de détecter au plus tôt des fragilités et de vous aider à agir en prévention. Les meilleures dépenses de santé restent celles que l’on ne fait pas.
