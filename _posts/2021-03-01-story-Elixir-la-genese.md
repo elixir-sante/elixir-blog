@@ -2,7 +2,7 @@
 
 layout: post
 current: post
-cover: assets/images/Elixir_tel.png
+cover: assets/images/sky.png
 navigation: True
 title: La jeune pousse Elixir Santé 
 excerpt: 
