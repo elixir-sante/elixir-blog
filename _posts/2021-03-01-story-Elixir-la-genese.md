@@ -68,8 +68,7 @@ Après avoir créé notre offre d’assurance, **notre challenge suivant a été
 
 Nous avons développé une application qui vous accompagne dans votre parcours de santé. Notre priorité est de vous apporter les bons services au bon moment.
 
-![L'app Elixir](https://elixir-sante.fr/static/elixir/img/phone-home.jpg =813x1145)
-
+<img src="https://elixir-sante.fr/static/elixir/img/phone-home.jpg" width="400" alt="L'app Elixir" />
 
 🧞 Nous assemblons des services de E-santé autour de vos besoins, quand vous en avez besoin. 
 
