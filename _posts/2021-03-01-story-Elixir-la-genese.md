@@ -2,7 +2,7 @@
 
 layout: post
 current: post
-cover: assets/images/Cofondateurs-Elixir.jpg
+cover: assets/images/Elixir-tel.png
 navigation: True
 title: La jeune pousse Elixir Santé 
 excerpt: 
