@@ -26,7 +26,7 @@ On en a sorti :
 Suivez-nous, on vous raconte tout.
 
 
-##  Le premier ingrédient de la potion ? Une bonne assurance santé :
+##  Le premier ingrédient de la potion ? Une bonne assurance santé ⚗️
 Attention au scoop ! L’assurance santé, c’est compliqué... à comprendre, à comparer, à utiliser. Pour vous Elixir a tout rendu simple :  
 
 -	Un seul niveau de garanties, au top  
@@ -39,7 +39,7 @@ Attention au scoop ! L’assurance santé, c’est compliqué... à comprendre, 
 -	Et comme parfois, vous avez juste besoin d’un petit « recalage », on vous donne accès aux ostéopathes, psychologues et autres professionnels de l’autre médecine (vous savez, celle que l’assurance maladie a du mal à reconnaître à sa vraie valeur 😉)
 
 
-## Le deuxième ingrédient  ? la défense de votre budget
+## Le deuxième ingrédient  ? la défense de votre budget 💸
 
 Une assurance santé représente une ligne importante de votre budget. En fonction de vos besoins particuliers, vous devez arbitrer entre couverture et cotisation. Elixir souhaite répondre à ce premier enjeu avec son offre simple et efficace, au bon prix.
 
@@ -50,7 +50,7 @@ Une assurance santé représente une ligne importante de votre budget. En foncti
 
 Elixir peut ainsi vous proposer des garanties de haut niveau là où c’est indispensable, en respectant votre budget et l’équité entre les membres.   
 
-## Notre secret sauce ? Un compagnon de santé
+## Notre secret sauce ? Un compagnon de santé 👟
 
 Pour nous ***« « Être en bonne santé, c’est vivre le mieux possible, en fonction de notre âge, de nos pathologies et de nos incapacités»***
 (Piochée dans l’ouvrage « santé » de Gaby Bonnand et Etienne Caniard).
@@ -59,10 +59,11 @@ Notre vision habituelle de la santé, et de son assurance liée, tient dans la r
 
 Que se passe t’il après une opération ? Entre deux séjours à l’hôpital ? Comment sont prises en compte les conséquences émotionnelles d’un accident de parcours, d’une rupture, ou simplement d’un confinement ?  
 
-Elixir prend en compte tous les aspects de votre santé et notamment **votre équilibre de vie au quotidien**. Il peut être fragilisé par un accident, une rupture, ou simplement par des charges supplémentaires à assumer. Nous pensons qu’il est important d’être à vos côtés pour maintenir cet équilibre.
+Elixir prend en compte tous les aspects de votre santé et notamment **votre santé au quotidien**. Elle peut être fragilisée par un accident, une rupture, ou simplement par des contrariétés, un manque d'activité ou une alimentation trop riche.
+Nous pensons qu’il est important de vous aider à vous maintenir en bonne santé.
 
 Notre promesse, c’est : 
--	Un conseiller disponible à tout moment pour vous informer, vous guider dans les démarches et vous soutenir,
+-	Un coach disponible à tout moment pour vous informer, vous guider dans les démarches et vous soutenir,
 -	Un service d’écoute en ligne pour pouvoir souffler un peu,
 -	Une prise en charge sérieuse des consultations de psychologues,
 -	Un accès facilité aux diététiciens et aux ostéopathes,
