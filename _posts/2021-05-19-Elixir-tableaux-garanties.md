@@ -7,7 +7,7 @@ navigation: True
 title: Et toi, tu as combien de % de la BR en Hospi ?
 excerpt: 
 date: 2021-05-19 10:00:00
-tags: comprendre-l-assurance-sante
+tags: comprendre l'assurance santé
 class: post-template
 subclass: 'post'
 author: elixir
