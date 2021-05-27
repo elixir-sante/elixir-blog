@@ -26,6 +26,7 @@ Les données des tags sont dans `_data/tags.yml`
 ### Dev local
 
 * Cloner le repo
+* Run `bundle install` pour installer les dépendances (voir Gemfile)
 * Run `bundle exec jekyll serve --livereload`
 * Go to [local server](https://127.0.0.1:4000/)
 
