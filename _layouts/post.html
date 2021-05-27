@@ -53,13 +53,13 @@ into the {body} of the default.hbs template -->
             </section>
 
             <!-- Add CTA hero -->
-            {% include cta-hero-elixir.html %}
+            <!-- {# include cta-hero-elixir.html #} -->
 
             <!-- Email subscribe form at the bottom of the page -->
             {% if site.subscribers %}
                 <section class="subscribe-form">
-                    <h3 class="subscribe-form-title">S'inscrire au blog Elixir</h3>
-                    <p>Être informé des nouveaux articles par mail</p>
+                    <h3 class="subscribe-form-title">S'inscrire à la news Elixir</h3>
+                    <p>Être informé des articles et des nouveautés par mail</p>
                     {% include subscribe-form.html placeholder="votremail@exemple.fr" %}
                 </section>
             {% endif %}

@@ -1793,6 +1793,42 @@ Usage (In Ghost editor):
 }
 
 
+/* 9. bis contact ok page
+/* ---------------------------------------------------------- */
+
+
+.contact-ok-message {
+    text-align: center;
+}
+
+.contact-ok-code {
+    margin: 0;
+    font-size: 7em;
+    line-height: 1em;
+    opacity: 0.3;
+}
+
+.contact-ok-description {
+    margin: 0;
+    color: var(--midgrey);
+    font-size: 3rem;
+    line-height: 1.3em;
+    font-weight: 500;
+}
+
+@media (max-width: 800px) {
+    .contact-ok-description {
+        margin: 5px 0 0 0;
+        font-size: 1.8rem;
+    }
+}
+
+.contact-ok-link {
+    display: inline-block;
+    margin-top: 5px;
+}
+
+
 /* 10. Subscribe Overlay
 /* ---------------------------------------------------------- */
 
