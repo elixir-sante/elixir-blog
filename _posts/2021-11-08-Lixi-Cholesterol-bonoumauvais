@@ -5,7 +5,7 @@ cover: assets/images/butter-ga8c48863a_1280.jpg
 navigation: True
 title: Le Cholestérol, vraiment mauvais pour la santé ? 🪄
 excerpt: 
-date: 2021-02-01 10:00:00
+date: 2021-11-08 10:00:00
 tags: ["La santé by Lixi"]
 class: post-template
 subclass: 'post'
@@ -56,10 +56,10 @@ Si vous avez effectivement un excès de cholestérol qui pose problème et que v
 
 ---
   
-##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-sante-by-lixi)
+##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-sante-by-lixi)#####
 
 ✅ [Le Cholestérol : Savez-vous vraiment ce que c’est ?]({% post_url 2021-11-08-Lixi-Cholesterol-Questcequecest %})  
-✅ [ULire le bilan Cholestérol de votre analyse de sang]({% post_url 2021-02-03-Lixi-Cholesterol-bilanlipidique %})  
+✅ [ULire le bilan Cholestérol de votre analyse de sang]({% post_url 2021-11-08-Lixi-Cholesterol-bilanlipidique %})  
  
 
 
