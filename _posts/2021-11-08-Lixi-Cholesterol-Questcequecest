@@ -1,0 +1,47 @@
+---
+layout: post
+current: post
+cover: assets/images/butter-ga8c48863a_1280.jpg
+navigation: True
+title: Le Cholestérol : Savez-vous vraiment ce que c’est ? 
+excerpt: 
+date: 2021-11-08 10:00:00
+tags: ["La santé by Lixi"]
+class: post-template
+subclass: 'post'
+author: elixir
+---
+
+Le cholestérol fait partie des lipides, la famille des graisses. 
+C'est une substance vitale présente dans pratiquement toutes les cellules humaines. 
+ 
+Cette graisse est fabriquée majoritairement par le foie et est en partie également issue de notre alimentation.
+ 
+- Le cholestérol est un constituant des cellules 
+- Le cholestérol facilite la synthèse de plusieurs hormones, notamment sexuelles et du stress
+- Le cholestérol permet également de produire la vitamine D indispensable à la construction des os
+- Le cholestérol entre dans la synthèse de la bile, qui intervient dans la digestion des graisses
+ 
+## Comment ça marche ?##
+ 
+Le cholestérol va du foie vers les organes, transporté par des sortes de billes, appelées lipoprotéines LDL.
+
+Il revient des organes vers le foie via d’autres billes, les lipoprotéines HDL.
+Les HDL collectent le cholestérol en excès et le ramènent au foie pour le recycler.
+ 
+**On appelle le “transporteur” LDL le “mauvais cholestérol”**, parce qu’en quantité trop importante, il ne peut être absorbé par le corps et va encrasser les vaisseaux sanguins.
+ 
+Au contraire, le HDL vient nettoyer les vaisseaux du Cholestérol trop abondant. On appelle le HDL le “Bon Cholestérol”**.
+ 
+Bon et mauvais cholestérol s’équilibrent en général. D’où l'importance de la mesure du Cholestérol total dans les analyses de sang. 
+
+
+[Que fait Elixir pour vous ?](https://elixir-sante.fr/#recette){: .btn-elixir}
+
+---
+  
+##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-sante-by-lixi)
+
+✅ [Le Cholestérol : Vraiment mauvais pour la santé ?]({% post_url 2021-11-08-Lixi-Cholesterol-bonoumauvais %})  
+✅ [ULire le bilan Cholestérol de votre analyse de sang]({% post_url 2021-02-03-Lixi-Cholesterol-bilanlipidique %})  
+ 
