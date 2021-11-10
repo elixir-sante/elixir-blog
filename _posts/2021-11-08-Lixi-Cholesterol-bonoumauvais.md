@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/oiseau-graisse.png
 navigation: True
-title: Le Cholestérol, vraiment mauvais pour la santé ? 🪄
+title: Le Cholestérol, vraiment mauvais pour la santé ?
 excerpt: 
 date: 2021-11-08 10:00:00
 tags: ["La-sante-by-Lixi"]
@@ -40,7 +40,7 @@ Lorsque c’est nécessaire, le médecin peut proposer un traitement médicament
 
 En général, il commence par préconiser des mesures diététiques pour diminuer l’excès de graisses :
 
-✅ **Mieux s’alimenter : **
+✅ **Mieux s’alimenter :**
 
 limiter les graisses saturées, présentes notamment dans les produits transformés
 privilégier les fruits & légumes frais
