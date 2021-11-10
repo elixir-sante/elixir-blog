@@ -6,7 +6,7 @@ navigation: True
 title: Le Cholestérol, vraiment mauvais pour la santé ?
 excerpt: 
 date: 2021-11-08 10:00:00
-tags: ["La-sante-by-Lixi"]
+tags: ["La sante by Lixi"]
 class: post-template
 subclass: 'post'
 author: elixir
