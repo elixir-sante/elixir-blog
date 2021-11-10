@@ -44,4 +44,4 @@ C’est au médecin de poser un diagnostic et de proposer des solutions quand n�
 ##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-sante-by-lixi)
 
 ✅ [Le Cholestérol : Vraiment mauvais pour la santé ?]({% post_url 2021-11-08-Lixi-Cholesterol-bonoumauvais %})  
-✅ [Le Cholestérol : Savez-vous vraiment ce que c'est]({% post_url 2021-11-08-Lixi-Cholesterol-questcequecest %})  
+✅ [Le Cholestérol : Savez-vous vraiment ce que c'est]({% post_url 2021-11-08-Lixi-Cholesterol-Questcequecest %})  
