@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/blood-lixi.png
 navigation: True
-title: Le Cholestérol : Savez-vous vraiment ce que c’est ? 
+title: Le Cholestérol, savez-vous vraiment ce que c’est ? 
 excerpt: 
 date: 2021-11-08 10:00:00
 tags: ["La-sante-by-Lixi"]
@@ -31,7 +31,7 @@ Les HDL collectent le cholestérol en excès et le ramènent au foie pour le rec
  
 **On appelle le “transporteur” LDL le “mauvais cholestérol”**, parce qu’en quantité trop importante, il ne peut être absorbé par le corps et va encrasser les vaisseaux sanguins.
  
-Au contraire, le HDL vient nettoyer les vaisseaux du Cholestérol trop abondant. On appelle le HDL le “Bon Cholestérol”**.
+Au contraire, le HDL vient nettoyer les vaisseaux du Cholestérol trop abondant. **On appelle le HDL le “Bon Cholestérol”**.
  
 Bon et mauvais cholestérol s’équilibrent en général. D’où l'importance de la mesure du Cholestérol total dans les analyses de sang. 
 
