@@ -12,23 +12,32 @@ subclass: 'post'
 author: elixir
 ---
 
-Arrivé à 50 ans pour les hommes, à 60 pour les femmes, ou en présence de facteurs de risque comme le diabète, l'hypertension ou des antécédents familiaux, il peut être nécessaire de surveiller le niveau du cholestérol dans le sang.
+Il peut être nécessaire de surveiller le niveau du cholestérol dans le sang.
 
-Une simple analyse de sang permet de doser le taux de cholestérol. On peut donner les mesures moyennes et d’alerte, mais l’interprétation reste du ressort du médecin. Il va mettre ces mesures en relation avec d’autres facteurs, tels que l’âge, le sexe, les antécédents familaux de maladies cardiovasculaires ou encore le surpoids, le diabète et l’hypertension.
+- Arrivé à 50 ans pour les hommes, 
+- à 60 pour les femmes, 
+- ou en présence de facteurs de risque comme le diabète, l'obésité, l'hypertension ou des antécédents familiaux.
 
-##Pour vous repérer :##
+Une simple analyse de sang permet de doser le taux de cholestérol. On peut donner les mesures moyennes et d’alerte, mais l’interprétation reste du ressort du médecin. Il va mettre ces mesures en relation avec d’autres facteurs, tels que l’âge, le sexe, les antécédents familaux et les facteurs de risques.
 
-On regarde d’abord le ** LDL-Cholestérol.** Une valeur élevée indique un excès de graisses que les cellules n'absorbent pas  : 
+## Pour vous repérer :
 
-Seuil d’alerte : 
+On regarde d’abord le **LDL-Cholestérol.** Une valeur élevée indique un excès de graisses que les cellules n'absorbent pas  : 
+
+### Seuil d’alerte : 
+
 > 1,9 g/L de sang sans facteurs de risque
 > 1,3 g/L de sang en présence de facteurs de risque
 
 Ensuite, on recherche le **HDL -Cholestérol.** Une valeur trop basse indique que le HDL n’arrive pas à nettoyer suffisamment les vaisseaux de la graisse accumulée :
-Seuil d’alerte : < 0,35 g/L de sang - bon : >0,60 g/L de sang
 
-Enfin, on regarde le ** Cholestérol total**, qui regroupe le HDL, le LDL et une partie des Triglycérides (les graisses autres que le Cholestérol) :
-			En général inférieur à 2 g/L de sang 
+### Seuil d’alerte : 
+
+< 0,35 g/L de sang - bon : >0,60 g/L de sang
+
+Enfin, on regarde le **Cholestérol total**, qui regroupe le HDL, le LDL et une partie des Triglycérides (les graisses autres que le Cholestérol) :
+			
+			**En général inférieur à 2 g/L de sang**
 			Triglycérides : < 1,5 g/L de sang
 
 On peut avoir un taux élevé de LDL-Cholestérol (le mauvais) et un cholestérol total convenable. ça signifie que le corps fait bien son travail de nettoyage des vaisseaux.
