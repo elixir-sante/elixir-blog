@@ -1,12 +1,12 @@
 ---
 layout: post
 current: post
-cover: assets/images/oiseau-graisse.png
+cover: assets/images/oiseau-graisse2.jpg
 navigation: True
 title: Le Cholestérol, vraiment mauvais pour la santé ?
 excerpt: 
 date: 2021-11-08 10:00:00
-tags: ["La sante by Lixi"]
+tags: ["La santé by Lixi"]
 class: post-template
 subclass: 'post'
 author: elixir
@@ -23,7 +23,7 @@ Les maladies du cœur et des vaisseaux sanguins sont aujourd’hui les principal
 
 Tous les médecins ne sont pas d’accord sur le rôle direct de l’excès de cholestérol dans l’apparition des maladies du cœur et des artères.
 
-** qui est généralement admis est qu’un cholestérol qui sort de la moyenne révèle des habitudes de vie toxiques pour le corps… et dans de rares cas, une anomalie génétique.**
+**qui est généralement admis est qu’un cholestérol qui sort de la moyenne révèle des habitudes de vie toxiques pour le corps… et dans de rares cas, une anomalie génétique.**
 
 ## Qui est particulièrement concerné ?
 
