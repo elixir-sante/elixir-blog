@@ -6,7 +6,7 @@ navigation: True
 title: Le Cholestérol : Savez-vous vraiment ce que c’est ? 
 excerpt: 
 date: 2021-11-08 10:00:00
-tags: ["La-santé-by-Lixi"]
+tags: ["La-sante-by-Lixi"]
 class: post-template
 subclass: 'post'
 author: elixir
@@ -22,7 +22,7 @@ Cette graisse est fabriquée majoritairement par le foie et est en partie égale
 - Le cholestérol permet également de produire la vitamine D indispensable à la construction des os
 - Le cholestérol entre dans la synthèse de la bile, qui intervient dans la digestion des graisses
  
-## Comment ça marche ?##
+## Comment ça marche ?
  
 Le cholestérol va du foie vers les organes, transporté par des sortes de billes, appelées lipoprotéines LDL.
 
