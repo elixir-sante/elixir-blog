@@ -41,7 +41,7 @@ Enfin, on regarde le **Cholestérol total**, qui regroupe le HDL, le LDL et une 
 			**En général inférieur à 2 g/L de sang**
 			Triglycérides : < 1,5 g/L de sang
 
-![ Lire son analyse du taux de cholestérol](assets/images/analyse-Cholesterol-total.jpg "")
+![Lire son analyse du taux de cholestérol](assets/images/analyse-Cholesterol-total.jpg "suivre le taux de cholestérol dans le sang")
 
 On peut avoir un taux élevé de LDL-Cholestérol (le mauvais) et un cholestérol total convenable. ça signifie que le corps fait bien son travail de nettoyage des vaisseaux.
 
