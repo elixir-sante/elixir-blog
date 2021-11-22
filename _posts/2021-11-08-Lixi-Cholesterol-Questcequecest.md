@@ -32,7 +32,7 @@ Le cholestérol va du foie vers les organes, transporté par des sortes de bille
 Il revient des organes vers le foie via d’autres billes, les lipoprotéines HDL.
 Les HDL collectent le cholestérol en excès et le ramènent au foie pour le recycler.
  
-![Le circuit du cholestérol dans le corps](assets/images/circuit-cholestérol.jpg "Le circuit du cholestérol dans le corps")
+![Le circuit du cholestérol dans le corps](assets/images/circuit-cholestérol.jpg?raw=true "Le circuit du cholestérol dans le corps")
  
  
 **On appelle le “transporteur” LDL le “mauvais cholestérol”**, parce qu’en quantité trop importante, il ne peut être absorbé par le corps et va encrasser les vaisseaux sanguins.
