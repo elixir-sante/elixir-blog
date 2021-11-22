@@ -27,6 +27,8 @@ Cette graisse est fabriquée majoritairement par le foie et est en partie égale
  
 ## Le transport du cholestérol dans notre corps 
 
+![Le transport du cholestérol dans le corps](/assets/images/circuit-Cholesterol.jpg)
+
 Le cholestérol va du foie vers les organes, transporté par des sortes de billes, appelées lipoprotéines LDL.
 
 Il revient des organes vers le foie via d’autres billes, les lipoprotéines HDL.
