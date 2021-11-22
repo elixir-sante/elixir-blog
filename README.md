@@ -6,8 +6,17 @@
 ### Article
 
 Les posts sont dans le repertoire `_posts` au format Markdown.
+Les brouillons sont dans le repertoire `brouillons` au format Markdown. Ils ne sont pas référencés.
+
 Ils doivent respecter le format 2021-02-04-titre-au-format-slug.md
-Une feature de brouillon va être ajoutée bientôt :)
+
+#### Rappel code markdown
+
+##### Les images
+
+```md
+![Une image qui est dans asset](/assets/images/tube-lixi.png)
+```
 
 ### Auteurs
 Les données des auteurs sont dans `_data/authors.yml`
