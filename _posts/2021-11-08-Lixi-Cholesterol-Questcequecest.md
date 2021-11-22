@@ -13,7 +13,7 @@ author: elixir
 ---
 
 
-## Le cholestérol : d’où vient-il et à quoi sert-il ?
+## Le cholestérol: d’où vient-il et à quoi sert-il ?
 
 Le cholestérol fait partie des lipides, la famille des graisses. 
 C'est une substance vitale présente dans pratiquement toutes les cellules humaines. 
@@ -32,17 +32,18 @@ Le cholestérol va du foie vers les organes, transporté par des sortes de bille
 Il revient des organes vers le foie via d’autres billes, les lipoprotéines HDL.
 Les HDL collectent le cholestérol en excès et le ramènent au foie pour le recycler.
  
-![ Le circuit du cholestérol dans le corps](assets/images/circuit-cholestérol.jpg "Le circuit du cholestérol dans le corps")
+![Le circuit du cholestérol dans le corps](assets/images/circuit-cholestérol.jpg "Le circuit du cholestérol dans le corps")
  
  
 **On appelle le “transporteur” LDL le “mauvais cholestérol”**, parce qu’en quantité trop importante, il ne peut être absorbé par le corps et va encrasser les vaisseaux sanguins.
  
 Au contraire, le HDL vient nettoyer les vaisseaux du Cholestérol trop abondant. **On appelle le HDL le “Bon Cholestérol”**.
  
-Bon et mauvais cholestérol s’équilibrent en général. D’où l'importance de la mesure [la mesure du Cholestérol total dans les analyses de sang.]({% post_url 2021-11-08-Lixi-Cholesterol-bilanlipidique %})  
+Bon et mauvais cholestérol s’équilibrent en général. D’où l'importance de [la mesure du Cholestérol total dans les analyses de sang.]({% post_url 2021-11-08-Lixi-Cholesterol-bilanlipidique %})  
 
 C'est bon, maintenant, on sait que le Cholestérol n'est pas une méchante maladie. C'est un constituant de notre organisme qui peut se dérégler quand du gras est consommé en excès, quand le corps n'arrive plus à évacuer le surplus ou quand notre foie fonctionne moins bien. 
 Il faut surveiller cet indicateur important de votre bonne santé. 
+
 Pas de panique, votre compagnon de santé Lixi vous rappellera d'aller en parler au médecin de temps en temps.
 
 
