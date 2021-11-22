@@ -24,6 +24,7 @@ Une simple analyse de sang permet de doser le taux de cholestérol. On peut donn
 
 On regarde d’abord le **LDL-Cholestérol.** Une valeur élevée indique un excès de graisses que les cellules n'absorbent pas  : 
 
+
 ### Quel est le seuil d'alerte du taux de LDL-Cholestérol dans le sang ? : 
 
 > 1,9 g/L de sang sans facteurs de risque
@@ -40,9 +41,12 @@ Enfin, on regarde le **Cholestérol total**, qui regroupe le HDL, le LDL et une 
 			**En général inférieur à 2 g/L de sang**
 			Triglycérides : < 1,5 g/L de sang
 
+![ Lire son analyse du taux de cholestérol](assets/images/analyse-Cholesterol-total.jpg "")
+
 On peut avoir un taux élevé de LDL-Cholestérol (le mauvais) et un cholestérol total convenable. ça signifie que le corps fait bien son travail de nettoyage des vaisseaux.
 
 C’est au médecin de poser un diagnostic et de proposer des solutions quand nécessaire. En général, de mauvaises analyses conduisent à refaire une prise de sang pour confirmer les valeurs obtenues la première fois.
+
 
 
 Maintenant que vous avez compris l’importance du cholestérol pour votre santé, pensez à bien faire vos analyses de sang régulières, surtout si vous avez des facteurs de risque.
