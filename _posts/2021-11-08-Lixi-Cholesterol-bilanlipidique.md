@@ -38,8 +38,10 @@ Ensuite, on recherche le **HDL -Cholestérol.** Une valeur trop basse indique qu
 
 Enfin, on regarde le **Cholestérol total**, qui regroupe le HDL, le LDL et une partie des Triglycérides (les graisses autres que le Cholestérol) :
 			
-			**En général inférieur à 2 g/L de sang**
-			Triglycérides : < 1,5 g/L de sang
+En général inférieur à 2 g/L de sang
+Triglycérides : < 1,5 g/L de sang
+
+![Les taux moyens de cholestérol](/assets/images/analyse-Cholesterol-total.jpg)
 
 On peut avoir un taux élevé de LDL-Cholestérol (le mauvais) et un cholestérol total convenable. ça signifie que le corps fait bien son travail de nettoyage des vaisseaux.
 
