@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/tube-lixi.png
 navigation: True
-title: Taux de cholestérol : comprendre sa prise de sang
+title: "Taux de cholestérol : comprendre sa prise de sang"
 excerpt: 
 date: 2021-11-08 10:00:00
 tags: ["La sante by Lixi"]
