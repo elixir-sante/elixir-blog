@@ -86,5 +86,5 @@ Une prise en charge financière des consultations dans le cadre de votre contrat
   
 ##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-sante-by-lixi)
 
-✅ [Consulter un Psy? Comment ça marche]({% post_url 2021-11-22-Lixi-Psychologue-therapie %})  
+
  
