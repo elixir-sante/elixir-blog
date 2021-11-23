@@ -24,11 +24,7 @@ var nodemonServerInit = function () {
     livereload.listen(1234);
 };
 
-gulp.task('build', ['css'], function (/* cb */) {
-    return nodemonServerInit();
-});
-
-gulp.task('css', function () {
+gulp.task('css', gulp.series(function () {
     var processors = [
         easyimport,
         customProperties,
@@ -44,13 +40,17 @@ gulp.task('css', function () {
         .pipe(sourcemaps.write('.'))
         .pipe(gulp.dest('assets/built/'))
         .pipe(livereload());
-});
+}));
 
-gulp.task('watch', function () {
+gulp.task('build', gulp.series(['css'], function (/* cb */) {
+    return nodemonServerInit();
+}));
+
+gulp.task('watch', gulp.series(function () {
     gulp.watch('assets/css/**', ['css']);
-});
+}));
 
-gulp.task('zip', ['css'], function() {
+gulp.task('zip', gulp.series(['css'], function() {
     var targetDir = 'dist/';
     var themeName = require('./package.json').name;
     var filename = themeName + '.zip';
@@ -62,8 +62,8 @@ gulp.task('zip', ['css'], function() {
     ])
         .pipe(zip(filename))
         .pipe(gulp.dest(targetDir));
-});
+}));
 
-gulp.task('default', ['build'], function () {
+gulp.task('default', gulp.series(['build'], function () {
     gulp.start('watch');
-});
+}));
