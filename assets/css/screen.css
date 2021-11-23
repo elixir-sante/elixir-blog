@@ -436,9 +436,16 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     text-transform: uppercase;
 }
 
+
 .post-card-title {
+    margin: 0 0 0.5em 0;
     margin-top: 0;
+    font-size: 2.6rem;
+    font-weight: 700;
+    line-height: 1.15;
 }
+
+
 
 .post-card-content {
     flex-grow: 1;
@@ -1876,6 +1883,7 @@ Usage (In Ghost editor):
     margin: 0 0 10px 0;
     font-size: 6rem;
     line-height: 1.15em;
+    font-weight: 700;
 }
 
 .subscribe-overlay-description {
