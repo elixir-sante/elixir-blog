@@ -54,6 +54,7 @@ Avec votre médecin, vous pourrez vérifier que votre taux de cholestérol est b
 Pour ne pas l’oublier, votre compagnon de santé Lixi est là pour vous les rappeler de prendre soin de vous !
 
 [Je suis ma santé avec Lixi ?](https://www.lixi-sante.fr/){: .btn-elixir}
+
 ---
   
 ##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-sante-by-lixi)
