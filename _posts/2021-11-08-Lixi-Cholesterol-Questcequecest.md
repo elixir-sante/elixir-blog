@@ -48,9 +48,11 @@ Pas de panique, votre compagnon de santé Lixi vous rappellera d'aller en parler
 
 [Je suis ma santé avec Lixi ?](https://www.lixi-sante.fr/){: .btn-elixir}
 
+
 ---
   
 ##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-sante-by-lixi)
+
 
 ✅ [Le Cholestérol : Vraiment mauvais pour la santé ?]({% post_url 2021-11-08-Lixi-Cholesterol-bonoumauvais %})  
 ✅ [ULire le bilan Cholestérol de votre analyse de sang]({% post_url 2021-11-08-Lixi-Cholesterol-bilanlipidique %})  
