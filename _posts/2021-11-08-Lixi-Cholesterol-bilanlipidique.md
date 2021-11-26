@@ -12,7 +12,7 @@ subclass: 'post'
 author: elixir
 ---
 
-Il peut être nécessaire de surveiller le niveau du [cholestérol]({% post_url 2021-11-08-Lixi-Cholesterol-bonoumauvais %}) dans le sang.
+Il peut être nécessaire de surveiller [le taux de cholestérol]({% post_url 2021-11-08-Lixi-Cholesterol-bonoumauvais %}) dans le sang.
 
 - Arrivé à 50 ans pour les hommes, 
 - à 60 pour les femmes, 
@@ -22,7 +22,7 @@ Une simple analyse de sang permet de doser le taux de cholestérol. On peut donn
 
 ## Pour vous repérer dans votre analyse du taux de cholestérol :
 
-On regarde d’abord le **LDL-Cholestérol.** Une valeur élevée indique un excès de graisses que les cellules n'absorbent pas  : 
+On regarde d’abord le [**LDL-Cholestérol.**]({% post_url 2021-11-08-Lixi-Cholesterol-Questcequecest %}) Une valeur élevée indique un excès de graisses que les cellules n'absorbent pas  : 
 
 
 ### Quel est le seuil d'alerte du taux de LDL-Cholestérol dans le sang ? : 
@@ -30,13 +30,15 @@ On regarde d’abord le **LDL-Cholestérol.** Une valeur élevée indique un exc
 > 1,9 g/L de sang sans facteurs de risque
 > 1,3 g/L de sang en présence de facteurs de risque
 
-Ensuite, on recherche le **HDL -Cholestérol.** Une valeur trop basse indique que le HDL n’arrive pas à nettoyer suffisamment les vaisseaux de la graisse accumulée :
+Ensuite, on recherche le [**HDL-Cholestérol.**]({% post_url 2021-11-08-Lixi-Cholesterol-Questcequecest %})
+
+Une valeur trop basse indique que le HDL n’arrive pas à nettoyer suffisamment les vaisseaux de la graisse accumulée :
 
 ### Et pour le "bon" Cholestérol-HDL, quelles sont les mesures ? 
 
 < 0,35 g/L de sang - bon : >0,60 g/L de sang
 
-Enfin, on regarde le **Cholestérol total**, qui regroupe le HDL, le LDL et une partie des Triglycérides (les graisses autres que le Cholestérol) :
+Enfin, on regarde le [**Cholestérol total**]({% post_url 2021-11-08-Lixi-Cholesterol-Questcequecest %}), qui regroupe le HDL, le LDL et une partie des Triglycérides (les graisses autres que le Cholestérol) :
 			
 En général inférieur à 2 g/L de sang
 Triglycérides : < 1,5 g/L de sang
