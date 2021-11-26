@@ -55,8 +55,9 @@ Limiter les produits frits et privilégier les huiles végétales pour la cuisso
 
 ## Notre conseil pour un cholestérol total en équilibre :
 
-**Si vous pensez être dans une des catégories à risque, parlez-en à votre médecin.
-Si vous avez effectivement un excès de cholestérol qui pose problème et que votre médecin vous préconise des mesures d’hygiène de vie et de diététique, Lixi est là pour vous accompagner dans votre démarche vers de meilleures habitudes.**
+**Si vous pensez être dans une des catégories à risque, parlez-en à votre médecin.**
+
+Si vous avez effectivement un excès de cholestérol qui pose problème et que votre médecin vous préconise des mesures d’hygiène de vie et de diététique,  [Lixi est là](https://www.lixi-sante.fr/)pour vous accompagner dans votre démarche vers de meilleures habitudes.
 
 [Je suis ma santé avec Lixi ?](https://www.lixi-sante.fr/){: .btn-elixir}
 
