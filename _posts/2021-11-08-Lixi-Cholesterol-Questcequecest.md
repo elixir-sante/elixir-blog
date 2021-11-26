@@ -34,7 +34,7 @@ Le cholestérol va du foie vers les organes, transporté par des sortes de bille
 Il revient des organes vers le foie via d’autres billes, les lipoprotéines HDL.
 Les HDL collectent le cholestérol en excès et le ramènent au foie pour le recycler.
  
-**On appelle le “transporteur” LDL le “mauvais cholestérol”**, parce qu’en quantité trop importante, il ne peut être absorbé par le corps et va encrasser les vaisseaux sanguins.
+[**On appelle le “transporteur” LDL le “mauvais cholestérol”**]({% post_url 2021-11-08-Lixi-Cholesterol-bonoumauvais %}), parce qu’en quantité trop importante, il ne peut être absorbé par le corps et va encrasser les vaisseaux sanguins.
  
 Au contraire, le HDL vient nettoyer les vaisseaux du Cholestérol trop abondant. **On appelle le HDL le “Bon Cholestérol”**.
  
