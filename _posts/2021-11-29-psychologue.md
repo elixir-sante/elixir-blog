@@ -57,6 +57,6 @@ Une fois que le processus a commencé, il n'est généralement pas aussi effraya
 [Je suis ma santé avec Lixi ](https://www.lixi-sante.fr/){: .btn-elixir}
 ---
   
-##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-santé-by-lixi)
+##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-sante-by-lixi)
 
 ✅ [Comment savoir si je suis sujet au stress post-Covid ?]({% post_url 2021-11-22-Stress-covid %})  
