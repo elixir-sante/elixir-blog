@@ -59,4 +59,4 @@ Une fois que le processus a commencé, il n'est généralement pas aussi effraya
   
 ##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-santé-by-lixi)
 
-✅ [Comment savoir si je suis sujet au stress post-Covid ?]({% post_url 2021-11-22-sante_mentale %})  
+✅ [Comment savoir si je suis sujet au stress post-Covid ?]({% post_url 2021-11-22-Stress-covid %})  
