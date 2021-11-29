@@ -87,4 +87,4 @@ Une prise en charge financière des consultations dans le cadre de votre contrat
   
 ##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-santé-by-lixi)
 
-
+✅ [Pourquoi consulter un psychologue?]({% post_url 2021-11-29-psychologue %})  
