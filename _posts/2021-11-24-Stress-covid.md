@@ -4,7 +4,7 @@ layout: post
 current: post
 cover: assets/images/burnout-nuage.jpg
 navigation: True
-title: Comment savoir si je suis sujet au stress post-Covid ?  🌡️
+title: "Comment savoir si je suis sujet au stress post-Covid ?  🌡️"
 excerpt: 
 date: 2021-11-24 10:00:00
 tags: ["La santé by Lixi"]
