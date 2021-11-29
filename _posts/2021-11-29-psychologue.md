@@ -4,7 +4,7 @@ layout: post
 current: post
 cover: assets/images/psychologue.jpg
 navigation: True
-title: Consulter un Psy. Comment ça marche ?
+title: "Consulter un Psy. Comment ça marche ?"
 excerpt: 
 date: 2021-11-22 10:00:00
 tags: ["La santé by Lixi"]
@@ -59,4 +59,4 @@ Une fois que le processus a commencé, il n'est généralement pas aussi effraya
   
 ##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-sante-by-lixi)
 
-✅ [Comment savoir si je suis sujet au stress post-Covid ?]({% post_url 2021-11-22-Stress-covid %})  
+✅ [Comment savoir si je suis sujet au stress post-Covid ?]({% post_url 2021-11-24-Stress-covid %})  
