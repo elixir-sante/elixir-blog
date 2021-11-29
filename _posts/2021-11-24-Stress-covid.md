@@ -81,8 +81,10 @@ Une prise en charge financière des consultations dans le cadre de votre contrat
 Être membre d’Elixir, c’est prendre en main sa santé et également participer à un mouvement général d’amélioration de l’accès à la santé pour tous.
 
 
-[Je suis ma santé avec Lixi ?](https://www.lixi-sante.fr/){: .btn-elixir}
+[Je suis ma santé avec Lixi](https://www.lixi-sante.fr/){: .btn-elixir}
 
 ---
   
-##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-sante-by-lixi)
+##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-santé-by-lixi)
+
+
