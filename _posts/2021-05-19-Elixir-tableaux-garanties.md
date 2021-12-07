@@ -10,7 +10,7 @@ date: 2021-05-19 10:00:00
 tags: ["Comprendre l'assurance santé"]
 class: post-template
 subclass: 'post'
-author: jean-noel-guignard
+author: elixir
 
 ---
 # 500% de la base du remboursement Sécurité sociale, limité au Prix Limite de Vente (PLV) sous déduction des prestations de la Sécurité sociale
