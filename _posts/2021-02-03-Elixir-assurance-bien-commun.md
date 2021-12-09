@@ -6,7 +6,7 @@ cover: assets/images/equilibre.jpg
 navigation: True
 title: L’assurance santé comme bien commun 🌍
 excerpt:  
-date: 2021-02-01 10:00:00
+date: 2021-12-09 10:00:00
 tags: ["Pourquoi Elixir?"]
 class: post-template
 subclass: 'post'
@@ -20,7 +20,7 @@ Bonne nouvelle, changer le monde n'est pas difficile. Il suffit de rejoindre le 
 
 Dans le parcours de santé de chacun, on trouve des petits rien du quotidien qui nous embêtent :  trouver un kiné, un médecin, se rendre à un RDV, faire l’avance d’un traitement coûteux... aider un proche malade, prendre soin de soi, affronter les difficultés de tous les jours. 
 
-Nous avons bâti une bonne assurance santé qui répond bien aux premiers besoins, notamment la prise en charge financière des frais médicaux. Elle est encore loin d’être suffisante pour bien vous accompagner sur votre parcours de santé.  
+Nous avons créé un compagnon digital de santé nommé Lixi, couplé à une bonne assurance santé qui répond bien aux premiers besoins, notamment la prise en charge financière des frais médicaux. Elle est encore loin d’être suffisante pour bien vous accompagner sur votre parcours de santé.  
 
 Chaque année, l’argent qui n’a pas été utilisé pour rembourser des frais de santé des membres adhérents à l’assurance santé Elixir est versé dans un pot commun solidaire : **on appelle ça le Giveback Elixir**. 
 
