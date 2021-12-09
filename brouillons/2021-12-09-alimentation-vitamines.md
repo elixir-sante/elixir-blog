@@ -35,14 +35,14 @@ Ces vitamines B sont nécessaires pour le bon maintien de la peau et du système
 Les besoins en vitamines B sont généralement couverts, pour la plupart des individus, par une alimentation variée (fruits et légumes, viandes et produits laitiers...) en quantité suffisante.
 Les vitamines du groupe B se trouvent essentiellement dans les céréales complètes, le poisson, la volaille, les graines et les légumes secs.
  
-[Aliments riches en vitamine B1](https://ciqual.anses.fr/#/constituants/56100/vitamine-b1-ou-thiamine-(mg-100-g))
-[Aliments riches en vitamine B2](https://ciqual.anses.fr/#/constituants/56200/vitamine-b2-ou-riboflavine-(mg-100-g))
-[Aliments riches en vitamine B3](https://ciqual.anses.fr/#/constituants/56310/vitamine-b3-ou-pp-ou-niacine-(mg-100-g))
-[Aliments riches en vitamine B5](https://ciqual.anses.fr/#/constituants/56400/vitamine-b5-ou-acide-pantothenique-(mg-100-g))
-[Aliments riches en vitamine B6](https://ciqual.anses.fr/#/constituants/56500/vitamine-b6-(mg-100-g))
-Aliments riches en vitamine B8 : les céréales complètes, le foie, les œufs et le lait, mais aussi le soja, les noisettes, les levures. 
-[Aliments riches en vitamine B9](https://ciqual.anses.fr/#/constituants/56700/vitamine-b9-ou-folates-totaux-(%C2%B5g-100-g))
-[Aliments riches en vitamine B12](https://ciqual.anses.fr/#/constituants/56600/vitamine-b12-(%C2%B5g-100-g))
+- [Aliments riches en vitamine B1](https://ciqual.anses.fr/#/constituants/56100/vitamine-b1-ou-thiamine-(mg-100-g))
+- [Aliments riches en vitamine B2](https://ciqual.anses.fr/#/constituants/56200/vitamine-b2-ou-riboflavine-(mg-100-g))
+- [Aliments riches en vitamine B3](https://ciqual.anses.fr/#/constituants/56310/vitamine-b3-ou-pp-ou-niacine-(mg-100-g))
+- [Aliments riches en vitamine B5](https://ciqual.anses.fr/#/constituants/56400/vitamine-b5-ou-acide-pantothenique-(mg-100-g))
+- [Aliments riches en vitamine B6](https://ciqual.anses.fr/#/constituants/56500/vitamine-b6-(mg-100-g))
+- Aliments riches en vitamine B8 : les céréales complètes, le foie, les œufs et le lait, mais aussi le soja, les noisettes, les levures. 
+- [Aliments riches en vitamine B9](https://ciqual.anses.fr/#/constituants/56700/vitamine-b9-ou-folates-totaux-(%C2%B5g-100-g))
+- [Aliments riches en vitamine B12](https://ciqual.anses.fr/#/constituants/56600/vitamine-b12-(%C2%B5g-100-g))
 
  
 ## La vitamine C : 
