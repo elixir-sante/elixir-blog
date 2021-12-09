@@ -24,8 +24,8 @@ Les vitamines sont essentiellement apportées par notre alimentation. Il est ess
 [La vitamine A (rétinol et B-carotène) est indispensable à tous les âges de la vie]({% post_url 2021-12-09-utilite-vitamines %}). Elle intervient dans de nombreuses fonctions de l’organisme, notamment la vision.
 Dans l'alimentation humaine, la vitamine A est présente sous forme de rétinol (origine animale)  et sous forme de béta-carotène, essentiellement dans les produits d'origine végétale. Les foies de poissons et d'animaux d'élevage ont les teneurs les plus élevées en rétinol. En revanche, ce sont les légumes qui constituent les aliments les plus riches en bêta-carotène : patate douce, carotte, potiron, pissenlit, macédoine de légumes, persil et autres herbes aromatiques, laitue, épinard, etc.
 
-[Les aliments riches en béta-carotène](https://ciqual.anses.fr/#/constituants/51330/beta-carotene-(%C2%B5g-100-g))
-[Les aliments riches en rétinol](https://ciqual.anses.fr/#/constituants/51200/retinol-(%C2%B5g-100-g))
+- [Les aliments riches en béta-carotène](https://ciqual.anses.fr/#/constituants/51330/beta-carotene-(%C2%B5g-100-g))
+- [Les aliments riches en rétinol](https://ciqual.anses.fr/#/constituants/51200/retinol-(%C2%B5g-100-g))
 
 Le bêta-carotène peut perdre de son efficacité lors du stockage (sous l'effet de la lumière et de l'oxygène) ou lors de la déshydratation des aliments. En revanche, la congélation permet de conserver son activité. La vitamine A reste cependant assez stable à la cuisson.
 
@@ -72,8 +72,8 @@ Elle est essentiellement apportée par l'huile végétale, les amandes, les nois
 Elle est présente dans les légumes verts, le jaune d'oeuf et les céréales.
 On la trouve également dans les herbes aromatiques et l’huile de soja.
 
-[Les aliments riches en vitamine K1](https://ciqual.anses.fr/#/constituants/54101/vitamine-k1-(%C2%B5g-100-g))
-[Les aliments riches en vitamine K2](https://ciqual.anses.fr/#/constituants/54104/vitamine-k2-(%C2%B5g-100-g))
+- [Les aliments riches en vitamine K1](https://ciqual.anses.fr/#/constituants/54101/vitamine-k1-(%C2%B5g-100-g))
+- [Les aliments riches en vitamine K2](https://ciqual.anses.fr/#/constituants/54104/vitamine-k2-(%C2%B5g-100-g))
  
 ## Notre conseil :
 
