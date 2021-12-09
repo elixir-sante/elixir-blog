@@ -84,5 +84,5 @@ Dans tous les cas, faites confiance à votre médecin. Il peut évaluer votre be
   
 ##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-santé-by-lixi)
 
-✅ [Comment reconnaitre des carences en vitamines ?]({% post_url 2021-12-09-carences-vitamines %})  
+✅ [Comment reconnaitre des carences en vitamines ?]({% post_url 2021-12-09-vitamine-carences %})  
 ✅ [Que manger pour faire le plein de vitamines ?]({% post_url 2021-12-09-alimentation-vitamines %})
