@@ -79,7 +79,7 @@ On la trouve également dans les herbes aromatiques et l’huile de soja.
 
 **Manger équilibré et varié est la meilleure façon de combler les besoins du corps en vitamines.** 
 
-[Ce sont les régimes restrictifs et la malbouffe qui peuvent conduire à des carences]({% post_url 2021-12-09-carences-vitamines %}).
+[Ce sont les régimes restrictifs et la malbouffe qui peuvent conduire à des carences]({% post_url 2021-12-09-vitamine-carences %}).
 L’apport en vitamines peut parfois être complété par des compléments alimentaires. C’est particulièrement vrai pour la femme enceinte, les végétariens ou les personnes souffrant de troubles hépatiques.
 Dans tous les cas, avant de vous lancer, parlez-en au Doc. Il vous conseillera en fonction de votre profil personnel.
  
@@ -90,5 +90,5 @@ Dans tous les cas, avant de vous lancer, parlez-en au Doc. Il vous conseillera e
   
 ##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-santé-by-lixi)
 
-✅ [Comment reconnaitre des carences en vitamines ?]({% post_url 2021-12-09-carences-vitamines %})  
+✅ [Comment reconnaitre des carences en vitamines ?]({% post_url 2021-12-09-vitamine-carences %})  
 ✅ [A quoi servent les vitamines ?]({% post_url 2021-12-09-utilite-vitamines %})
