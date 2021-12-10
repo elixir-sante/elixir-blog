@@ -40,7 +40,7 @@ L’acide folique est sensible à l’air, à la lumière et à la chaleur, surt
 La vitamine B12, également appelée cobalamine, est une vitamine hydrosoluble essentielle au fonctionnement normal du cerveau (elle participe à la synthèse des neurotransmetteurs), du système nerveux (elle est indispensable au maintien de l'intégrité du système nerveux et tout particulièrement de la gaine de myéline qui protège les nerfs et optimise leur fonctionnement) et à la formation du sang. C'est l'une des huit vitamines B. Elle est normalement impliquée comme cofacteur dans le métabolisme de chacune des cellules du corps humain, plus particulièrement dans la synthèse de l'ADN et sa régulation ainsi que dans la synthèse des acides gras et dans la production d'énergie.
  
 Dans l'ensemble, les vitamines B sont nécessaires pour le maintien d'une peau saine, d'un bon système immunitaire, du bon état du système nerveux, de la croissance et du renouvellement cellulaire, en particulier celui des cellules sanguines et des muqueuses.
-Elles sont le plus souvent [prescrites aux personnes en situation ou à risque de carence]({% post_url 2021-12-09-vitamine-carences %}), comme les femmes enceintes, les personnes souffrant d'alcoolisme... pour éviter l'apparition de complications neurologiques.
+Elles sont le plus souvent [prescrites aux personnes en situation ou à risque de carence]({% post_url 2021-12-09-vitamine-carence %}), comme les femmes enceintes, les personnes souffrant d'alcoolisme... pour éviter l'apparition de complications neurologiques.
 
 ### vitamine C  :
 L'acide ascorbique ou vitamine C intervient dans de grandes fonctions de l'organisme : défense contre les infections virales et bactériennes, protection de la paroi des vaisseaux sanguins, assimilation du fer, action antioxydante (capture des radicaux libres), cicatrisation. La vitamine C favorise également l'absorption du fer.
@@ -74,7 +74,7 @@ La vitamine K est une vitamine liposoluble (soluble dans le gras). Son nom vient
  
 ## Conclusion : Toutes les vitamines sont utiles au bon fonctionnement du corps; En règle générale, une bonne alimentation, équilibrée et variée, suffit à les apporter en quantité suffisante. 
 
-En France, [les carences en vitamines]({% post_url 2021-12-09-vitamine-carences %})sont plutôt modérées. 
+En France, [les carences en vitamines]({% post_url 2021-12-09-vitamine-carence %})sont plutôt modérées. 
 Des compléments alimentaires existent, même si leur efficacité n’est pas toujours scientifiquement établie. 
 Dans tous les cas, faites confiance à votre médecin. Il peut évaluer votre besoin en vitamines et vous prescrire les bons traitements en cas de carence.
 
@@ -85,5 +85,5 @@ Dans tous les cas, faites confiance à votre médecin. Il peut évaluer votre be
   
 ##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-santé-by-lixi)
 
-✅ [Comment reconnaitre des carences en vitamines ?]({% post_url 2021-12-09-vitamine-carences %})  
+✅ [Comment reconnaitre des carences en vitamines ?]({% post_url 2021-12-09-vitamine-carence %})  
 ✅ [Que manger pour faire le plein de vitamines ?]({% post_url 2021-12-09-alimentation-vitamines %})
