@@ -14,7 +14,7 @@ author: elixir
 
 ---
 
-LLes vitamines sont essentielles pour l'organisme, elles participent à la croissance, aux systèmes musculaires, osseux, immunitaires, nerveux... A l'exception de la vitamine D et K que le corps fabrique, les autres sont apportées par l'alimentation. 
+Les vitamines sont essentielles pour l'organisme, elles participent à la croissance, aux systèmes musculaires, osseux, immunitaires, nerveux... A l'exception de la vitamine D et K que le corps fabrique, les autres sont apportées par l'alimentation. 
 
 Les vitamines sont essentiellement apportées par notre alimentation. Il est essentiel de manger varié et équilibré. En France, les carences graves en vitamines sont assez rares. On parle plutôt de légers manques, souvent caractérisés par de la fatigue.
 
@@ -84,11 +84,11 @@ L’apport en vitamines peut parfois être complété par des compléments alime
 Dans tous les cas, avant de vous lancer, parlez-en au Doc. Il vous conseillera en fonction de votre profil personnel.
  
 
-[Je suis ma santé avec Lixi](https://www.lixi-sante.fr/){: .btn-elixir}
+[Je suis ma santé avec Lixi](https://heylixi.fr/){: .btn-elixir}
 
 ---
   
-##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-santé-by-lixi)
+##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-santé-by-lixi)
 
 ✅ [Comment reconnaitre des carences en vitamines ?]({% post_url 2021-12-09-vitamine-carence %})  
 ✅ [A quoi servent les vitamines ?]({% post_url 2021-12-09-utilite-vitamines %})
