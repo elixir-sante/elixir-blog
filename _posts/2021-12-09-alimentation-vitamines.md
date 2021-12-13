@@ -32,7 +32,7 @@ Dans l'alimentation humaine, la vitamine A est présente sous forme de rétinol 
 Le bêta-carotène peut perdre de son efficacité lors du stockage (sous l'effet de la lumière et de l'oxygène) ou lors de la déshydratation des aliments. En revanche, la congélation permet de conserver son activité. La vitamine A reste cependant assez stable à la cuisson.
 
 ## Les vitamines B :
-[Les vitamines B forment un groupe de huit vitamines solubles dans l'eau qui jouent un rôle important dans le métabolisme des cellules.]({% post_url /brouillons/2021-12-09-utilite-vitamines %})
+[Les vitamines B forment un groupe de huit vitamines solubles dans l'eau qui jouent un rôle important dans le métabolisme des cellules.]({% post_url 2021-12-09-utilite-vitamines %})
 Ces vitamines B sont nécessaires pour le bon maintien de la peau et du système immunitaire, du système nerveux, et du renouvellement cellulaire, en particulier celui des cellules sanguines.
 Les besoins en vitamines B sont généralement couverts, pour la plupart des individus, par une alimentation variée (fruits et légumes, viandes et produits laitiers...) en quantité suffisante.
 Les vitamines du groupe B se trouvent essentiellement dans les céréales complètes, le poisson, la volaille, les graines et les légumes secs.
