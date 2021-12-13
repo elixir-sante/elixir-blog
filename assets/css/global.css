@@ -130,7 +130,7 @@ img {
 }
 html {
     box-sizing: border-box;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
 
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
@@ -282,7 +282,7 @@ html {
 body {
     overflow-x: hidden;
     color: color(var(--midgrey) l(-25%));
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
     font-size: 1.5rem;
     line-height: 1.6em;
     font-weight: 300;
@@ -411,7 +411,7 @@ blockquote cite a {
 }
 
 a {
-    color: #ff00ff;
+    color: #7351E2;
     text-decoration: none;
 }
 
