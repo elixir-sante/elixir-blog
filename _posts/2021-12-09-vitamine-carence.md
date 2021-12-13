@@ -4,13 +4,15 @@ layout: post
 current: post
 cover: assets/images/jeune-femme-tete-mains.jpg
 navigation: True
-title: "Comment savoir si j'ai des carences en vitamines ?"
+title: "Comment savoir si j'ai des carences en vitamines ?  🌡️"
 excerpt: 
 date: 2021-12-09 10:00:00
 tags: ["La santé by Lixi"]
 class: post-template
 subclass: 'post'
 author: elixir
+
+hidden: true
 
 ---
 
@@ -42,7 +44,7 @@ Chez la femme enceinte, les conséquences d'une carence en acide folique sont en
 
 ### [Risque de déficience et d’excès d’apport de la vitamine C 😧]({% post_url 2021-12-09-utilite-vitamines %})
 
-Chez les individus non carencés, la concentration plasmatique de vitamine C est un bon indicateur du statut vitaminique. Les études épidémiologiques ont estimé la concentration plasmatique optimale de vitamine C à 60 µmol/L chez le jeune adulte. En effet, celle-ci correspond à la concentration qui permet d'atteindre le pouvoir antioxydant maximal nécessaire à la protection vis-à-vis des risques de maladies cardiovasculaires et neurodégénératives, de cancers, de cataracte.
+Chez les individus non carencés, la concentration plasmatique de vitamine C est un bon indicateur du statut vitaminique. Les études épidémiologiques (notamment SU.VI.MAX) ont estimé la concentration plasmatique optimale de vitamine C à 60 µmol/L chez le jeune adulte. En effet, celle-ci correspond à la concentration qui permet d'atteindre le pouvoir antioxydant maximal nécessaire à la protection vis-à-vis des risques de maladies cardiovasculaires et neurodégénératives, de cancers, de cataracte.
 La pathologie spécifique liée à la carence en vitamine C est le scorbut. Elle se manifeste par des œdèmes (gonflement des tissus lié à leur hydratation excessive), des hémorragies et peut entraîner la mort si elle dure plusieurs mois. Les situations de carence modérée, encore fréquentes, sont responsables de perte d'appétit, d'amaigrissement et de fatigue.
 La vitamine C est éliminée dans les urines. Toutefois un excès de vitamine C peut entraîner des maux d'estomac, des diarrhées, des calculs rénaux.
 
@@ -89,11 +91,11 @@ Et quand vous voulez doper un peu votre corps, prenez un vrai avis professionnel
 
 
 
-[Je suis ma santé avec Lixi](https://heylixi.fr/){: .btn-elixir}
+[Je suis ma santé avec Lixi](https://www.lixi-sante.fr/){: .btn-elixir}
 
 ---
   
-##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-santé-by-lixi)
+##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-santé-by-lixi)
 
 ✅ [A quoi servent les vitamines ?]({% post_url 2021-12-09-utilite-vitamines %})  
 ✅ [Que manger pour faire le plein de vitamines ?]({% post_url 2021-12-09-alimentation-vitamines %})

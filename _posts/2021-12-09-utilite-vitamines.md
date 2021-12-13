@@ -12,6 +12,8 @@ class: post-template
 subclass: 'post'
 author: elixir
 
+hidden: true
+
 ---
 
 Les vitamines sont des substances organiques essentielles pour le bon fonctionnement de notre corps. A l’exception des vitamines D et K, le corps humain ne peut pas les produire seul, et leur [apport par l’alimentation]({% post_url 2021-12-09-alimentation-vitamines %})  est donc indispensable. 
