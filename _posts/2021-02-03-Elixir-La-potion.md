@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/potion-magique.jpg
 navigation: True
-title: Les secrets de la construction de notre Elixir de santé 🪄
+title: Les secrets de la construction de notre Elixir de santé
 excerpt: 
 date: 2021-12-08 10:00:00
 tags: ["Pourquoi elixir?"]
