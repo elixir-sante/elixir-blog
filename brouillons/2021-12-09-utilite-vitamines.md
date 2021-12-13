@@ -79,11 +79,12 @@ Des compléments alimentaires existent, même si leur efficacité n’est pas to
 Dans tous les cas, faites confiance à votre médecin. Il peut évaluer votre besoin en vitamines et vous prescrire les bons traitements en cas de carence.
 
 
-[Je suis ma santé avec Lixi](https://www.lixi-sante.fr/){: .btn-elixir}
+
+[Je suis ma santé avec Lixi](https://heylixi.fr/){: .btn-elixir}
 
 ---
   
-##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-santé-by-lixi)
+##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-santé-by-lixi)
 
 ✅ [Comment reconnaitre des carences en vitamines ?]({% post_url 2021-12-09-vitamine-carence %})  
 ✅ [Que manger pour faire le plein de vitamines ?]({% post_url 2021-12-09-alimentation-vitamines %})
