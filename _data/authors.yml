@@ -1,10 +1,10 @@
 elixir:
   username: elixir
-  name: L'équipe Elixir
-  url_full: https://elixir-sante.fr
-  url: elixir-sante.fr
+  name: L'équipe Lixi
+  url_full: https://www.heylixi.fr
+  url: heylixi.fr
   bio: Elixir rajeunit l'assurance santé. Simple et transparente. Facile à comprendre, à souscrire et à utiliser.
-  picture: assets/images/team-elixir-icon.png
+  picture: assets/images/favico-lixi.png
   facebook: lateamelixir
   linkedin: company/elixirsante
   instagram: lateamelixir
