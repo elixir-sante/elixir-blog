@@ -74,7 +74,7 @@ Tabagisme. Fumer augmente les besoins de l’organisme en vitamine E à cause d�
 ### La vitamine K :  
 La vitamine K est une vitamine liposoluble (soluble dans le gras). Son nom vient de l’allemand Koagulation, une allusion au rôle qu’elle joue dans la coagulation sanguine. Il existe deux formes principales de cette vitamine : la phytoménadione, ou vitamine K1, qui provient principalement des légumes verts, et la ménaquinone, ou vitamine K2, qui est produite par des bactéries dans le côlon ou qui apparaît dans certains aliments à la suite d’un processus de fermentation (fromage, miso, natto, etc.). La vitamine K1 intervient plus directement dans le processus de la coagulation, alors que la K2 agit plutôt sur la calcification des tissus mous.
  
-## Conclusion : Toutes les vitamines sont utiles au bon fonctionnement du corps; En règle générale, une bonne alimentation, équilibrée et variée, suffit à les apporter en quantité suffisante. 
+## Conclusion : Toutes les vitamines sont utiles au bon fonctionnement du corps; En règle générale, une bonne alimentation équilibrée et variée, suffit à les apporter en quantité suffisante. 
 
 En France, [les carences en vitamines]({% post_url 2021-12-09-vitamine-carence %})sont plutôt modérées. 
 Des compléments alimentaires existent, même si leur efficacité n’est pas toujours scientifiquement établie. 
