@@ -2,7 +2,7 @@
 
 layout: post
 current: post
-cover: assets/images/vitamine C.jpg
+cover: assets/images/vitamineC.jpg
 navigation: True
 title: "A quoi servent les vitamines ?"
 excerpt: 
