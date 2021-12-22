@@ -12,7 +12,7 @@ class: post-template
 subclass: 'post'
 author: elixir
 
-hidden: true
+hidden: false
 
 ---
 
@@ -21,9 +21,9 @@ Les carences nutritionnelles résultent généralement d’une alimentation dés
 Cas particulier, la carence en vitamine D est majoritairement due à une faible exposition au soleil et concerne une grande majorité de Français. 
 Ces carences provoquent de nombreux symptômes physiques, qui diffèrent en fonction du nutriment en cause.
 
-Certaines vitamines qui sont plus concernées par les carences que d'autres. C'est le cas pour la vitamine D, vitamine C, vitamine E et vitamine B9 .
+Certaines vitamines sont plus concernées par les carences que d'autres. C'est le cas pour la vitamine D, vitamine C, vitamine E et vitamine B9 .
 
-## Trop ou prop peu de vitamines. Comment le reconnaître ?
+## Trop ou trop peu de vitamines. Comment le reconnaître ?
 
 ### [Les déséquilibres en vitamine A]({% post_url 2021-12-09-utilite-vitamines %})
 
@@ -47,8 +47,6 @@ Chez la femme enceinte, les conséquences d'une carence en acide folique sont en
 Chez les individus non carencés, la concentration plasmatique de vitamine C est un bon indicateur du statut vitaminique. Les études épidémiologiques (notamment SU.VI.MAX) ont estimé la concentration plasmatique optimale de vitamine C à 60 µmol/L chez le jeune adulte. En effet, celle-ci correspond à la concentration qui permet d'atteindre le pouvoir antioxydant maximal nécessaire à la protection vis-à-vis des risques de maladies cardiovasculaires et neurodégénératives, de cancers, de cataracte.
 La pathologie spécifique liée à la carence en vitamine C est le scorbut. Elle se manifeste par des œdèmes (gonflement des tissus lié à leur hydratation excessive), des hémorragies et peut entraîner la mort si elle dure plusieurs mois. Les situations de carence modérée, encore fréquentes, sont responsables de perte d'appétit, d'amaigrissement et de fatigue.
 La vitamine C est éliminée dans les urines. Toutefois un excès de vitamine C peut entraîner des maux d'estomac, des diarrhées, des calculs rénaux.
-
-![symptome-fatigue](/assets/images/woman-table.jpg)
 
 ### [Quels sont les risques pour la santé en cas de déficience en vitamine D ?]({% post_url 2021-12-09-utilite-vitamines %})
 
