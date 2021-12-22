@@ -12,7 +12,7 @@ class: post-template
 subclass: 'post'
 author: elixir
 
-hidden: false
+hidden: 
 
 ---
 
