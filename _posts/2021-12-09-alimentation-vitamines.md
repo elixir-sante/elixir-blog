@@ -12,8 +12,6 @@ class: post-template
 subclass: 'post'
 author: elixir
 
-hidden: 
-
 ---
 
 Les vitamines sont essentielles pour l'organisme, elles participent à la croissance, aux systèmes musculaires, osseux, immunitaires, nerveux... A l'exception de la vitamine D et K que le corps fabrique, les autres sont apportées par l'alimentation. 
