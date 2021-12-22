@@ -43,19 +43,16 @@ Enfin, on regarde le [**Cholestérol total**]({% post_url 2021-11-08-Lixi-Choles
 En général inférieur à 2 g/L de sang
 Triglycérides : < 1,5 g/L de sang
 
-![Les taux moyens de cholestérol](/assets/images/analyse-Cholesterol-total.jpg)
-
 On peut avoir un taux élevé de LDL-Cholestérol (le mauvais) et un cholestérol total convenable. ça signifie que le corps fait bien son travail de nettoyage des vaisseaux.
 
 C’est au médecin de poser un diagnostic et de proposer des solutions quand nécessaire. En général, de mauvaises analyses conduisent à refaire une prise de sang pour confirmer les valeurs obtenues la première fois.
-
 
 
 Maintenant que vous avez compris l’importance du cholestérol pour votre santé, pensez à bien faire vos analyses de sang régulières, surtout si vous avez des facteurs de risque.
 Avec votre médecin, vous pourrez vérifier que votre taux de cholestérol est bon (et les autres taux aussi bien sûr). L’OMS recommande une prise de sang par an. 
 Pour ne pas l’oublier, votre compagnon de santé Lixi est là pour vous les rappeler de prendre soin de vous !
 
-[Je suis ma santé avec Lixi ?](https://www.lixi-sante.fr/){: .btn-elixir}
+[Je suis ma santé avec Lixi ](https://www.lixi-sante.fr/){: .btn-elixir}
 
 ---
   
