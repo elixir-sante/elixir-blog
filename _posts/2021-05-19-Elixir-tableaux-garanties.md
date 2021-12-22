@@ -13,21 +13,21 @@ subclass: 'post'
 author: elixir
 
 ---
-# 500% de la base du remboursement Sécurité sociale, limité au Prix Limite de Vente (PLV) sous déduction des prestations de la Sécurité sociale
+## 500% de la base du remboursement Sécurité sociale, limité au Prix Limite de Vente (PLV) sous déduction des prestations de la Sécurité sociale
 
 **Le Français est une belle langue, non ? 🙄**
 C'est certainement ce que vous vous dites quand vous jetez un œil à votre tableau de garanties d'assurance santé.
 
 Chez Elixir, on a beau être dans le métier depuis longtemps, on ne s'y fait pas. Alors on a imaginé comment vous rendre plus simple l'assurance santé.
 
-## Pourquoi est-ce si compliqué ?
+### Pourquoi est-ce si compliqué ?
 L'assurance santé fait appel à des règles de remboursement créées par la sécurité sociale. Les règles sont établies par profession, par type d'actes et par contexte de réalisation de l'acte.
 
 Elles sont ensuite augmentées de règles administratives, telles que le parcours de soins coordonné, le contrat responsable ou le 100% santé.
 
 En fin de circuit, les assureurs viennent expliquer ce qu'ils vous remboursent à chaque fois que la sécurité sociale intervient. Et ils rajoutent leurs garanties et services "hors sécu". Ca donne ces magnifiques tableaux de garanties sur 5 pages que vous connaissez bien.
 
-## Comment simplifier tout ça ?
+### Comment simplifier tout ça ?
 Si on ne peut pas effacer les règles actuelles, on peut quand même faire un effort du côté des assureurs :
 
 - Faire des tableaux de garanties explicites, exprimés en langage compréhensible. Les détails des contrats peuvent être précisés dans les notices d'information.
