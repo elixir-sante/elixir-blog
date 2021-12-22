@@ -17,7 +17,7 @@ author: elixir
 Nous sommes une startup E-santé née en 2020 dans le Val d’Oise... en plein confinement🌱 cultivée par ses deux fondateurs, Gaël et Jean-Noël.
 Notre proposition est de vous aider à gérer plus facilement votre parcours de santé en commençant par vous proposer une nouvelle expérience autour de l’assurance santé.
 
-# La story Elixir ou pourquoi se lancer dans la e-santé 
+## La story Elixir ou pourquoi se lancer dans la e-santé 
 
 Elixir est né d’une idée simple : **gérer son parcours de santé doit être facile et accessible.**
 
@@ -35,7 +35,7 @@ Elixir prend en compte tous les aspects de votre santé et notamment votre équi
 
 🔎 **Notre offre simplifiée d’assurance santé** est le socle de notre démarche Elle apporte de la transparence et les garanties véritablement utiles. C’est le point de passage de votre parcours de santé à partir duquel nous pouvons vous accompagner.
 
-# Pourquoi nous avons construit une nouvelle forme d’assurance santé
+## Pourquoi nous avons construit une nouvelle forme d’assurance santé
 
 **Nous avons identifié l’assurance santé comme un point naturel de passage sur votre parcours de santé.** 
 
@@ -49,7 +49,7 @@ Pour commencer, nous avons choisi de nous intéresser aux fonctionnaires, retrai
 
 Bientôt, nous couvrirons également les petites entreprises et les associations. 
 
-## Notre premier défi est relevé 👏
+### Notre premier défi est relevé 👏
 
 🩺 Notre offre est disponible en ligne. Simple à comprendre, à souscrire, elle est au bon prix, sans charges inutiles.
 
@@ -61,7 +61,7 @@ Bientôt, nous couvrirons également les petites entreprises et les associations
 
 Pour faire vivre notre assurance, nous sommes alliés à une mutuelle santé qui couvre le risque d’assurance et partage notre ambition du bien commun.
 
-# Qu’apporte Elixir de plus ?
+## Qu’apporte Elixir de plus ?
 L’assurance santé, c’est bien mais finalement pas très neuf comme concept. Même si la nôtre est « rajeunie », ça ne suffit pas à justifier notre présence.
 
 Après avoir créé notre offre d’assurance, **notre challenge suivant a été de créer votre application de gestion santé, organisée autour de vos besoins.**
@@ -92,7 +92,7 @@ La relation avec les services de gestion est pratiquement automatisée à 100%.
 
 Par exemple, votre demande de remboursement transmise via l’application Elixir est transmise directement aux gestionnaires santé qui déclenchent le remboursement.
 
-# Et maintenant ?
+## Et maintenant ?
 
 Nous sommes désormais dans le temps de la confrontation avec nos utilisateurs. 
 
