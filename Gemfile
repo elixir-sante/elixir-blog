@@ -5,4 +5,4 @@ gem "jekyll-paginate"
 gem "jekyll-feed"
 gem "rake"
 gem "slugify"
-gem "html-proofer"
+gem "html-proofer", '3.19.1'
