@@ -75,7 +75,7 @@ Sans médecin traitant : **Remboursement total = 23€**
 
 Tout ce mécanisme est très complexe, alors... essayez notre [outil de simulation](https://elixir-sante.fr/simulateur) et vous y verrez plus clair :
 
-[Combien je serai remboursé avec mon médecin ?](https://elixir-sante.fr/simulateur){: .btn-elixir}
+[Combien je serai remboursé avec mon médecin ?](https:/heylixi.fr/mutuelle){: .btn-elixir}
 
 ---
 
