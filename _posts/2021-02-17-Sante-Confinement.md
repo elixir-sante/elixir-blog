@@ -101,13 +101,13 @@ Et quand ça devient un peu plus compliqué, les solutions existent. Il suffit d
 Une fois que le processus a commencé, il n'est généralement pas aussi effrayant qu'il peut paraître, en particulier lorsqu'il s'agit de s'asseoir avec une nouvelle personne que vous rencontrez pour la première fois de votre vie et de lui raconter votre histoire.
 
 
-### Chez Elixir santé, nous vous apportons tous les moyens de gérer votre santé mentale 
+### Chez Lixi santé, nous vous apportons tous les moyens de gérer votre santé mentale 
 -	Une plateforme d’écoute pour souffler un peu
 -	Un accès à notre équipe de psychologues pour discuter ou entamer une thérapie
 -	Une prise en charge financière de ces consultations dans le cadre de votre contrat santé.
 
-**Être membre d’Elixir, c’est prendre en main sa santé et également participer à un mouvement général d’amélioration de l’accès à la santé pour tous.**
+**Être membre de Lixi, c’est prendre en main sa santé et également participer à un mouvement général d’amélioration de l’accès à la santé pour tous.**
 
-[Rejoignez le mouvement Elixir](https://elixir-sante.fr/){: .btn-elixir}
+[Rejoignez le mouvement Lixi santé](https://heylixi.fr/){: .btn-elixir}
 
 👍 Merci au professeur Nicolas Franck, à la psychiatre Elisabeth Pakin et à l’équipe Qookka pour leur aide à la rédaction de cet article.
