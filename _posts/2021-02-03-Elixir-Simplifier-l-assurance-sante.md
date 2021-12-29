@@ -36,7 +36,7 @@ Dans la majorité des cas, ça ne vous coûtera rien. Mais le système étant co
 **Notre promesse, c’est de faire au mieux de ce que la loi permet sur vos frais de séjours et dépassements d’honoraires.**
 
 **Pour vos accès aux médecins, généralistes et spécialistes** ,là aussi, Elixir vous garantit au maximum de ce qui est possible de faire.  
-Et comme il est très difficile de s’y retrouver dans les honoraires, Elixir vous met à disposition [un simulateur de remboursements](https://elixir-sante.fr/simulateur).
+Et comme il est très difficile de s’y retrouver dans les honoraires, Elixir vous met à disposition [un simulateur de remboursements](https://www.heylixi.fr/mutuelle/).
 
 Vous choisissez le nom de médecin qui vous intéresse, un type de consultation et faites simplement varier le curseur des honoraires ;   
 
@@ -80,7 +80,7 @@ Chez Elixir, on est attentif à la dentition de nos enfants et notre prise en ch
 
 Depuis janvier 2021, les choses évoluent et une partie des équipements audio est prise en charge intégralement. Les professionnels ont également l’obligation de limiter leurs tarifs. Chez Elixir, nous prenons fortement en charge les audioprothèses de ceux qui en ont le plus besoin, les enfants et les plus âgés. 
 
-[Découvrir mes garanties Elixir](https://elixir-sante.fr/garanties/){: .btn-elixir}
+[Découvrir mes garanties Elixir](https://www.heylixi.fr/garanties-mutuelle/){: .btn-elixir}
 
 ---
 
