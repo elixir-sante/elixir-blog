@@ -45,7 +45,7 @@ Confiez-nous votre tableau de garanties et on s'occupe du reste. C'est gratuit e
 
 ---
 
-##### Lire aussi notre dossier : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-l-assurance-sante)
+##### Lire aussi notre dossier : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-lassurance-sante)
 
 ✅ [Votre contrat mutuelle santé est-il responsable ?]({% post_url 2021-02-03-Elixir-Assurance-responsable %})  
 ✅ [Votre médecin est-il OPTAM secteur 2 conventionné ?]({% post_url 2021-02-03-Elixir-assurance-optam %})  
