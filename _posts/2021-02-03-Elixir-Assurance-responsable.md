@@ -65,7 +65,7 @@ Elixir s’est construit autour de cette idée que la santé est un équilibre d
 
 ---
 
-##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-l-assurance-sante)
+##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-lassurance-sante)
 
 ✅ [Votre contrat mutuelle santé est-il responsable ?]({% post_url 2021-02-03-Elixir-Assurance-responsable %})  
 ✅ [Votre médecin est-il OPTAM secteur 2 conventionné ?]({% post_url 2021-02-03-Elixir-assurance-optam %})  

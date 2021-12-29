@@ -60,7 +60,7 @@ Un biais est également introduit, permettant à quelques opportunistes de conso
 
 Cette loi facilite vos démarches mais ne vous fera pas forcément gagner d'argent.   
 
-Nous croyons surtout que l'assurance santé n'est pas une assurance comme les autres et qu’elle ne mérite toute votre attention. Vous avez désormais le pouvoir de choisir votre mutuelle selon vos critères : transparence, rapport entre le tarif et le service rendu, accompagnement de votre parcours de santé.
+Nous croyons surtout que l'assurance santé n'est pas une assurance comme les autres et qu’elle mérite toute votre attention. Vous avez désormais le pouvoir de choisir votre mutuelle selon vos critères : transparence, rapport entre le tarif et le service rendu, accompagnement de votre parcours de santé.
 
 
 Pour aller plus loin : 
@@ -68,7 +68,7 @@ Pour aller plus loin :
 <a href= "https://www.service-public.fr/particuliers/vosdroits/F20314">Service public - Résiliation à tout moment </a>
 ---
  
-##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-l-assurance-sante)
+##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-lassurance-sante)
 
 ✅ [Votre contrat mutuelle santé est-il responsable ?]({% post_url 2021-02-03-Elixir-Assurance-responsable %})  
 ✅ [Votre médecin est-il OPTAM secteur 2 conventionné ?]({% post_url 2021-02-03-Elixir-assurance-optam %})  
