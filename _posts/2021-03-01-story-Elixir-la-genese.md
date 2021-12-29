@@ -68,7 +68,7 @@ Après avoir créé notre offre d’assurance, **notre challenge suivant a été
 
 Nous avons développé une application qui vous aide à prendre soin de vous. Notre priorité est de vous apporter les bons services au bon moment.
 
-<img src="https://elixir-sante.fr/static/elixir/img/phone-home.jpg" width="400" alt="L'app Elixir" />
+<img src="https://www.heylixi.fr/static/lixi/img/comment-ca-va.png" width="400" alt="L'app Lixi" />
 
 🧞 Nous assemblons des services de E-santé autour de vos besoins, quand vous en avez besoin. 
 
@@ -106,9 +106,7 @@ Nous avons besoin de vous, de vos suggestions et besoins.
 
 Et pour permettre au mouvement Elixir de prendre de l’ampleur, **vous pouvez commencer par cotiser utile.** 😉
 
-Le mieux c’est encore de nous rendre visite sur https://elixir-sante.fr et vous faire votre idée.
+Le mieux c’est encore de nous rendre visite sur https://heylixi.fr et vous faire votre idée.
 
 A bientôt pour découvrir les nouvelles potions sur lesquelles nous travaillons.
-
-Jean-Noël
 
