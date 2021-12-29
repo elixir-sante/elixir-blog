@@ -60,8 +60,6 @@ Vos cotisations deviennent des projets qui créent des services utiles pour tous
 
 **Rejoindre Elixir, c'est profiter des meilleures garanties pour sa santé tout en contribuant à améliorer le monde. Et plus nous sommes nombreux, plus nous avons les moyens de nos ambitions.**
 
-[Rendez utiles vos cotisations d'assurance](https://elixir-sante.fr){: .btn-elixir}
-
 ---
 
 ##### Lire notre dossier complet : [Pourquoi Elixir ?]({{ site.baseurl }}tag/pourquoi-elixir)
