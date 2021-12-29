@@ -88,7 +88,7 @@ Dans tous les cas, avant de vous lancer, parlez-en au Doc. Il vous conseillera e
 
 ---
   
-##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-santé-by-lixi)
+##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-sante-by-lixi)
 
 ✅ [Comment reconnaitre des carences en vitamines ?]({% post_url  2021-12-09-vitamine-carence %})  
 ✅ [A quoi servent les vitamines ?]({% post_url  2021-12-09-utilite-vitamines %})
