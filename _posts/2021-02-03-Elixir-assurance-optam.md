@@ -79,7 +79,7 @@ Tout ce mécanisme est très complexe, alors... essayez notre [outil de simulati
 
 ---
 
-##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-l-assurance-sante)
+##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-lassurance-sante)
 
 ✅ [Votre contrat mutuelle santé est-il responsable ?]({% post_url 2021-02-03-Elixir-Assurance-responsable %})  
 ✅ [Votre médecin est-il OPTAM secteur 2 conventionné ?]({% post_url 2021-02-03-Elixir-assurance-optam %})  
