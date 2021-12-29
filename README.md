@@ -15,7 +15,7 @@ Ils doivent respecter le format 2021-02-04-titre-au-format-slug.md
 ##### Les images
 
 ```md
-![Une image qui est dans asset](/assets/images/tube-lixi.png)
+![Une image qui est dans asset]({{ site.baseurl }}assets/images/tube-lixi.png)
 ```
 
 ### Auteurs
@@ -38,6 +38,14 @@ Les données des tags sont dans `_data/tags.yml`
 * Run `bundle install` pour installer les dépendances (voir Gemfile)
 * Run `bundle exec jekyll serve --livereload`
 * Go to [local server](https://127.0.0.1:4000/)
+
+### Générer les pages HTML en local
+
+```bash
+$ # Dans ./_site/ (voir config.yml)
+$ bundle exec jekyll serve
+$ bundle exec htmlproofer --assume-extension ./_site --url-swap '^/blog/:/'
+```
 
 ### Style
 
