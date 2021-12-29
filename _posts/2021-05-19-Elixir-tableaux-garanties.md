@@ -41,7 +41,7 @@ Confiez-nous votre tableau de garanties et on s'occupe du reste. C'est gratuit e
 
 
 
-[🚎  Pour une étude de vos garanties, c'est par ici](https://elixir-sante.fr/tarifs/comparer-mes-garanties/){: .btn-elixir}
+[🚎  Pour une étude de vos garanties, c'est par ici](https://www.heylixi.fr/mutuelle/){: .btn-elixir}
 
 ---
 
