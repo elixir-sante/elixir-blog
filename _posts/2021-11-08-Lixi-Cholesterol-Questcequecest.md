@@ -46,12 +46,12 @@ Il faut surveiller cet indicateur important de votre bonne santé.
 Pas de panique, votre compagnon de santé Lixi vous rappellera d'aller en parler au médecin de temps en temps.
 
 
-[Je suis ma santé avec Lixi ?](https://www.lixi-sante.fr/){: .btn-elixir}
+[Je suis ma santé avec Lixi ](https://www.lixi-sante.fr/){: .btn-elixir}
 
 
 ---
   
-##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-sante-by-lixi)
+##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-sante-by-lixi)
 
 
 ✅ [Le Cholestérol : Vraiment mauvais pour la santé ?]({% post_url 2021-11-08-Lixi-Cholesterol-bonoumauvais %})  
