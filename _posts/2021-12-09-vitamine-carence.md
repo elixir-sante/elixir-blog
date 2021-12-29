@@ -91,7 +91,7 @@ Et quand vous voulez doper un peu votre corps, prenez un vrai avis professionnel
 
 ---
   
-##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-santé-by-lixi)
+##### Lire notre dossier complet : [La santé by Lixi ?]({{ site.baseurl }}tag/la-sante-by-lixi)
 
 ✅ [A quoi servent les vitamines ?]({% post_url 2021-12-09-utilite-vitamines %})  
 ✅ [Que manger pour faire le plein de vitamines ?]({% post_url 2021-12-09-alimentation-vitamines %})
