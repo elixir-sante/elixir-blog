@@ -60,7 +60,7 @@ Un biais est également introduit, permettant à quelques opportunistes de conso
 
 Cette loi facilite vos démarches mais ne vous fera pas forcément gagner d'argent.   
 
-Nous croyons surtout que l'assurance santé n'est pas une assurance comme les autres et qu’elle ne mérite toute votre attention. Vous avez désormais le pouvoir de choisir votre mutuelle selon vos critères : transparence, rapport entre le tarif et le service rendu, accompagnement de votre parcours de santé.
+Nous croyons surtout que l'assurance santé n'est pas une assurance comme les autres et qu’elle mérite toute votre attention. Vous avez désormais le pouvoir de choisir votre mutuelle selon vos critères : transparence, rapport entre le tarif et le service rendu, accompagnement de votre parcours de santé.
 
 
 Pour aller plus loin : 
