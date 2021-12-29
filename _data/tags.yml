@@ -1,24 +1,34 @@
+# mon-tag-en-mode-url:
+#   url: mon-tag-en-mode-url
+#   name: Le titre de la page de mon tag
+#   description: "La description de mon tag"
+
 pourquoi-elixir:
-  name: pourquoi-elixir
+  name: Pourquoi Elixir
+  url: pourquoi-elixir
   description: une nouvelle façon de voir l'assurance santé
   cover: False
 
 comprendre-lassurance-sante:
-  name: comprendre-l-assurance-sante
+  name: Comprendre l'assurance santé
+  url: comprendre-lassurance-sante
   description: Qui a dit que l'assurance était compliquée ?
   cover: False
 
-Bien-Etre:
-  name: bien-etre
+bien-etre:
+  name: Bien-être
+  url: bien-etre
   description: La bonne santé en pratique
   cover: False
   
-L-histoire-elixir:
+lhistoire-elixir:
   name: L'histoire Elixir
+  url: lhistoire-elixir
   description: Notre story
   cover: False
 
-La-sante-by-Lixi:
+la-sante-by-lixi:
   name: La sante by Lixi
+  url: la-sante-by-lixi
   description: Rendons les questions de santé plus simples
   cover: False

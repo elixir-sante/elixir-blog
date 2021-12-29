@@ -44,7 +44,7 @@ Les données des tags sont dans `_data/tags.yml`
 ```bash
 $ # Dans ./_site/ (voir config.yml)
 $ bundle exec jekyll serve
-$ bundle exec htmlproofer --assume-extension ./_site --url-swap '^/blog/:/' --allow-hash-href
+$ bundle exec htmlproofer ./_site --url-swap '^/blog/:/' --allow-hash-href --http-status-ignore "301,302,999"
 ```
 
 ### Style

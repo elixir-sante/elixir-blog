@@ -21,10 +21,9 @@ logo: 'assets/images/ghost.png'
             <h1 class="site-title">{{ page.tag | capitalizeall }}</h1>
             <h2 class="site-description">
                 {% if tag_description %}
-                    {{ tag_description }}
-                {% elsif page.tag %}
-    			    {{ paginator.total_posts }} article(s)
+                    {{ tag_description }} | 
                 {% endif %}
+    			{{ paginator.total_posts }} article(s)
             </h2>
         </div>
     </div>

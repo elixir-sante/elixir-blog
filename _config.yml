@@ -24,9 +24,9 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-instagram: lateamelixir
-facebook: lateamelixir
-linkedin: elixirsante
+instagram: heylixi
+facebook: heylixi
+linkedin: heylixi
 
 # Disqus
 disqus: False
@@ -75,8 +75,8 @@ repo: jasper2
 branch: master
 relative_source: ../elixir-blog/
 destination: ./_site/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+production_url:  https://heylixi.fr/blog/
+source_url:  https://heylixi.fr/blog/
 
 exclude:
   - assets/css
