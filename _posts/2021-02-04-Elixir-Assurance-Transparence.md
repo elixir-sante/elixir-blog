@@ -72,7 +72,7 @@ Chez Elixir, nous avons choisi la transparence et des frais réduits. Notre but 
 **Vous recherchez une bonne mutuelle, simple, efficace et transparente ?**
 
 
-[Rendez-vous sur Elixir Santé pour nous tester](https://elixir-sante.fr){: .btn-elixir}
+[Rendez-vous sur **La mutuelle de Lixi** pour nous tester] (https://www.heylixi.fr/mutuelle/){: .btn-elixir}
 
 ---
 
