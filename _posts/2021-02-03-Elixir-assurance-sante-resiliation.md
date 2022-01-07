@@ -56,7 +56,7 @@ L'assurance santé ne bénéficie plus de marges importantes et toute réglement
 Dans le cas présent, la loi oblige les mutuelles à revoir leurs circuits de gestion pour respecter le délai d'un mois et conduit à réécrire les conditions générales des contrats.   
 Un biais est également introduit, permettant à quelques opportunistes de consommer fortement (par exemple le forfait optique) et résilier très vite.   
 
-**Chez Elixir, nous pensons que vous donner plus de droits est une bonne chose.**
+**Chez Lixi, nous pensons que vous donner plus de droits est une bonne chose.**
 
 Cette loi facilite vos démarches mais ne vous fera pas forcément gagner d'argent.   
 
