@@ -58,10 +58,10 @@ Plutôt que de légiférer, contraindre assurés, mutuelles et professionnels de
 -	Une responsabilité partagée
 -	Un engagement collectif à améliorer l’accès à la santé de chacun
 
-Elixir s’est construit autour de cette idée que la santé est un équilibre de vie, fait d’interactions sociales, de protections et de santé personnelle.
+Le compagnon de santé Lixi s’est construit autour de cette idée que la santé est un équilibre de vie, fait d’interactions sociales, de protections et de santé personnelle.
 
 
-[🚎Rejoignez le mouvement et construisez avec nous les solutions du futur](https://heylixi.fr){: .btn-elixir}
+[🚎Rejoignez lixi et construisez avec nous les solutions du futur](https://heylixi.fr){: .btn-elixir}
 
 ---
 
