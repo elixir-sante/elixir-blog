@@ -15,6 +15,7 @@ author: elixir
 Les organismes complémentaires doivent désormais communiquer, à leurs clients et futurs clients, leurs frais de gestion détaillés ainsi que des informations sur le rapport entre les remboursements et les cotisations versées.  
 
 Cet effort de transparence est louable et vous permet de savoir où va votre argent. 
+
 ## C’est bien pour vous de connaître le détail des cotisations de la mutuelle ?
 L’assurance santé est un poste important de votre budget. Il est intéressant, au-delà des garanties, de jeter un œil sur l’utilisation de vos cotisations.
 
@@ -67,7 +68,7 @@ Cela signifie que pour 1 € versé, 97 cents sont reversés au titre des rembou
 Par exemple : « les frais de gestion représentent 20% des cotisations. »
 
 
-Chez Elixir, nous avons choisi la transparence et des frais réduits. Notre but est de construire avec vous l'assurance santé du futur, pas de nous assurer une rente.
+Chez Lixi, nous avons contruit une mutuelle qui prône la transparence et les frais réduits. Notre but est de construire avec vous l'assurance santé du futur, pas de nous assurer une rente.
 
 **Vous recherchez une bonne mutuelle, simple, efficace et transparente ?**
 
