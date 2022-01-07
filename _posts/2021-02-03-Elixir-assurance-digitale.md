@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/assurance-digitale.jpg
 navigation: True
-title: Elixir, une assurance santé 100% digitalisée 📲
+title: La mutuelle de Lixi, une assurance santé 100% digitalisée 📲
 excerpt:
 date: 2021-02-01 10:00:00
 tags: ["Pourquoi Elixir?"]
@@ -12,13 +12,13 @@ subclass: 'post'
 author: elixir
 ---
 
-Elixir est une offre d’assurance santé 100% en ligne, simple à comprendre, souscrire et utiliser.   
+Le compagnon de santé Lixi dispose de sa propre mutuelle, Elixir, une offre d’assurance santé 100% en ligne, simple à comprendre, souscrire et utiliser.   
 L’assurance **c’est bien** quand c’est rapide et compréhensible.   
 **C’est même très bien** quand on retrouve instantanément tous les services utiles dans son téléphone.
 
 Et si en bonus, ça élimine les frais inutiles, alors là... **on en viendrait presque à aimer l‘assurance.**
 
-## Elixir vous facilite l’assurance santé
+## La mutuelle de Lixi vous facilite l’assurance santé
 La première mission de l’assurance santé est de vous rembourser vos dépenses de santé, en complément de l’assurance maladie obligatoire.
 
 Notre mission :
@@ -26,7 +26,7 @@ Notre mission :
 - Vous expliquer simplement vos droits et garanties
 - Vous donner des outils pour trouver un professionnel, savoir à l’avance comment vous serez pris en charge
 
-Elixir optimise tout le circuit de remboursement, en jouant sur trois leviers :
+La mutuelle de Lixi optimise tout le circuit de remboursement, en jouant sur trois leviers :
 
 - On se connecte à votre caisse d’assurance maladie pour recevoir automatiquement les demandes de remboursement et ainsi vous rembourser très rapidement. Ça fonctionne quand le médecin à pris votre carte vitale.
 - On paie directement les professionnels de santé quand c’est possible, à la pharmacie, chez l’opticien et globalement chez tous ceux qui le souhaitent ; C’est le tiers payant, déclenché sur présentation de votre carte Elixir. 
@@ -41,7 +41,7 @@ Nos frais de gestion sont parmi les plus faibles du marché. La recette tient en
 - **Automatisation :** tout ce qui peut l’être est automatisé et simplifié. Vous êtes autonome pour gérer votre contrat santé. Et nous réservons du temps pour vous quand vous en avez vraiment besoin.
 
 | 90% des demandes de remboursement traitées automatiquement |
-|Transmission immédiate des factures « papier » via l’appli |
+|Transmission immédiate des factures « papier » via l’appli Lixi|
 |Toutes vos demandes dans une seule appli |	
 |80% de notre temps pour vous apporter les meilleures solutions santé |
 
@@ -54,7 +54,7 @@ Nos frais de gestion sont parmi les plus faibles du marché. La recette tient en
 
 ---
   
-##### Lire notre dossier complet : [Pourquoi Elixir ?]({{ site.baseurl }}tag/pourquoi-elixir)
+##### Lire notre dossier complet : [Pourquoi Lixi ?]({{ site.baseurl }}tag/pourquoi-elixir)
 
 ✅ [Une assurance santé 100% en ligne]({% post_url 2021-02-03-Elixir-assurance-digitale %})  
 ✅ [Une offre d’assurance santé simplifiée]({% post_url 2021-02-03-Elixir-Simplifier-l-assurance-sante %})  
