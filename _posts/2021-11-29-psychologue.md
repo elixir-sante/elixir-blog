@@ -54,7 +54,7 @@ Une fois que le processus a commencé, il n'est généralement pas aussi effraya
 
 
 
-[Je suis ma santé avec Lixi ](https://www.lixi-sante.fr/){: .btn-elixir}
+[Je suis ma santé avec Lixi ](https://www.heylixi.fr/){: .btn-elixir}
 ---
   
 ##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-sante-by-lixi)
