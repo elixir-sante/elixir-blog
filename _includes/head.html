@@ -1,5 +1,5 @@
 {% if page.content and page.current == 'post' or page.current == 'about' %}
-    {% assign excerpt = page.content | strip_html | truncatewords: 120, "" %}
+    {% assign excerpt = page.content | strip_html | truncate: 150 %}
  {% endif %} <!--title below is coming from _includes/dynamic_title-->
 
 <meta name="description" content="{% if excerpt %}{{ excerpt }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description_subtitle }}{% endif %}" />
