@@ -84,7 +84,7 @@ L’apport en vitamines peut parfois être complété par des compléments alime
 Dans tous les cas, avant de vous lancer, parlez-en au Doc. Il vous conseillera en fonction de votre profil personnel.
  
 
-[Je suis ma santé avec Lixi](https://heylixi.fr/){: .btn-elixir}
+[Je suis ma santé avec Lixi](https://www.heylixi.fr/){: .btn-elixir}
 
 ---
   
