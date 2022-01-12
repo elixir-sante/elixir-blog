@@ -108,6 +108,6 @@ Une fois que le processus a commencé, il n'est généralement pas aussi effraya
 
 **Être membre de Lixi, c’est prendre en main sa santé et également participer à un mouvement général d’amélioration de l’accès à la santé pour tous.**
 
-[Rejoignez le mouvement Lixi santé](https://heylixi.fr/){: .btn-elixir}
+[Rejoignez le mouvement Lixi santé](https://www.heylixi.fr/){: .btn-elixir}
 
 👍 Merci au professeur Nicolas Franck, à la psychiatre Elisabeth Pakin et à l’équipe Qookka pour leur aide à la rédaction de cet article.
