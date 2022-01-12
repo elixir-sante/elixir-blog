@@ -29,7 +29,7 @@ Suivez-nous, on vous raconte tout.
 Pour nous ***«Être en bonne santé, c’est vivre le mieux possible, en fonction de notre âge, de nos pathologies et de nos incapacités»***
 (Piochée dans l’ouvrage « santé » de Gaby Bonnand et Etienne Caniard).
 
-![C'est moi Lixi](/assets/images/lixi-happy.png)
+![C'est moi Lixi]({{ site.baseurl }}assets/images/lixi-happy.png)
 
 Notre vision habituelle de la santé, et de son assurance liée, tient dans la réparation des accidents et maladies auxquelles nous sommes confrontés. Si soigner est évidemment essentiel, ce n’est pas suffisant.  
 
