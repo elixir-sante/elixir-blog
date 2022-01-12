@@ -106,7 +106,7 @@ Nous avons besoin de vous, de vos suggestions et besoins.
 
 Et pour permettre au mouvement Elixir de prendre de l’ampleur, **vous pouvez commencer par cotiser utile.** 😉
 
-Le mieux c’est encore de nous rendre visite sur https://heylixi.fr et vous faire votre idée.
+Le mieux c’est encore de nous rendre visite sur https://www.heylixi.fr et vous faire votre idée.
 
 A bientôt pour découvrir les nouvelles potions sur lesquelles nous travaillons.
 
