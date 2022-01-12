@@ -83,7 +83,7 @@ On peut encore faire mieux, il vous suffit de nous dire sur quoi vous voulez que
 
 **Adopter le compagnon de santé Lixi, c’est prendre en main votre santé et participer à un mouvement général d’amélioration de la santé pour tous.**
 
-[Découvrez Lixi. Rendez-vous sur notre site](https://heylixi.fr/){: .btn-elixir}
+[Découvrez Lixi. Rendez-vous sur notre site](https://www.heylixi.fr/){: .btn-elixir}
 
 
 ---

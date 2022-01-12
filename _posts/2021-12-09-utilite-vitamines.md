@@ -80,7 +80,7 @@ Dans tous les cas, faites confiance à votre médecin. Il peut évaluer votre be
 
 
 
-[Je suis ma santé avec Lixi](https://heylixi.fr/){: .btn-elixir}
+[Je suis ma santé avec Lixi](https://www.heylixi.fr/){: .btn-elixir}
 
 ---
   

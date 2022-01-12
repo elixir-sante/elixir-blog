@@ -46,7 +46,7 @@ Il faut surveiller cet indicateur important de votre bonne santé.
 Pas de panique, votre compagnon de santé Lixi vous rappellera d'aller en parler au médecin de temps en temps.
 
 
-[Je suis ma santé avec Lixi ](https://www.lixi-sante.fr/){: .btn-elixir}
+[Je suis ma santé avec Lixi ](https://www.heylixi.fr/){: .btn-elixir}
 
 
 ---

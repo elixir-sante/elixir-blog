@@ -52,7 +52,7 @@ Maintenant que vous avez compris l’importance du cholestérol pour votre sant�
 Avec votre médecin, vous pourrez vérifier que votre taux de cholestérol est bon (et les autres taux aussi bien sûr). L’OMS recommande une prise de sang par an. 
 Pour ne pas l’oublier, votre compagnon de santé Lixi est là pour vous les rappeler de prendre soin de vous !
 
-[Je suis ma santé avec Lixi ](https://www.lixi-sante.fr/){: .btn-elixir}
+[Je suis ma santé avec Lixi ](https://wwwheylixi.fr/){: .btn-elixir}
 
 ---
   

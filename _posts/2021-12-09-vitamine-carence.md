@@ -87,7 +87,7 @@ Et quand vous voulez doper un peu votre corps, prenez un vrai avis professionnel
 
 
 
-[Je suis ma santé avec Lixi](https://www.lixi-sante.fr/){: .btn-elixir}
+[Je suis ma santé avec Lixi](https://www.heylixi.fr/){: .btn-elixir}
 
 ---
   
