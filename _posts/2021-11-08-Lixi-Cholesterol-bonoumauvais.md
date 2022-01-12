@@ -59,7 +59,7 @@ Limiter les produits frits et privilégier les huiles végétales pour la cuisso
 
 Si vous avez effectivement un excès de cholestérol qui pose problème et que votre médecin vous préconise des mesures d’hygiène de vie et de diététique,  [Lixi est là](https://www.lixi-sante.fr/)pour vous accompagner dans votre démarche vers de meilleures habitudes.
 
-[Je suis ma santé avec Lixi ](https://www.lixi-sante.fr/){: .btn-elixir}
+[Je suis ma santé avec Lixi ](https://www.heylixi.fr/){: .btn-elixir}
 
 
 ---
