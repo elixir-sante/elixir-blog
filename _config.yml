@@ -75,8 +75,8 @@ repo: jasper2
 branch: master
 relative_source: ../elixir-blog/
 destination: ./_site/
-production_url:  https://heylixi.fr/blog/
-source_url:  https://heylixi.fr/blog/
+production_url:  https://www.heylixi.fr/blog
+source_url:  https://www.heylixi.fr/blog
 
 exclude:
   - assets/css

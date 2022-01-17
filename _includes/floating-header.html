@@ -13,12 +13,12 @@
         <div class="floating-header-share-label">Partagez ça {% include point.html %}</div>
 
 
-        <a class="floating-header-share-li" href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.production_url }}{{ page.url | remove_first: '/' }}"
+        <a class="floating-header-share-li" href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.production_url }}{{ page.url }}"
             onclick="window.open(this.href, 'share-linkedinf', 'width=550,height=235');return false;">
             {% include linkedin.html %}
         </a>
 
-        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url | remove_first: '/' }}"
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url }}"
             onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
             {% include facebook.html %}
         </a>
