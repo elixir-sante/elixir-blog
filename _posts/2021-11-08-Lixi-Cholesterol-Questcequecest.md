@@ -51,7 +51,7 @@ Pas de panique, votre compagnon de santé Lixi vous rappellera d'aller en parler
 
 ---
   
-##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-sante-by-lixi)
+##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-sante-by-lixi/)
 
 
 ✅ [Le Cholestérol : Vraiment mauvais pour la santé ?]({% post_url 2021-11-08-Lixi-Cholesterol-bonoumauvais %})  

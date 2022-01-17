@@ -65,10 +65,10 @@ Nous croyons surtout que l'assurance santé n'est pas une assurance comme les au
 
 Pour aller plus loin : 
 
-<a href= "https://www.service-public.fr/particuliers/vosdroits/F20314">Service public - Résiliation à tout moment </a>
+<a href="https://www.service-public.fr/particuliers/vosdroits/F20314" target="_blank">Service public - Résiliation à tout moment</a>
 ---
  
-##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-lassurance-sante)
+##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-lassurance-sante/)
 
 ✅ [Votre contrat mutuelle santé est-il responsable ?]({% post_url 2021-02-03-Elixir-Assurance-responsable %})  
 ✅ [Votre médecin est-il OPTAM secteur 2 conventionné ?]({% post_url 2021-02-03-Elixir-assurance-optam %})  

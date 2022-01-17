@@ -14,7 +14,7 @@ author: elixir
 
 ---
 
-Nous sommes une startup E-santé née en 2020 dans le Val d’Oise... en plein confinement🌱 cultivée par ses deux fondateurs, Gaël et Jean-Noël.
+Nous sommes une startup E-santé née en 2020 dans le Val d’Oise... en plein confinement 🌱 cultivée par ses deux fondateurs, Gaël et Jean-Noël.
 Notre proposition est de vous aider à gérer plus facilement votre parcours de santé en commençant par vous proposer une nouvelle expérience autour de l’assurance santé.
 
 ## La story Elixir ou pourquoi se lancer dans la e-santé 

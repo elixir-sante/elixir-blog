@@ -84,7 +84,7 @@ Depuis janvier 2021, les choses évoluent et une partie des équipements audio e
 
 ---
 
-##### Lire notre dossier complet : [Pourquoi Elixir ?]({{ site.baseurl }}tag/pourquoi-elixir)
+##### Lire notre dossier complet : [Pourquoi Elixir ?]({{ site.baseurl }}tag/pourquoi-elixir/)
 
 ✅ [Une assurance santé 100% en ligne]({% post_url 2021-02-03-Elixir-assurance-digitale %})  
 ✅ [Une offre d’assurance santé simplifiée]({% post_url 2021-02-03-Elixir-Simplifier-l-assurance-sante %})  

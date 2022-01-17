@@ -64,7 +64,7 @@ Si vous avez effectivement un excès de cholestérol qui pose problème et que v
 
 ---
   
-##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-sante-by-lixi)
+##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-sante-by-lixi/)
 
 ✅ [Le Cholestérol : Savez-vous vraiment ce que c’est ?]({% post_url 2021-11-08-Lixi-Cholesterol-Questcequecest %})  
 ✅ [Lire le bilan Cholestérol de votre analyse de sang]({% post_url 2021-11-08-Lixi-Cholesterol-bilanlipidique %})  

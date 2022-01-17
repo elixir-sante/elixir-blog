@@ -54,7 +54,7 @@ Nos frais de gestion sont parmi les plus faibles du marché. La recette tient en
 
 ---
   
-##### Lire notre dossier complet : [Pourquoi Lixi ?]({{ site.baseurl }}tag/pourquoi-elixir)
+##### Lire notre dossier complet : [Pourquoi Lixi ?]({{ site.baseurl }}tag/pourquoi-elixir/)
 
 ✅ [Une assurance santé 100% en ligne]({% post_url 2021-02-03-Elixir-assurance-digitale %})  
 ✅ [Une offre d’assurance santé simplifiée]({% post_url 2021-02-03-Elixir-Simplifier-l-assurance-sante %})  

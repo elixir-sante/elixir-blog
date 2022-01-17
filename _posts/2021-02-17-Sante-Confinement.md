@@ -85,9 +85,9 @@ Serez-vous simplement assis dans une pièce (ou, de nos jours, lors d'un appel v
 
 Un étranger qui sait poser des questions précises, rechercher des modèles de comportement spécifiques et vous apprendre des façons plus productives de gérer votre vie. 
 
-***« En gros, c'est comme avoir une conversation profonde avec quelqu’un de bienveillant et neutre qui est à votre écoute sans jugement »***, dit le docteur Elisabeth Pakin, psychiatre. 
+**« En gros, c'est comme avoir une conversation profonde avec quelqu’un de bienveillant et neutre qui est à votre écoute sans jugement »**, dit le docteur Elisabeth Pakin, psychiatre. 
 
-***"Nous sommes attentifs à votre langage corporel et également à certains éléments auxquels une personne qui n'a pas de formation de thérapeute ne prêterait probablement pas attention".** 
+**"Nous sommes attentifs à votre langage corporel et également à certains éléments auxquels une personne qui n'a pas de formation de thérapeute ne prêterait probablement pas attention".** 
 
 C'est l'occasion de parler de ce que vous vivez et de ce que vous ressentez dans un endroit libre de tout jugement, avec quelqu'un qui est purement à l'écoute pour vous aider. C'est un temps qui vous est entièrement consacré, où vous pouvez traiter les facteurs de stress et parler des émotions confuses ou accablantes que vous vivez. 
 

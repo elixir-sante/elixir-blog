@@ -73,13 +73,13 @@ Sans médecin traitant : **Remboursement total = 23€**
 > Selon que vous sortiez du parcours de soin,  
 > ###### Différemment vous serez remboursé 
 
-Tout ce mécanisme est très complexe, alors... essayez notre [outil de simulation](https://www.heylixi.fr/mutuelle) et vous y verrez plus clair :
+Tout ce mécanisme est très complexe, alors... essayez notre [outil de simulation](https://www.heylixi.fr/mutuelle/) et vous y verrez plus clair :
 
-[Combien je serai remboursé avec mon médecin ?](https://www.heylixi.fr/mutuelle){: .btn-elixir}
+[Combien je serai remboursé avec mon médecin ?](https://www.heylixi.fr/mutuelle/){: .btn-elixir}
 
 ---
 
-##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-lassurance-sante)
+##### Lire notre dossier complet : [Comprendre l’assurance santé]({{ site.baseurl }}tag/comprendre-lassurance-sante/)
 
 ✅ [Votre contrat mutuelle santé est-il responsable ?]({% post_url 2021-02-03-Elixir-Assurance-responsable %})  
 ✅ [Votre médecin est-il OPTAM secteur 2 conventionné ?]({% post_url 2021-02-03-Elixir-assurance-optam %})  
