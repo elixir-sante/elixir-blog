@@ -6,7 +6,7 @@ cover: assets/images/compare-g0efe548ef_640.jpg
 navigation: True
 title: "5 conseils pour bien choisir sa mutuelle santé"
 excerpt: 
-date: 2022-03-03 10:00:00
+date: 2022-03-01 10:00:00
 tags: ["Comprendre l'assurance santé"]
 class: post-template
 subclass: 'post'
