@@ -57,7 +57,7 @@ La mutuelle doit rembourser ce qui est important pour vous, ce qui correspond à
 De bonnes garanties vous laissent un reste à charge nul ou modéré sur les dépenses importantes et vous permettent d’accéder à l’ensemble des professionnels de santé.
 Aujourd’hui, les médecines complémentaires ou douces sont très prisées et ont leur place dans une offre de mutuelle. Ne négligez pas ce point : ostéopathie, diététique, acupuncture sont des disciplines qui vous aident vraiment dans votre parcours de santé.
 
-**Le conseil Lixi : **
+**Le conseil Lixi :**
 
 Quand vous avez identifié vos priorités de santé et vos besoins, faites faire des comparatifs par des spécialistes. 
 
@@ -103,7 +103,7 @@ Choisissez une mutuelle ou un assureur en fonction de votre situation, de votre 
 
 Soyez prudent sur les offres où vous ne pouvez pas identifier clairement l'assureur.
 
-### Ces 5 conseils peuvent se résumer en Un seul. 
+### Ces 5 conseils peuvent se résumer en un seul : 
 
 ### Prenez le temps de vérifier ce dont vous avez vraiment besoin comme couverture et comparez.
 
