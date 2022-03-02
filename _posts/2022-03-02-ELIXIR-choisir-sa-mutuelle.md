@@ -31,7 +31,7 @@ La répartition moyenne de tous ces postes est faite comme ça :
 - Les remboursements de soins : 65 %
 
 Le point à surveiller est celui des frais de distribution. Plus il y a d’intermédiaires, comme un comparateur d’assurances, un courtier, puis un assureur, plus le prix sera élevé. Chacun apporte un service, mais parfois pour un coût exorbitant. 
-Ces frais peuvent parfois montent à 40 % de la cotisation.
+Ces frais peuvent parfois monter à 40 % de la cotisation.
 
 
 **Le conseil Lixi :** 
@@ -106,6 +106,8 @@ Soyez prudent sur les offres où vous ne pouvez pas identifier clairement l'assu
 ### Ces 5 conseils peuvent se résumer en un seul : 
 
 ### Prenez le temps de vérifier ce dont vous avez vraiment besoin comme couverture et comparez.
+
+
 
 [🚎Demandez à Lixi de vous aider à choisir ](https://www.heylixi.fr){: .btn-elixir}
 
