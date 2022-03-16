@@ -2,7 +2,7 @@
 
 layout: post
 current: post
-cover: assets/images/compare-g0efe548ef_640.jpg
+cover: assets/images/pexels-andres-ayrton-6551415.jpg
 navigation: True
 title: "Comment bien choisir sa mutuelle santé"
 excerpt: 
