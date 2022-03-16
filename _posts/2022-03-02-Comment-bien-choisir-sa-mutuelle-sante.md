@@ -4,7 +4,7 @@ layout: post
 current: post
 cover: assets/images/compare-g0efe548ef_640.jpg
 navigation: True
-title: "5 conseils pour bien choisir sa mutuelle santé"
+title: "Comment bien choisir sa mutuelle santé"
 excerpt: 
 date: 2022-03-01 10:00:00
 tags: ["Comprendre l'assurance santé"]
@@ -17,7 +17,7 @@ author: elixir
 Disposer d’une mutuelle est quasiment indispensable aujourd’hui. Hors maladies graves, la sécurité sociale ne prend en moyenne en charge que la moitié des dépenses de santé.
 Et comme la mutuelle est devenue une assurance chère, il est utile de bien faire son choix.
 
-## Le prix
+## Le prix : le premier critère pour bien choisir sa mutuelle santé
 
 Le prix d’une mutuelle est fait de plusieurs couches :
 
@@ -41,7 +41,7 @@ Vous pouvez aussi faire des demandes en direct sur les sites des assureurs.
 
 ### Une seule règle, Comparez ! 
 
-## Le niveau des garanties
+## Le choix de sa mutuelle santé dépend des garanties attendues
 
 Une mutuelle va venir compléter les remboursements de la sécurité sociale pour la majorité des soins. 
 
@@ -65,7 +65,7 @@ Comprendre une mutuelle n’est pas simple et dénicher celle qui vous convient 
 
 Vous pouvez commencer par faire analyser votre mutuelle actuelle, au regard de vos attentes et de votre budget.
 
-## Les services
+## Les services, un critère devenu essentiel dans le choix de sa mutuelle santé
 
 La mutuelle est un ensemble composé de garanties et de services. Les services prennent une place plus grande aujourd’hui.
 
@@ -78,7 +78,7 @@ La mutuelle est un ensemble composé de garanties et de services. Les services p
 Regardez bien ce que propose votre mutuelle. Bénéficier de bons services est un vrai avantage pour vous faciliter la vie. 
 Fuyez celles qui n’en proposent pas ou les cachent dans les petites lignes du contrat.
 
-## La relation client
+## La relation client, essentielle dans le choix de votre mutuelle santé
 
 Votre mutuelle doit être à votre écoute quand vous en avez besoin et vous apporter du service facilement. 
 
@@ -88,7 +88,7 @@ La digitalisation apporte beaucoup de souplesse dans la relation et vous permet 
 
 Privilégiez une mutuelle qui vous propose une application et/ou un espace adhérent sur son site. Cet espace vous permet de consulter vos remboursements, faire des demandes et profiter des services proposés.
 
-## Les valeurs
+## Les valeurs : choisissez la mutuelle santé alignée avec vos valeurs
 
 La santé n’est pas une assurance tout à fait comme les autres. 
 
@@ -105,11 +105,11 @@ Soyez prudent sur les offres où vous ne pouvez pas identifier clairement l'assu
 
 ### Ces 5 conseils peuvent se résumer en un seul : 
 
-### Prenez le temps de vérifier ce dont vous avez vraiment besoin comme couverture et comparez.
+### Pour bien choisir votre mutuelle santé, prenez le temps de vérifier ce dont vous avez vraiment besoin comme couverture et comparez.
 
 
 
-[🚎Demandez à Lixi de vous aider à choisir ](https://www.heylixi.fr){: .btn-elixir}
+[🚎Demandez à Lixi de vous aider à choisir votre mutuelle santé ](https://www.heylixi.fr){: .btn-elixir}
 
 ---
 
