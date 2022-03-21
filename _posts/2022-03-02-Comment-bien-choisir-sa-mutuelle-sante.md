@@ -11,6 +11,8 @@ tags: ["Comprendre l'assurance santé"]
 class: post-template
 subclass: 'post'
 author: elixir
+redirect_from:
+  - /ELIXIR-choisir-sa-mutuelle/
 
 ---
 
