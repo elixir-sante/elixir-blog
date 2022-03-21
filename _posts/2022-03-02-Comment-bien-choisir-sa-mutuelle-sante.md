@@ -17,6 +17,13 @@ author: elixir
 Disposer d’une mutuelle est quasiment indispensable aujourd’hui. Hors maladies graves, la sécurité sociale ne prend en moyenne en charge que la moitié des dépenses de santé.
 Et comme la mutuelle est devenue une assurance chère, il est utile de bien faire son choix.
 
+Pour bien choisir sa mutuelle santé, nous vous conseillons de passer en revue 5 critères :
+* son prix
+* ses niveaux de garantie
+* ses services complémentaires
+* son service client
+* ses valeurs
+
 ## Le prix : le premier critère pour bien choisir sa mutuelle santé
 
 Le prix d’une mutuelle est fait de plusieurs couches :
