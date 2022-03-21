@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem 'pygments.rb'
 gem "jekyll", '>=4.0'
 gem "jekyll-paginate"
 gem "jekyll-feed"
