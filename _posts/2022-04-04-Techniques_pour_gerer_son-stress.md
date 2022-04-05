@@ -33,7 +33,7 @@ Et si vous êtes seul, engagez la conversation avec les voisins, vous verrez ils
 En gardant la maîtrise de votre quotidien, vous avez le contrôle de votre mental. Vous créez des habitudes dont votre cerveau vous sera reconnaissant.
 Essayez en particulier de faire une chose à la fois et vous accorder cinq minutes pour souffler après avoir accompli une tâche.
 
-### 👟 Bougez, dansez, courrez... Il vous faut maintenir un niveau suffisant d’activité physique pour bien gérer votre stress
+### 👟 Bougez, dansez, courrez... Gardez un niveau suffisant d’activité physique pour bien gérer votre stress
 
 Mettez dans le programme de la journée la balade, les exercices de gym ou le tour en vélo
 Votre corps en a besoin pour évacuer les tensions et compenser grignotages et autres apéros
@@ -44,16 +44,18 @@ Eh oui ! pour aller bien dans sa tête, il faut aussi s'occuper de son corps.
 
 **Les troubles liés au stress chronique sont à prendre au sérieux et il est parfois rassurant de s’appuyer sur un professionnel de la santé mentale.**
 
-Parler avec un psychologue, c'est l'occasion de parler de ce que vous vivez et de ce que vous ressentez dans un endroit libre de tout jugement, avec quelqu'un qui est purement à l'écoute pour vous aider. C'est un temps qui vous est entièrement consacré, où vous pouvez traiter les facteurs de stress et parler des émotions confuses ou accablantes que vous vivez.
+Consulter un psychologue, c'est l'occasion de parler de ce que vous vivez et de ce que vous ressentez dans un endroit libre de tout jugement, avec quelqu'un qui est purement à l'écoute pour vous aider. C'est un temps qui vous est entièrement consacré, où vous pouvez traiter les facteurs de stress et parler des émotions confuses ou accablantes que vous vivez.
 
 ### Un dernier tips : Laissez Lixi vous accompagner pour bien gérer votre stress
 
 Lixi est votre compagnon digital de santé. Il évalue avec vous votre santé et met le doigt sur les points à travailler en priorité. Et comme une évaluation ne suffit pas, Lixi vous apporte aussi la prise en charge de ce qui est important.
+
+
+Lixi est gratuit pour vous aider à évaluer votre santé. Il peut vous apporter uune réelle prise en charge dans sa version Premium sur abonnement.
+
 * accès en illimité à un médecin en ligne, pour des conseils et aussi une véritable consultation sans vous déplacer
 * un assistant social dédié pour vous aider quand la vie se complique
 * des psychologues diplômés accessibles en ligne quand vous en avez besoin
-
-Lixi est gratui pour vous aider à évaluer votre santé et vous apporte uune réelle prise en charge dans sa version Premium sur abonnement.
 
 [J'évalue ma santé avec Lixi](https://www.heylixi.fr/){: .btn-elixir}
 
