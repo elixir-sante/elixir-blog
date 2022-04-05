@@ -24,7 +24,7 @@ Commençons par rappeler que c'est comme consulter un médecin en cabinet, sauf 
 
 Les principaux avantages de la consultation médicale en ligne avec Lixi :
 
-- ⌛ Le gain de temps : on accède à un médecin dans la journée, voire dans l'heure, contre plusieurs jours au mieux pour une consultation en cabinet. En 2 H, vous avez consulté, reçu votre diagnostic et une prescription et été cherché les médicaments à la pharmacie
+- ⌛ Le gain de temps : on accède à un médecin dans la journée, voire dans l'heure, contre plusieurs jours au mieux pour une consultation en cabinet. En 2 H, vous avez consulté, reçu votre diagnostic, une prescription et avez été cherché les médicaments à la pharmacie
 - 👂 le temps d'écoute du médecin :  Tout le temps de la consultation est utile et le médecin est forcémént plus à votre écoute. 
 - 💰 L'argent : Chez Lixi, nous disposons d'un service privé de consultation médicale en ligne. ça veut dire qu'avec votre abonnement Lixi Prémium, vos consultations sont 100% gratuites et illimitées.Et pas besoin de passer par le médecin traitant pour y accéder.
 
