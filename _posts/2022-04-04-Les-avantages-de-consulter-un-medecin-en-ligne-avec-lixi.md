@@ -15,7 +15,7 @@ author: elixir
 ---
 
 
-Vous avez déjà testé la consultation d'un médecin à distance ? Peut-être pas enocre, comme la majorité d'entre nous.
+Vous avez déjà testé la consultation d'un médecin à distance ? Peut-être pas encore, comme la majorité d'entre nous.
 Pourtant,c'est efficace, pratique et parfois, c'est même la seule alternative à la pénurie de médecins disponibles près de chez vous.
 
 ## Quels sont les avantages de la consultation médicale en ligne avec Lixi ?
