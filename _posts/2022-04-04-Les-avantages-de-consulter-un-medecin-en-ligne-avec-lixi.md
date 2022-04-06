@@ -52,7 +52,7 @@ Et si c'est votre souhait, il peut faire un compte rendu à votre médeicn trait
 La médecine, c'est du sérieux. Alros nous avons noué un partenariat avec Livi, une plateforme en ligne qui dispose de 300 médecins, tous diplômés et installés en France.
 Ce sont des médecins généralistes, en mesure d'intervenir sur tous les sujets de santé. En cas d'urgence, ils vous mettront en relation avec le SAMU, bien entendu.
 
-### lixi vous accompagne au quotidien, vous alerte sur des sujets de santé à prioriser et, quand vous le souhaitez, vous propose la prise en charge des services importants pour vous, comme l'accès facile à un médecin quand vous en avez besoin.
+### Lixi vous accompagne au quotidien, vous alerte sur des sujets de santé à prioriser et, quand vous le souhaitez, vous propose la prise en charge des services importants pour vous, comme l'accès facile à un médecin quand vous en avez besoin.
 
 [J'évalue ma santé avec Lixi](https://www.heylixi.fr/){: .btn-elixir}
 
