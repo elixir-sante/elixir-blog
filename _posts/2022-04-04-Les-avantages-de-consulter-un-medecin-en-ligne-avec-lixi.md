@@ -2,7 +2,7 @@
 
 layout: post
 current: post
-cover: assets/images/teleconsultation.jpg
+cover: assets/images/Teleconsultation.jpg
 navigation: True
 title: "Les avantages de consulter un médecin en ligne avec Lixi 🌡️"
 excerpt: 
