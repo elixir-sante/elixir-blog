@@ -61,6 +61,8 @@ Une fois que le processus a commencé, il n'est généralement pas aussi effraya
 
 ✅ [Comment savoir si je suis sujet au stress post-Covid ?]({% post_url 2021-11-24-Stress-covid %})  
 ✅ [Les techniques pour gérer son stress?]({% post_url 2022-04-04-Techniques_pour_gerer_son-stress %})
+✅ [Les avantages de consulter un médecin en ligne avec Lixi]({% post_url 2022-04-04-Les-avantages-de-consulter-un-medecin-en-ligne-avec-lixi %})
+
 
 
 
