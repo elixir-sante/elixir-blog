@@ -44,15 +44,15 @@ C'est 100% confidentiel et protégé par le secret médical.🤐
 
  **Et après la consultation médicale avec Lixi ?**
 
-Si c'est nécessaire, le médecin vous fait une ordonnance, un renouvellemeent de médicaments ou parfois même un arrêt de travail. 
-Et si c'est votre souhait, il peut faire un compte rendu à votre médeicn traitant.
+Si c'est nécessaire, le médecin vous fait une ordonnance, un renouvellement de médicaments ou parfois même un arrêt de travail. 
+Et si c'est votre souhait, il peut faire un compte rendu à votre médecin traitant.
 
 ## Qui sont les médecins accessibles depuis Lixi ? 
 
-La médecine, c'est du sérieux. Alros nous avons noué un partenariat avec Livi, une plateforme en ligne qui dispose de 300 médecins, tous diplômés et installés en France.
+La médecine, c'est du sérieux. Alors nous avons noué un partenariat avec Livi, une plateforme en ligne qui dispose de 300 médecins, tous diplômés et installés en France.
 Ce sont des médecins généralistes, en mesure d'intervenir sur tous les sujets de santé. En cas d'urgence, ils vous mettront en relation avec le SAMU, bien entendu.
 
-### Lixi vous accompagne au quotidien, vous alerte sur des sujets de santé à prioriser et, quand vous le souhaitez, vous propose la prise en charge des services importants pour vous, comme l'accès facile à un médecin quand vous en avez besoin.
+### Lixi vous accompagne au quotidien et vous alerte sur des sujets de santé à prioriser. Et, quand vous le souhaitez, Lixi vous propose la prise en charge des services importants pour vous, comme l'accès facile à un médecin quand vous en avez besoin.
 
 [J'évalue ma santé avec Lixi](https://www.heylixi.fr/){: .btn-elixir}
 
@@ -61,4 +61,4 @@ Ce sont des médecins généralistes, en mesure d'intervenir sur tous les sujets
 ##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-sante-by-lixi/)
 
 ✅ [Pourquoi consulter un psychologue?]({% post_url 2021-11-29-psychologue %})  
-✅ [Les techniques pour gérer son stress?]({% post_url 2022-04-04-Techniques_pour_gerer_son-stress %})
+✅ [Les techniques pour gérer son stress]({% post_url 2022-04-04-Techniques_pour_gerer_son-stress %})
