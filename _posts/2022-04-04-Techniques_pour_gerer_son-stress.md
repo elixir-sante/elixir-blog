@@ -72,3 +72,4 @@ Lixi est gratuit pour vous aider à évaluer votre santé. Il peut vous apporter
 
 ✅ [Pourquoi consulter un psychologue?]({% post_url 2021-11-29-psychologue %})  
 ✅ [Comment savoir si je suis sujet au stress post-Covid ?]({% post_url 2021-11-24-Stress-covid %}) 
+✅ [Les avantages de consulter un médecin en ligne avec Lixi]({% post_url 2022-04-04-Les-avantages-de-consulter-un-medecin-en-ligne-avec-lixi %})
