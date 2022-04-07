@@ -88,4 +88,7 @@ Une prise en charge financière des consultations dans le cadre de votre contrat
 ##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-sante-by-lixi/)
 
 ✅ [Pourquoi consulter un psychologue?]({% post_url 2021-11-29-psychologue %})  
-✅ [Les techniques pour gérer son stress?]({% post_url 2022-04-04-Techniques_pour_gerer_son-stress %})
+✅ [Les techniques pour gérer son stress]({% post_url 2022-04-04-Techniques_pour_gerer_son-stress %})
+✅ [Un assistant social rien que pour vous]({% post_url 2022-04-07-un-assistant-social-rien-que-pour-vous %})
+✅ [Les avantages de consulter un médecin en ligne avec Lixi]({% post_url 2022-04-04-Les-avantages-de-consulter-un-medecin-en-ligne-avec-lixi %})
+
