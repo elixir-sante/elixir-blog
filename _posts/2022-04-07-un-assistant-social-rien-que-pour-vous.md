@@ -62,3 +62,6 @@ Ils peuvent intervenir sur tous les sujets de votre quotidien
 
 ✅ [Pourquoi consulter un psychologue?]({% post_url 2021-11-29-psychologue %})  
 ✅ [Les techniques pour gérer son stress]({% post_url 2022-04-04-Techniques_pour_gerer_son-stress %})
+✅ [Les avantages de consulter un médecin en ligne avec Lixi]({% post_url 2022-04-04-Les-avantages-de-consulter-un-medecin-en-ligne-avec-lixi %})
+✅ [Etes-vous sujet au Stress post Covid ?]({% post_url 2021-11-24-Stress-covid %})
+
