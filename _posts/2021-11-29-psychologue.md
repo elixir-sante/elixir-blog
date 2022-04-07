@@ -58,11 +58,11 @@ Une fois que le processus a commencé, il n'est généralement pas aussi effraya
 ---
   
 ##### Lire notre dossier complet : [La santé by Lixi ]({{ site.baseurl }}tag/la-sante-by-lixi)
-
-✅ [Comment savoir si je suis sujet au stress post-Covid ?]({% post_url 2021-11-24-Stress-covid %})  
-✅ [Les techniques pour gérer son stress?]({% post_url 2022-04-04-Techniques_pour_gerer_son-stress %})
+ 
+✅ [Les techniques pour gérer son stress]({% post_url 2022-04-04-Techniques_pour_gerer_son-stress %})
+✅ [Un assistant social rien que pour vous]({% post_url 2022-04-07-un-assistant-social-rien-que-pour-vous %})
 ✅ [Les avantages de consulter un médecin en ligne avec Lixi]({% post_url 2022-04-04-Les-avantages-de-consulter-un-medecin-en-ligne-avec-lixi %})
-
+✅ [Etes-vous sujet au Stress post Covid ?]({% post_url 2021-11-24-Stress-covid %})
 
 
 
