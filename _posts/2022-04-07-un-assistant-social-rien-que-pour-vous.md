@@ -26,21 +26,21 @@ L’assistant social est le maillon indispensable permettant de comprendre et tr
 
 En effet, la vie n’est pas un long fleuve tranquille et parfois nous devons faire face à des difficultés difficiles à régler sans soutien.
 
-Problèmes de logement, finance, santé, aidants familiaux, divorce, harcèlement… Les situations de vie complexes peuvent tous nous concerner un jour ou l’autre et ce quelle que soit notre situation. Pour vous aider à surmonter ces difficultés, un(e) assistant(e) social(e) est la solution que SocialDirect met à votre portée via sa plateforme.
+Problèmes de logement, finance, santé, aidants familiaux, divorce, harcèlement… Les situations de vie complexes peuvent tous nous concerner un jour ou l’autre et ce quelle que soit notre situation. Pour vous aider à surmonter ces difficultés, un(e) assistant(e) social(e) est la solution que Lixi vous propose avec son partenaire Social Direct.
 
 Les principaux avantages de l'assistance sociale by Lixi :
 
 - ⌛ Le gain de temps : vous accédez à votre assistant social dans la journée, voire dans l'heure, contre plusieurs jours au mieux pour un rendez vous classique. 
 - 👂 La confidentialité :  Votre assistant social est tenu à la confidentialité et vous pouvez partager avec lui des informations très personnelles sans danger. 
-- 💰 L'argent : Chez Lixi, nous disposons d'un service privé d'assistance sociale en ligne. ça veut dire qu'avec votre abonnement Lixi Prémium, vos consultations sont 100% gratuites et illimitées.
+- 💰 L'argent : Chez Lixi, nous disposons d'un service privé d'assistance sociale en ligne. Ça veut dire qu'avec votre abonnement Lixi Prémium, vos consultations sont 100% gratuites et illimitées.
 
-⚠️ La mission  de l'assistant social est de vous aider à remettre votre vie en ordre. Il vous donne les outils pour ramener votre situation à l'équilibre. Le principe est de vous donner les moyens d'âgir, pas de faire à votre place. 
+⚠️ La mission  de l'assistant social est de vous aider à remettre votre vie en ordre. Il vous donne les outils pour ramener votre situation à l'équilibre. Le principe est de vous donner les moyens d'agir, pas de faire à votre place. 
 
 ## Un assistant social rien que pour vous, comment ça marche ?
 
  **🙆‍♀️ D'abord, vous souscrivez un abonnement Premium** qui vous donne accès aux médecins, psychologues et assistants sociaux dédiés.
 
-**📅 Ensuite, vous sélectionnez votre rendez-vous depuis l'application Lixi** et choisisssez le thème de votre consultation
+**📅 Ensuite, vous sélectionnez votre rendez-vous depuis l'application Lixi** et choisissez le thème de votre consultation
 
 **📱 Enfin, vous effectuez votre consultation en visio, via votre PC ou votre smartphone.** et vous pouvez continuer à échanger avec votre assistant social à l'issue de la consultation.
 
