@@ -42,7 +42,7 @@ Les principaux avantages de l'assistance sociale by Lixi :
 
 **📅 Ensuite, vous sélectionnez votre rendez-vous depuis l'application Lixi** et choisisssez le thème de votre consultation
 
-**📱 Enfin, vous effectuez votre consultation en visio, via votre PC ou votre smartphone.** et vous pouvez continuer à échanger avec votre assistant socialà l'issue de la consultation.
+**📱 Enfin, vous effectuez votre consultation en visio, via votre PC ou votre smartphone.** et vous pouvez continuer à échanger avec votre assistant social à l'issue de la consultation.
 
 C'est 100% confidentiel et protégé par le secret professionnel.🤐
 
