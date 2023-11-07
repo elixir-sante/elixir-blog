@@ -32,3 +32,9 @@ la-sante-by-lixi:
   url: la-sante-by-lixi
   description: Rendons les questions de santé plus simples
   cover: False
+
+  lixi_for_team:
+  name: Lixi for team
+  url: lixi-for-team  
+  description: Lixi favorise la bonne santé des salariés
+  cover: False
