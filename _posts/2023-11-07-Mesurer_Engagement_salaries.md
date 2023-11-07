@@ -47,10 +47,14 @@ Vous voulez tester le niveau d’engagement de vos salariés ?
 
 
 Chez Lixi, nous vous apportons tous les moyens de gérer la santé de votre collectif
+
 Des outils pour mesurer en continu la bonne santé de chaque salarié,
+
 Une clinique virtuelle pour aider les salariés qui en ont besoin
+
 Des indicateurs pour suivre la bonne santé de l'équipe et détecter très tôt les problèmes dans l'organisation
-Être membre de Lixi for Team, c’est prendre en main la santé de son personnel et participer à un mouvement général d’amélioration de la santé pour tous.
+
+**Être membre de Lixi for Team, c’est prendre en main la santé de son personnel et participer à un mouvement général d’amélioration de la santé pour tous.**
 
 
 
