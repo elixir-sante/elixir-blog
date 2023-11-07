@@ -7,7 +7,7 @@ navigation: True
 title: "Et vous, vous faites comment pour mesurer le niveau d'engagement de vos salariés ?🌡️"
 excerpt: 
 date: 2023-11-07 10:00:00
-tags: ["Lixi_for_team"]
+tags: ["Lixi-for-team"]
 class: post-template
 subclass: 'post'
 author: elixir
@@ -43,6 +43,7 @@ Il existe plusieurs méthodes pour évaluer l'engagement des salariés, qui peuv
 **Quelle que soit la méthode utilisée, il nous paraît essentiel de communiquer les résultats obtenus aux salariés, de les associer à la définition des axes d'amélioration, et de mettre en œuvre des actions concrètes et suivies pour renforcer leur engagement.**
 
 Vous voulez tester le niveau d’engagement de vos salariés ? 
+
 [Je mesure l'engagement de mon équipe avec Lixi](https://www.heylixi.fr/lixi-for-team/){: .btn-elixir}
 
 
