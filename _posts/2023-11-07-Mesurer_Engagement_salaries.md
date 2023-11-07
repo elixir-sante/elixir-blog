@@ -2,7 +2,7 @@
 
 layout: post
 current: post
-cover: assets/images/mesure.jpg
+cover: assets/images/mesurer.jpg
 navigation: True
 title: "Et vous, vous faites comment pour mesurer le niveau d'engagement de vos salariés ?🌡️"
 excerpt: 
