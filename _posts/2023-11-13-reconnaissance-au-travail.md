@@ -76,7 +76,7 @@ Des indicateurs pour suivre la bonne santé de l'équipe et détecter très tôt
   
 ##### Lire notre dossier complet : [lixi-for-team]({{ site.baseurl }}tag/lixi-for-team/)
 
-✅ [Mesurer l'engagement des salariés?]({% post_url 2023-11-07-Mesurer_Engagement_salaries.md %})  
+✅ [Mesurer l'engagement des salariés?]({% post_url 2023-11-07-Mesurer_Engagement_salaries %})  
 
 
 
