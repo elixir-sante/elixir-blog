@@ -15,7 +15,9 @@ author: elixir
 ---
 
 ☑️ Vous vous sentez apprécié(e) par votre employeur, vos collègues, vos clients ? 
+
 ☑️ Vous avez le sentiment de contribuer à quelque chose d'important, de faire la différence ?
+
 ☑️ Vous êtes fier(ère) de ce que vous accomplissez au quotidien ? 
 
 Si vous avez répondu oui à ces questions, vous bénéficiez probablement d'un bon niveau de reconnaissance au travail. 
