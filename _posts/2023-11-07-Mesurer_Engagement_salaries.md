@@ -58,4 +58,8 @@ Des indicateurs pour suivre la bonne santé de l'équipe et détecter très tôt
 **Être membre de Lixi for Team, c’est prendre en main la santé de son personnel et participer à un mouvement général d’amélioration de la santé pour tous.**
 
 
+---
+  
+##### Lire notre dossier complet : [lixi-for-team]({{ site.baseurl }}tag/lixi-for-team/)
 
+✅ [La reconnaissance au travail?]({% post_url 2023-11-13-reconnaissance-au-travail.md %})  
