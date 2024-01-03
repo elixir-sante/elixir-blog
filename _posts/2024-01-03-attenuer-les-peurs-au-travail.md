@@ -12,6 +12,8 @@ class: post-template
 subclass: 'post'
 author: elixir
 
+---
+
 Découvrez l’impact des peurs liées au travail et comment les surmonter pour une équipe épanouie et une carrière réussie. Ne manquez pas notre article !
 
 ## 87% des salariés souffrent de peurs liées au travail : pourquoi est-ce si alarmant ?
