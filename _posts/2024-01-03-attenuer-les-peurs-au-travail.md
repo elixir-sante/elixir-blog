@@ -2,7 +2,7 @@
 
 layout: post
 current: post
-cover: assets/images/jason-goodman-Oalh2MojUuk-unsplash.jpg
+cover: assets/images/jasongoodman.jpg
 navigation: True
 title: "Comment atténuer les peurs liées au travail et favoriser un environnement sain ? "
 excerpt: 
