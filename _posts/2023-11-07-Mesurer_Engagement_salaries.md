@@ -62,4 +62,7 @@ Des indicateurs pour suivre la bonne santé de l'équipe et détecter très tôt
   
 ##### Lire notre dossier complet : [lixi-for-team]({{ site.baseurl }}tag/lixi-for-team/)
 
-✅ [La reconnaissance au travail?]({% post_url 2023-11-13-reconnaissance-au-travail %})  
+✅ [La reconnaissance au travail]({% post_url 2023-11-13-reconnaissance-au-travail %})  
+✅ [Mesurer l'engagement des salariés]({% post_url 2023-11-07-Mesurer_Engagement_salaries %}) 
+✅ [10 gestes pour améliorer votre qualité de vie au travail]({% post_url 2024-01-18-ameliorer-votre-bien-etre-au-travail %})  
+
