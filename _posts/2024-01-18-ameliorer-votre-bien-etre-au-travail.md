@@ -15,7 +15,9 @@ author: elixir
 ---
 
 Vous êtes salarié(e), agent(e) ou encore bénévole dans une association. Votre qualité de vie au travail dépend en partie de vous. 
-Travailler dans un environnement sain et épanouissant est essentiel pour notre bien-être au travail. En effet, le bonheur et la satisfaction au travail sont fortement liés à notre productivité et à notre épanouissement personnel. Dans cet article, nous allons explorer 10 gestes simples que vous pouvez adopter facilement pour améliorer votre bien-être au travail, favoriser la qualité de vie au travail (QVT) et ainsi booster votre productivité.
+Travailler dans un environnement sain et épanouissant est essentiel pour notre bien-être au travail. En effet, le bonheur et la satisfaction au travail sont fortement liés à notre productivité et à notre épanouissement personnel. 
+
+Dans cet article, nous allons explorer 10 gestes simples que vous pouvez adopter facilement pour améliorer votre bien-être au travail, favoriser la qualité de vie au travail (QVT) et ainsi booster votre productivité.
 
 ## ✅Priorisez votre bien-être
 
@@ -37,15 +39,15 @@ La reconnaissance est un puissant levier pour améliorer le bien-être au travai
 
 ## ✅Favorisez la flexibilité
 
-La flexibilité dans l'organisation du travail est devenue essentielle. Dans la limite de ce que vous permet votre travail; adaptez votre temps de travail et vos déplacements pour les rendre compatibles avec votre rythme propre et vos contraintes personnelles . Cette flexibilité permet de concilier vie professionnelle et vie personnelle, ce qui réduit le stress et contribue grandement au bien-être au travail. Des horaires flexibles favorisent également la concentration et la motivation, ce qui améliore la productivité globale.
+La flexibilité dans l'organisation du travail est devenue essentielle. Dans la limite de ce que vous permet votre travail, adaptez votre temps de travail et vos déplacements pour les rendre compatibles avec votre rythme propre et vos contraintes personnelles . Cette flexibilité permet de concilier vie professionnelle et vie personnelle, ce qui réduit le stress et contribue grandement au bien-être au travail. Des horaires flexibles favorisent également la concentration et la motivation, ce qui améliore la productivité globale.
 
-💡”Je suis plutôt du matin. En télétravail, je me lève très tôt pour gérer les tâchez qui demandent du calme et de la réflexion et je garde du temps dans la journée pour m’occuper de ma famille”
+💡”Je suis plutôt du matin. En télétravail, je me lève très tôt pour gérer les tâches qui demandent du calme et de la réflexion et je garde du temps dans la journée pour m’occuper de ma famille”
 
 ## ✅Créez vous un environnement de travail agréable
 
 Veillez à ce que votre espace de travail soit agréable et propice à la productivité. Un bureau bien aménagé, une décoration harmonieuse, des plantes vertes et une lumière naturelle contribuent à créer une atmosphère de travail positive.
 
-💡”Je range mon bureau chaque soir avant de partir. ça me permet de bien clore ma journée et de démarrer la suivante de la meilleure des façons”
+💡”Je range mon bureau chaque soir avant de partir. Ca me permet de bien clore ma journée et de démarrer la suivante de la meilleure des façons”
 
 ## ✅Investissez dans votre développement personnel
 
@@ -69,7 +71,7 @@ Fixez vous des limites pour ne pas passer à côté des moments importants de vo
 
 ## ✅Adoptez un mode de vie plus sain
 
-Un mode de vie sain joue un rôle fondamental dans le bien-être au travail. Faites attention à adopter une alimentation équilibrée, pratiquer une activité physique régulière et recherchez les conditions d’un sommeil de qualité.. Un mode de vie sain améliore l'énergie, la résistance au stress et la motivation au travail.
+Un mode de vie sain joue un rôle fondamental dans le bien-être au travail. Faites attention à adopter une alimentation équilibrée, pratiquer une activité physique régulière et recherchez les conditions d’un sommeil de qualité. Un mode de vie sain améliore l'énergie, la résistance au stress et la motivation au travail.
 Comme vous pourriez vous préparer pour une compétition sportive, préparez vous pour gérer au mieux votre activité professionnelle.
 
 💡”Quand je suis en télétravail, j’en profite pour manger léger et fait maison et aussi garder un moment pour aller marcher ou courir.”
