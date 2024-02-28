@@ -4,7 +4,7 @@ layout: post
 current: post
 cover: assets/images/pexels-yan-krukau-7640814.jpg
 navigation: True
-title: "Harcèlement au Travail : Analyse des Chiffres, des Études et des Solutions "
+title: "Harcèlement au Travail : Analyse des Chiffres, des Études et des Solutions"
 excerpt: 
 date: 2024-02-27 10:00:00
 tags: ["lixi-for-team"]
