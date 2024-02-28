@@ -14,6 +14,7 @@ author: elixir
  
 ---
 
+
 Le harcèlement au travail constitue une réalité préoccupante dans de nombreuses organisations à travers le monde, engendrant des conséquences néfastes sur la santé mentale des employés et la productivité des entreprises. Dans cet article, nous plongerons dans les données chiffrées et les résultats d'études récentes sur le harcèlement au travail, tout en proposant des solutions concrètes pour y remédier.
 
 ## 1. L'étendue du problème :
