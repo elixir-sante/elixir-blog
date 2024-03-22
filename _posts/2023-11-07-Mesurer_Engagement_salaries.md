@@ -7,7 +7,7 @@ navigation: True
 title: "Et vous, vous faites comment pour mesurer le niveau d'engagement de vos salariés ?🌡️"
 excerpt: 
 date: 2023-11-07 10:00:00
-tags: ["lixi-for-team"]
+tags: ["Lixi for Team"]
 class: post-template
 subclass: 'post'
 author: elixir

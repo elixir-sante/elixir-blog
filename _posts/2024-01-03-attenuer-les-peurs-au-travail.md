@@ -7,7 +7,7 @@ navigation: True
 title: "Comment atténuer les peurs liées au travail et favoriser un environnement sain ? "
 excerpt: 
 date: 2024-01-03 10:00:00
-tags: ["lixi-for-team"]
+tags: ["Lixi for Team"]
 class: post-template
 subclass: 'post'
 author: elixir

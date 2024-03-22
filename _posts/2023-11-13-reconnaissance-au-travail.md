@@ -7,7 +7,7 @@ navigation: True
 title: "La reconnaissance au travail, comment ça marche ? "
 excerpt: 
 date: 2023-11-13 10:00:00
-tags: ["lixi-for-team"]
+tags: ["Lixi for Team"]
 class: post-template
 subclass: 'post'
 author: elixir

@@ -7,7 +7,7 @@ navigation: True
 title: "10 gestes simples pour améliorer votre bien-être au travail et booster votre productivité "
 excerpt: 
 date: 2024-01-18 10:00:00
-tags: ["lixi-for-team"]
+tags: ["Lixi for Team"]
 class: post-template
 subclass: 'post'
 author: elixir

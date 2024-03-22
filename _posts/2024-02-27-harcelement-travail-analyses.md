@@ -7,7 +7,7 @@ navigation: True
 title: "Harcèlement au Travail : Analyse des Chiffres, des Études et des Solutions"
 excerpt: 
 date: 2024-02-27 10:00:00
-tags: ["lixi-for-team"]
+tags: ["Lixi for Team"]
 class: post-template
 subclass: 'post'
 author: elixir

@@ -6,7 +6,7 @@ cover: assets/images/friends.jpg
 navigation: True
 title: "Les techniques pour gérer son stress ?  🌡️"
 excerpt: 
-date: 2022-04-04' 10:00:00
+date: 2022-04-04 10:00:00
 tags: ["La santé by Lixi"]
 class: post-template
 subclass: 'post'
