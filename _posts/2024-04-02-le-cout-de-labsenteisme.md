@@ -2,7 +2,7 @@
 
 layout: post
 current: post
-cover: assets/images/interieur-d-un-bureau-vide.jpg
+cover: assets/images/bureau-vide.jpg
 navigation: True
 title: "Les Causes de l'Absentéisme en Entreprise : Un Examen Approfondi"
 excerpt: 
