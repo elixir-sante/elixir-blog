@@ -14,7 +14,7 @@ description: "Le blog de Lixi, le compagnon de santé qui prend soin de vous."
 description_subtitle: "Ce blog, c’est le coin de l’équipe Lixi pour papoter. On vous parle de votre santé, votre budget, vos assurances et aussi un peu de nous."
 cover: assets/images/background.png
 logo: assets/images/lixi-logo.png
-logo_hero: assets/images/lixi-logo@2x.png
+logo_hero: assets/images/lixi-logo.png
 logo_dark: assets/images/favico-lixi.png
 favicon: assets/images/favico-lixi.png
 CNAME: #add cname for website to be created
